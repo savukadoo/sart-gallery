@@ -1,0 +1,12 @@
+{
+  "name": "Mbed TLS native Art client",
+  "version": "3.6.7",
+  "archiveSha256": "a7e8bcbec0e6f761b4af24f25677626b35f762f68eef79c08677a363212d11f6",
+  "sha256": "711e485260dd203b6edc584e13f040d30d628dbb8aecec58446a300944318e47",
+  "bytes": 105993,
+  "protocol": "TLS 1.2 ECDHE AES-GCM",
+  "authentication": "Exact Samsung Content Sharing Service certificate pin; validity checked by host",
+  "runtimeDownloads": false,
+  "license": "Apache-2.0",
+  "source": "https://github.com/Mbed-TLS/mbedtls/releases/tag/mbedtls-3.6.7"
+}

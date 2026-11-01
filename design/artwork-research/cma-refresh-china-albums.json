@@ -1,0 +1,2864 @@
+{
+  "info": {
+    "total": 306,
+    "parameters": {
+      "skip": 0,
+      "limit": 60,
+      "type": "Painting",
+      "q": "album",
+      "cc0": "1",
+      "culture": "China",
+      "has_image": "1",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,classification_type,collection,gallery,department",
+      "classification_type": "Painting",
+      "search": "album"
+    }
+  },
+  "data": [
+    {
+      "id": 132841,
+      "accession_number": "1955.302.8",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf H (previous leaf 8)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.8/1955.302.8_web.jpg",
+          "width": "677",
+          "height": "893",
+          "filesize": "450647",
+          "filename": "1955.302.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.8/1955.302.8_print.jpg",
+          "width": "2576",
+          "height": "3400",
+          "filesize": "6369108",
+          "filename": "1955.302.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.8/1955.302.8_full.tif",
+          "width": "3209",
+          "height": "4235",
+          "filesize": "40802284",
+          "filename": "1955.302.8_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132835,
+      "accession_number": "1955.302.2",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf D (previous leaf 2)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.2/1955.302.2_web.jpg",
+          "width": "675",
+          "height": "893",
+          "filesize": "459484",
+          "filename": "1955.302.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.2/1955.302.2_print.jpg",
+          "width": "2571",
+          "height": "3400",
+          "filesize": "6479624",
+          "filename": "1955.302.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.2/1955.302.2_full.tif",
+          "width": "3192",
+          "height": "4221",
+          "filesize": "40454700",
+          "filename": "1955.302.2_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132837,
+      "accession_number": "1955.302.4",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf A (previous leaf 4)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.4",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.4/1955.302.4_web.jpg",
+          "width": "674",
+          "height": "893",
+          "filesize": "486593",
+          "filename": "1955.302.4_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.4/1955.302.4_print.jpg",
+          "width": "2566",
+          "height": "3400",
+          "filesize": "6745068",
+          "filename": "1955.302.4_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.4/1955.302.4_full.tif",
+          "width": "3222",
+          "height": "4269",
+          "filesize": "41297892",
+          "filename": "1955.302.4_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132840,
+      "accession_number": "1955.302.7",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf G (previous leaf 7)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.7",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.7/1955.302.7_web.jpg",
+          "width": "678",
+          "height": "893",
+          "filesize": "438462",
+          "filename": "1955.302.7_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.7/1955.302.7_print.jpg",
+          "width": "2583",
+          "height": "3400",
+          "filesize": "6419147",
+          "filename": "1955.302.7_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.7/1955.302.7_full.tif",
+          "width": "3232",
+          "height": "4254",
+          "filesize": "41279316",
+          "filename": "1955.302.7_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148237,
+      "accession_number": "1975.22.2",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 2",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.2/1975.22.2_web.jpg",
+          "width": "864",
+          "height": "893",
+          "filesize": "610145",
+          "filename": "1975.22.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.2/1975.22.2_print.jpg",
+          "width": "3288",
+          "height": "3400",
+          "filesize": "8486225",
+          "filename": "1975.22.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.2/1975.22.2_full.tif",
+          "width": "6027",
+          "height": "6232",
+          "filesize": "112701860",
+          "filename": "1975.22.2_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 152821,
+      "accession_number": "1985.71",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects",
+      "creation_date": "1788",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "Album of twelve leaves; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1985.71",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71/1985.71_web.jpg",
+          "width": "571",
+          "height": "900",
+          "filesize": "209880",
+          "filename": "1985.71_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71/1985.71_print.jpg",
+          "width": "2156",
+          "height": "3400",
+          "filesize": "2733153",
+          "filename": "1985.71_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71/1985.71_full.tif",
+          "width": "4131",
+          "height": "6516",
+          "filesize": "80778532",
+          "filename": "1985.71_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31140,
+          "description": "Min Zhen (Chinese, 1730–after 1788)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "閔貞",
+          "birth_year": "1730",
+          "death_year": "1788",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132926,
+      "accession_number": "1955.37.4",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: The Stream of Wuling",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.4",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.4/1955.37.4_web.jpg",
+          "width": "1133",
+          "height": "893",
+          "filesize": "782505",
+          "filename": "1955.37.4_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.4/1955.37.4_print.jpg",
+          "width": "3400",
+          "height": "2679",
+          "filesize": "7857097",
+          "filename": "1955.37.4_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.4/1955.37.4_full.tif",
+          "width": "5368",
+          "height": "4230",
+          "filesize": "68149912",
+          "filename": "1955.37.4_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148238,
+      "accession_number": "1975.22.3",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 3",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.3",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.3/1975.22.3_web.jpg",
+          "width": "1263",
+          "height": "662",
+          "filesize": "651782",
+          "filename": "1975.22.3_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.3/1975.22.3_print.jpg",
+          "width": "3400",
+          "height": "1782",
+          "filesize": "5641038",
+          "filename": "1975.22.3_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.3/1975.22.3_full.tif",
+          "width": "6389",
+          "height": "3350",
+          "filesize": "64239672",
+          "filename": "1975.22.3_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132838,
+      "accession_number": "1955.302.5",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf F (previous leaf 5)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.5",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.5/1955.302.5_web.jpg",
+          "width": "673",
+          "height": "893",
+          "filesize": "478196",
+          "filename": "1955.302.5_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.5/1955.302.5_print.jpg",
+          "width": "2563",
+          "height": "3400",
+          "filesize": "6563612",
+          "filename": "1955.302.5_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.5/1955.302.5_full.tif",
+          "width": "3215",
+          "height": "4264",
+          "filesize": "41160192",
+          "filename": "1955.302.5_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132919,
+      "accession_number": "1955.37",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "Album of twelve leaves; ink or ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37/1955.37_web.jpg",
+          "width": "1167",
+          "height": "893",
+          "filesize": "673277",
+          "filename": "1955.37_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37/1955.37_print.jpg",
+          "width": "3400",
+          "height": "2601",
+          "filesize": "6704486",
+          "filename": "1955.37_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37/1955.37_full.tif",
+          "width": "5699",
+          "height": "4360",
+          "filesize": "74570072",
+          "filename": "1955.37_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132836,
+      "accession_number": "1955.302.3",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf E (previous leaf 3)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.3",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.3/1955.302.3_web.jpg",
+          "width": "673",
+          "height": "893",
+          "filesize": "483699",
+          "filename": "1955.302.3_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.3/1955.302.3_print.jpg",
+          "width": "2562",
+          "height": "3400",
+          "filesize": "6784407",
+          "filename": "1955.302.3_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.3/1955.302.3_full.tif",
+          "width": "3220",
+          "height": "4272",
+          "filesize": "41301828",
+          "filename": "1955.302.3_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148233,
+      "accession_number": "1975.22",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album of ten leaves; ink and light color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22/1975.22_web.jpg",
+          "width": "870",
+          "height": "893",
+          "filesize": "774808",
+          "filename": "1975.22_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22/1975.22_print.jpg",
+          "width": "3312",
+          "height": "3400",
+          "filesize": "12891488",
+          "filename": "1975.22_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22/1975.22_full.tif",
+          "width": "4844",
+          "height": "4972",
+          "filesize": "72290068",
+          "filename": "1975.22_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132834,
+      "accession_number": "1955.302.1",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf B (previous leaf 1)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.1",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.1/1955.302.1_web.jpg",
+          "width": "757",
+          "height": "893",
+          "filesize": "541561",
+          "filename": "1955.302.1_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.1/1955.302.1_print.jpg",
+          "width": "2884",
+          "height": "3400",
+          "filesize": "7514850",
+          "filename": "1955.302.1_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.1/1955.302.1_full.tif",
+          "width": "3595",
+          "height": "4238",
+          "filesize": "45741340",
+          "filename": "1955.302.1_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132839,
+      "accession_number": "1955.302.6",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf C (previous leaf 6)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.6",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.6/1955.302.6_web.jpg",
+          "width": "675",
+          "height": "893",
+          "filesize": "428645",
+          "filename": "1955.302.6_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.6/1955.302.6_print.jpg",
+          "width": "2569",
+          "height": "3400",
+          "filesize": "6336716",
+          "filename": "1955.302.6_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.6/1955.302.6_full.tif",
+          "width": "3232",
+          "height": "4277",
+          "filesize": "41502208",
+          "filename": "1955.302.6_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132833,
+      "accession_number": "1955.302",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "Album of eight leaves; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302/1955.302_web.jpg",
+          "width": "636",
+          "height": "893",
+          "filesize": "516091",
+          "filename": "1955.302_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302/1955.302_print.jpg",
+          "width": "2421",
+          "height": "3400",
+          "filesize": "8664132",
+          "filename": "1955.302_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302/1955.302_full.tif",
+          "width": "4002",
+          "height": "5620",
+          "filesize": "67508220",
+          "filename": "1955.302_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148243,
+      "accession_number": "1975.22.8",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 8",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.8/1975.22.8_web.jpg",
+          "width": "1263",
+          "height": "662",
+          "filesize": "674076",
+          "filename": "1975.22.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.8/1975.22.8_print.jpg",
+          "width": "3400",
+          "height": "1781",
+          "filesize": "5683589",
+          "filename": "1975.22.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.8/1975.22.8_full.tif",
+          "width": "6390",
+          "height": "3349",
+          "filesize": "64230728",
+          "filename": "1975.22.8_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148235,
+      "accession_number": "1975.22.10",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 10",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.10",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.10/1975.22.10_web.jpg",
+          "width": "870",
+          "height": "893",
+          "filesize": "657816",
+          "filename": "1975.22.10_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.10/1975.22.10_print.jpg",
+          "width": "3314",
+          "height": "3400",
+          "filesize": "9340084",
+          "filename": "1975.22.10_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.10/1975.22.10_full.tif",
+          "width": "6059",
+          "height": "6216",
+          "filesize": "113009300",
+          "filename": "1975.22.10_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148244,
+      "accession_number": "1975.22.9",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 9",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.9",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.9/1975.22.9_web.jpg",
+          "width": "1263",
+          "height": "662",
+          "filesize": "671932",
+          "filename": "1975.22.9_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.9/1975.22.9_print.jpg",
+          "width": "3400",
+          "height": "1782",
+          "filesize": "5696328",
+          "filename": "1975.22.9_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.9/1975.22.9_full.tif",
+          "width": "6389",
+          "height": "3349",
+          "filesize": "64220388",
+          "filename": "1975.22.9_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148241,
+      "accession_number": "1975.22.6",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 6",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.6",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.6/1975.22.6_web.jpg",
+          "width": "1263",
+          "height": "662",
+          "filesize": "667173",
+          "filename": "1975.22.6_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.6/1975.22.6_print.jpg",
+          "width": "3400",
+          "height": "1781",
+          "filesize": "5655502",
+          "filename": "1975.22.6_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.6/1975.22.6_full.tif",
+          "width": "6390",
+          "height": "3349",
+          "filesize": "64230640",
+          "filename": "1975.22.6_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149603,
+      "accession_number": "1979.27",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "Double album with twenty-two leaves; ink or ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27/1979.27_web.jpg",
+          "width": "759",
+          "height": "900",
+          "filesize": "211631",
+          "filename": "1979.27_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27/1979.27_print.jpg",
+          "width": "2868",
+          "height": "3400",
+          "filesize": "2577503",
+          "filename": "1979.27_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27/1979.27_full.tif",
+          "width": "3870",
+          "height": "4588",
+          "filesize": "53292020",
+          "filename": "1979.27_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148239,
+      "accession_number": "1975.22.4",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 4",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.4",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.4/1975.22.4_web.jpg",
+          "width": "1263",
+          "height": "662",
+          "filesize": "655180",
+          "filename": "1975.22.4_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.4/1975.22.4_print.jpg",
+          "width": "3400",
+          "height": "1782",
+          "filesize": "5652337",
+          "filename": "1975.22.4_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.4/1975.22.4_full.tif",
+          "width": "6389",
+          "height": "3350",
+          "filesize": "64239612",
+          "filename": "1975.22.4_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148240,
+      "accession_number": "1975.22.5",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 5",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.5",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.5/1975.22.5_web.jpg",
+          "width": "900",
+          "height": "472",
+          "filesize": "150884",
+          "filename": "1975.22.5_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.5/1975.22.5_print.jpg",
+          "width": "3400",
+          "height": "1782",
+          "filesize": "2068628",
+          "filename": "1975.22.5_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.5/1975.22.5_full.tif",
+          "width": "6390",
+          "height": "3350",
+          "filesize": "64249672",
+          "filename": "1975.22.5_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148242,
+      "accession_number": "1975.22.7",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 7",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.7",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.7/1975.22.7_web.jpg",
+          "width": "1263",
+          "height": "662",
+          "filesize": "671607",
+          "filename": "1975.22.7_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.7/1975.22.7_print.jpg",
+          "width": "3400",
+          "height": "1782",
+          "filesize": "5672123",
+          "filename": "1975.22.7_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.7/1975.22.7_full.tif",
+          "width": "6390",
+          "height": "3350",
+          "filesize": "64249848",
+          "filename": "1975.22.7_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163141,
+      "accession_number": "2004.1.41",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Search the Mountain: Leaf 41",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.41",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.41/2004.1.41_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "328705",
+          "filename": "2004.1.41_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.41/2004.1.41_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5247626",
+          "filename": "2004.1.41_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.41/2004.1.41_full.tif",
+          "width": "9795",
+          "height": "8761",
+          "filesize": "257472198",
+          "filename": "2004.1.41_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163105,
+      "accession_number": "2004.1",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album of fifty leaves; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1/2004.1_web.jpg",
+          "width": "900",
+          "height": "401",
+          "filesize": "125247",
+          "filename": "2004.1_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1/2004.1_print.jpg",
+          "width": "3400",
+          "height": "1515",
+          "filesize": "1872820",
+          "filename": "2004.1_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1/2004.1_full.tif",
+          "width": "14000",
+          "height": "6237",
+          "filesize": "261981804",
+          "filename": "2004.1_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 152822,
+      "accession_number": "1985.71.1",
+      "share_license_status": "CC0",
+      "title": "Elephant, Horse, and Hare",
+      "creation_date": "1788",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1985.71.1",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71.1/1985.71.1_web.jpg",
+          "width": "586",
+          "height": "893",
+          "filesize": "319325",
+          "filename": "1985.71.1_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71.1/1985.71.1_print.jpg",
+          "width": "2232",
+          "height": "3400",
+          "filesize": "4532915",
+          "filename": "1985.71.1_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71.1/1985.71.1_full.tif",
+          "width": "4411",
+          "height": "6720",
+          "filesize": "88946828",
+          "filename": "1985.71.1_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31140,
+          "description": "Min Zhen (Chinese, 1730–after 1788)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "閔貞",
+          "birth_year": "1730",
+          "death_year": "1788",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163144,
+      "accession_number": "2004.1.44",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Search the Mountain: Leaf 44",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.44",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.44/2004.1.44_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "307792",
+          "filename": "2004.1.44_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.44/2004.1.44_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "4990596",
+          "filename": "2004.1.44_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.44/2004.1.44_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257442762",
+          "filename": "2004.1.44_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149604,
+      "accession_number": "1979.27.1",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Volume 1",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "Album with eleven leaves; ink or ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.1",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1/1979.27.1_web.jpg",
+          "width": "753",
+          "height": "893",
+          "filesize": "514185",
+          "filename": "1979.27.1_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1/1979.27.1_print.jpg",
+          "width": "2867",
+          "height": "3400",
+          "filesize": "7575223",
+          "filename": "1979.27.1_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1/1979.27.1_full.tif",
+          "width": "3870",
+          "height": "4588",
+          "filesize": "53294848",
+          "filename": "1979.27.1_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132924,
+      "accession_number": "1955.37.2",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: Spring Plowing",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "Album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.2/1955.37.2_web.jpg",
+          "width": "900",
+          "height": "704",
+          "filesize": "314728",
+          "filename": "1955.37.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.2/1955.37.2_print.jpg",
+          "width": "3400",
+          "height": "2661",
+          "filesize": "3529030",
+          "filename": "1955.37.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.2/1955.37.2_full.tif",
+          "width": "5512",
+          "height": "4314",
+          "filesize": "71363680",
+          "filename": "1955.37.2_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163142,
+      "accession_number": "2004.1.42",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Search the Mountain: Leaf 42",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.42",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.42/2004.1.42_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "323790",
+          "filename": "2004.1.42_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.42/2004.1.42_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "4972617",
+          "filename": "2004.1.42_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.42/2004.1.42_full.tif",
+          "width": "9794",
+          "height": "8760",
+          "filesize": "257416742",
+          "filename": "2004.1.42_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163108,
+      "accession_number": "2004.1.11",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Procession of Daoist Deities: Leaf 11",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.11",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.11/2004.1.11_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "312549",
+          "filename": "2004.1.11_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.11/2004.1.11_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5146488",
+          "filename": "2004.1.11_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.11/2004.1.11_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257442566",
+          "filename": "2004.1.11_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163129,
+      "accession_number": "2004.1.30",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Kings of Hells: Leaf 30",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.30",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.30/2004.1.30_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "320703",
+          "filename": "2004.1.30_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.30/2004.1.30_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "4771680",
+          "filename": "2004.1.30_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.30/2004.1.30_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257442922",
+          "filename": "2004.1.30_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163151,
+      "accession_number": "2004.1.50",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Search the Mountain: Leaf 50",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.50",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.50/2004.1.50_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "321201",
+          "filename": "2004.1.50_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.50/2004.1.50_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5133825",
+          "filename": "2004.1.50_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.50/2004.1.50_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257442670",
+          "filename": "2004.1.50_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163132,
+      "accession_number": "2004.1.33",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Kings of Hells: Leaf 33",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.33",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.33/2004.1.33_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "333219",
+          "filename": "2004.1.33_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.33/2004.1.33_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5235631",
+          "filename": "2004.1.33_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.33/2004.1.33_full.tif",
+          "width": "9795",
+          "height": "8761",
+          "filesize": "257472638",
+          "filename": "2004.1.33_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132931,
+      "accession_number": "1955.37.9",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: Pleasure in a Mountain Brook",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.9",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.9/1955.37.9_web.jpg",
+          "width": "900",
+          "height": "679",
+          "filesize": "291965",
+          "filename": "1955.37.9_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.9/1955.37.9_print.jpg",
+          "width": "3400",
+          "height": "2566",
+          "filesize": "3409574",
+          "filename": "1955.37.9_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.9/1955.37.9_full.tif",
+          "width": "5518",
+          "height": "4164",
+          "filesize": "68957776",
+          "filename": "1955.37.9_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148234,
+      "accession_number": "1975.22.1",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 1",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album cover",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.1",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.1/1975.22.1_web.jpg",
+          "width": "863",
+          "height": "893",
+          "filesize": "588646",
+          "filename": "1975.22.1_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.1/1975.22.1_print.jpg",
+          "width": "3284",
+          "height": "3400",
+          "filesize": "8230094",
+          "filename": "1975.22.1_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.1/1975.22.1_full.tif",
+          "width": "6027",
+          "height": "6240",
+          "filesize": "112846508",
+          "filename": "1975.22.1_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163145,
+      "accession_number": "2004.1.45",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Search the Mountain: Leaf 45",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.45",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.45/2004.1.45_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "325400",
+          "filename": "2004.1.45_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.45/2004.1.45_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5138021",
+          "filename": "2004.1.45_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.45/2004.1.45_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257443078",
+          "filename": "2004.1.45_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163149,
+      "accession_number": "2004.1.49",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Search the Mountain: Leaf 49",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.49",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.49/2004.1.49_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "348996",
+          "filename": "2004.1.49_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.49/2004.1.49_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5350326",
+          "filename": "2004.1.49_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.49/2004.1.49_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257443418",
+          "filename": "2004.1.49_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148236,
+      "accession_number": "1975.22.11",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Colophon",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.11",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.11/1975.22.11_web.jpg",
+          "width": "1263",
+          "height": "660",
+          "filesize": "518283",
+          "filename": "1975.22.11_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.11/1975.22.11_print.jpg",
+          "width": "3400",
+          "height": "1778",
+          "filesize": "3893696",
+          "filename": "1975.22.11_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.11/1975.22.11_full.tif",
+          "width": "6455",
+          "height": "3377",
+          "filesize": "65425180",
+          "filename": "1975.22.11_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163138,
+      "accession_number": "2004.1.39",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Kings of Hells: Leaf 39",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.39",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.39/2004.1.39_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "330079",
+          "filename": "2004.1.39_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.39/2004.1.39_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5218057",
+          "filename": "2004.1.39_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.39/2004.1.39_full.tif",
+          "width": "9795",
+          "height": "8761",
+          "filesize": "257472622",
+          "filename": "2004.1.39_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 136759,
+      "accession_number": "1961.261",
+      "share_license_status": "CC0",
+      "title": "One Hundred Children at Play",
+      "creation_date": "1100s–1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1961.261",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1961.261/1961.261_web.jpg",
+          "width": "900",
+          "height": "751",
+          "filesize": "272821",
+          "filename": "1961.261_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1961.261/1961.261_print.jpg",
+          "width": "3400",
+          "height": "2836",
+          "filesize": "3917375",
+          "filename": "1961.261_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1961.261/1961.261_full.tif",
+          "width": "12574",
+          "height": "10490",
+          "filesize": "395733208",
+          "filename": "1961.261_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6226,
+          "description": "Su Hanchen (Chinese, active c. 1101–1125)",
+          "extent": null,
+          "qualifier": "tradition of",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蘇漢臣",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 6231,
+          "description": "Wang Juzhen (Chinese)",
+          "extent": null,
+          "qualifier": "tradition of",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163140,
+      "accession_number": "2004.1.40",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Kings of Hells: Leaf 40",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.40",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.40/2004.1.40_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "349152",
+          "filename": "2004.1.40_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.40/2004.1.40_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5329452",
+          "filename": "2004.1.40_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.40/2004.1.40_full.tif",
+          "width": "9794",
+          "height": "8761",
+          "filesize": "257446386",
+          "filename": "2004.1.40_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163137,
+      "accession_number": "2004.1.38",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Kings of Hells: Leaf 38",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.38",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.38/2004.1.38_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "300295",
+          "filename": "2004.1.38_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.38/2004.1.38_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5019542",
+          "filename": "2004.1.38_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.38/2004.1.38_full.tif",
+          "width": "9794",
+          "height": "8761",
+          "filesize": "257445370",
+          "filename": "2004.1.38_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163115,
+      "accession_number": "2004.1.18",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Procession of Daoist Deities: Leaf 18",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.18",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.18/2004.1.18_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "280611",
+          "filename": "2004.1.18_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.18/2004.1.18_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "4592527",
+          "filename": "2004.1.18_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.18/2004.1.18_full.tif",
+          "width": "9794",
+          "height": "8760",
+          "filesize": "257416046",
+          "filename": "2004.1.18_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163153,
+      "accession_number": "2004.1.7",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Procession of Daoist Deities: Leaf 7",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.7",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.7/2004.1.7_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "317301",
+          "filename": "2004.1.7_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.7/2004.1.7_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5020413",
+          "filename": "2004.1.7_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.7/2004.1.7_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257442482",
+          "filename": "2004.1.7_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132928,
+      "accession_number": "1955.37.6",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: Traveling in Autumn Mountains",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.6",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.6/1955.37.6_web.jpg",
+          "width": "900",
+          "height": "674",
+          "filesize": "283837",
+          "filename": "1955.37.6_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.6/1955.37.6_print.jpg",
+          "width": "3400",
+          "height": "2546",
+          "filesize": "3145835",
+          "filename": "1955.37.6_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.6/1955.37.6_full.tif",
+          "width": "5368",
+          "height": "4020",
+          "filesize": "64764684",
+          "filename": "1955.37.6_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163130,
+      "accession_number": "2004.1.31",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Kings of Hells: Leaf 31",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.31",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.31/2004.1.31_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "311231",
+          "filename": "2004.1.31_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.31/2004.1.31_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "4745250",
+          "filename": "2004.1.31_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.31/2004.1.31_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257442658",
+          "filename": "2004.1.31_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163133,
+      "accession_number": "2004.1.34",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Kings of Hells: Leaf 34",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.34",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.34/2004.1.34_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "323405",
+          "filename": "2004.1.34_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.34/2004.1.34_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5129306",
+          "filename": "2004.1.34_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.34/2004.1.34_full.tif",
+          "width": "9795",
+          "height": "8761",
+          "filesize": "257472246",
+          "filename": "2004.1.34_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163147,
+      "accession_number": "2004.1.47",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Search the Mountain: Leaf 47",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.47",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.47/2004.1.47_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "314827",
+          "filename": "2004.1.47_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.47/2004.1.47_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5122875",
+          "filename": "2004.1.47_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.47/2004.1.47_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257442730",
+          "filename": "2004.1.47_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163152,
+      "accession_number": "2004.1.6",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Procession of Daoist Deities: Leaf 6",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.6",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.6/2004.1.6_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "304356",
+          "filename": "2004.1.6_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.6/2004.1.6_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "4970348",
+          "filename": "2004.1.6_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.6/2004.1.6_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257442454",
+          "filename": "2004.1.6_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132930,
+      "accession_number": "1955.37.8",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: Landscape after Mi Fei",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.8/1955.37.8_web.jpg",
+          "width": "1158",
+          "height": "893",
+          "filesize": "706874",
+          "filename": "1955.37.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.8/1955.37.8_print.jpg",
+          "width": "3400",
+          "height": "2623",
+          "filesize": "7453083",
+          "filename": "1955.37.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.8/1955.37.8_full.tif",
+          "width": "5482",
+          "height": "4230",
+          "filesize": "69595096",
+          "filename": "1955.37.8_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163148,
+      "accession_number": "2004.1.48",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Search the Mountain: Leaf 48",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.48",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.48/2004.1.48_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "294722",
+          "filename": "2004.1.48_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.48/2004.1.48_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "4815586",
+          "filename": "2004.1.48_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.48/2004.1.48_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257442518",
+          "filename": "2004.1.48_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163126,
+      "accession_number": "2004.1.28",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Kings of Hells: Leaf 28",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.28",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.28/2004.1.28_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "314727",
+          "filename": "2004.1.28_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.28/2004.1.28_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "4930013",
+          "filename": "2004.1.28_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.28/2004.1.28_full.tif",
+          "width": "9795",
+          "height": "8761",
+          "filesize": "257472334",
+          "filename": "2004.1.28_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163107,
+      "accession_number": "2004.1.10",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Procession of Daoist Deities: Leaf 10",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.10",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.10/2004.1.10_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "281290",
+          "filename": "2004.1.10_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.10/2004.1.10_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "4435275",
+          "filename": "2004.1.10_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.10/2004.1.10_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257442262",
+          "filename": "2004.1.10_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163150,
+      "accession_number": "2004.1.5",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Procession of Daoist Deities: Leaf 5",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.5",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.5/2004.1.5_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "306461",
+          "filename": "2004.1.5_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.5/2004.1.5_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5039091",
+          "filename": "2004.1.5_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.5/2004.1.5_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257442730",
+          "filename": "2004.1.5_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163154,
+      "accession_number": "2004.1.8",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Procession of Daoist Deities: Leaf 8",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.8/2004.1.8_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "309959",
+          "filename": "2004.1.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.8/2004.1.8_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "4717152",
+          "filename": "2004.1.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.8/2004.1.8_full.tif",
+          "width": "9795",
+          "height": "8760",
+          "filesize": "257442782",
+          "filename": "2004.1.8_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163127,
+      "accession_number": "2004.1.29",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Kings of Hells: Leaf 29",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.29",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.29/2004.1.29_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "364408",
+          "filename": "2004.1.29_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.29/2004.1.29_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "5350954",
+          "filename": "2004.1.29_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.29/2004.1.29_full.tif",
+          "width": "9794",
+          "height": "8761",
+          "filesize": "257446554",
+          "filename": "2004.1.29_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149616,
+      "accession_number": "1979.27.2",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Volume 2",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "Album with eleven leaves; ink or ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2/1979.27.2_web.jpg",
+          "width": "800",
+          "height": "893",
+          "filesize": "477315",
+          "filename": "1979.27.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2/1979.27.2_print.jpg",
+          "width": "3045",
+          "height": "3400",
+          "filesize": "7036154",
+          "filename": "1979.27.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2/1979.27.2_full.tif",
+          "width": "4770",
+          "height": "5326",
+          "filesize": "76242636",
+          "filename": "1979.27.2_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163128,
+      "accession_number": "2004.1.3",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Procession of Daoist Deities: Leaf 3",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.3",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.3/2004.1.3_web.jpg",
+          "width": "900",
+          "height": "851",
+          "filesize": "346460",
+          "filename": "2004.1.3_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.3/2004.1.3_print.jpg",
+          "width": "3400",
+          "height": "3216",
+          "filesize": "5666488",
+          "filename": "2004.1.3_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.3/2004.1.3_full.tif",
+          "width": "10716",
+          "height": "10135",
+          "filesize": "325851118",
+          "filename": "2004.1.3_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163125,
+      "accession_number": "2004.1.27",
+      "share_license_status": "CC0",
+      "title": "Album of Daoist and Buddhist Themes: Kings of Hells: Leaf 27",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2004.1.27",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.27/2004.1.27_web.jpg",
+          "width": "900",
+          "height": "805",
+          "filesize": "327774",
+          "filename": "2004.1.27_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.27/2004.1.27_print.jpg",
+          "width": "3400",
+          "height": "3041",
+          "filesize": "4969294",
+          "filename": "2004.1.27_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2004.1.27/2004.1.27_full.tif",
+          "width": "9794",
+          "height": "8761",
+          "filesize": "257445926",
+          "filename": "2004.1.27_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    }
+  ]
+}

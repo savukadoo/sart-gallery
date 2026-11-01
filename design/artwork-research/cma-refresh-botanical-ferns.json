@@ -1,0 +1,784 @@
+{
+  "info": {
+    "total": 16,
+    "parameters": {
+      "skip": 0,
+      "limit": 60,
+      "q": "fern",
+      "cc0": "1",
+      "has_image": "1",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,classification_type,collection,gallery,department",
+      "search": "fern"
+    }
+  },
+  "data": [
+    {
+      "id": 123274,
+      "accession_number": "1943.52.2",
+      "share_license_status": "CC0",
+      "title": "Pharmacy Bottle",
+      "creation_date": "c. 1500–1510",
+      "culture": [
+        "Italy, Papal States, Faenza"
+      ],
+      "technique": "tin-glazed earthenware (maiolica)",
+      "type": "Ceramic",
+      "url": "https://clevelandart.org/art/1943.52.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.52.2/1943.52.2_web.jpg",
+          "width": "682",
+          "height": "893",
+          "filesize": "312997",
+          "filename": "1943.52.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.52.2/1943.52.2_print.jpg",
+          "width": "2597",
+          "height": "3400",
+          "filesize": "4579423",
+          "filename": "1943.52.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.52.2/1943.52.2_full.tif",
+          "width": "3804",
+          "height": "4980",
+          "filesize": "56867328",
+          "filename": "1943.52.2_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 123272,
+      "accession_number": "1943.52",
+      "share_license_status": "CC0",
+      "title": "Pair of Pharmacy Bottles",
+      "creation_date": "c. 1500–1510",
+      "culture": [
+        "Italy, Papal States, Faenza"
+      ],
+      "technique": "tin-glazed earthenware (maiolica)",
+      "type": "Ceramic",
+      "url": "https://clevelandart.org/art/1943.52",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.52/1943.52_web.jpg",
+          "width": "900",
+          "height": "588",
+          "filesize": "",
+          "filename": "1943.52_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.52/1943.52_print.jpg",
+          "width": "3400",
+          "height": "2223",
+          "filesize": "",
+          "filename": "1943.52_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.52/1943.52_full.tif",
+          "width": "7618",
+          "height": "4980",
+          "filesize": "",
+          "filename": "1943.52_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 154193,
+      "accession_number": "1988.238",
+      "share_license_status": "CC0",
+      "title": "Untitled (Fern Study)",
+      "creation_date": "late 1870s",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "albumen print",
+      "type": "Photograph",
+      "url": "https://clevelandart.org/art/1988.238",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1988.238/1988.238_web.jpg",
+          "width": "1246",
+          "height": "893",
+          "filesize": "915954",
+          "filename": "1988.238_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1988.238/1988.238_print.jpg",
+          "width": "3400",
+          "height": "2437",
+          "filesize": "4997853",
+          "filename": "1988.238_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1988.238/1988.238_full.tif",
+          "width": "5700",
+          "height": "4086",
+          "filesize": "69907996",
+          "filename": "1988.238_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 988,
+          "description": "Frank Meadow Sutcliffe (British, 1853–1941)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Frank Meadow Sutcliffe British, 1853-1941\r\n\r\nFrank Meadow Sutcliffe (born in Heading, Leeds) is best known for his views of the landscape, harbor, and people of the Yorkshire town of Whitby and its environs. He pursued this subject throughout his long career, beginning about 1870 and continuing well into the 20th century. Sutcliffe, the son of printmaker, painter, and amateur photographer Thomas Sutcliffe, was a professional photographer, establishing successive studios from 1876-1922. He made his living from seasonal trade in portraits, pursuing his personal work at other times of the year.\r\n\tInfluenced by Peter Henry Emerson, Sutcliffe's style is considered spontaneous and natural, and is noted for its sharp focus and atmospheric lighting. Over the years he worked in the albumen, carbon, platinum, and bromide print processes. In 1888 the Camera Club of London showed Sutcliffe's work in a one-person exhibition, the club's first. He exhibited both in England and abroad, winning more than 62 gold, silver, and bronze medals from 1881-1905, and frequently served as a photographic juror. He also wrote a column about photography for the Yorkshire Evening Post and contributed to various periodicals.\r\n\tIn 1892 Sutcliffe helped to found the Linked Ring, and in 1941 was made an Honorary Member of the Royal Photographic Society. His honest, unstrained style gained him numerous admirers. In his later years he explored the qualities of the new hand-held camera. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1853",
+          "death_year": "1941",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 314223,
+      "accession_number": "2018.96",
+      "share_license_status": "CC0",
+      "title": "Raja Hari Sen of Mandi",
+      "creation_date": "c. 1650",
+      "culture": [
+        "Northern India, Pahari kingdoms"
+      ],
+      "technique": "Gum tempera, ink, and gold on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2018.96",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.96/2018.96_web.jpg",
+          "width": "510",
+          "height": "900",
+          "filesize": "183511",
+          "filename": "2018.96_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.96/2018.96_print.jpg",
+          "width": "1925",
+          "height": "3400",
+          "filesize": "2503489",
+          "filename": "2018.96_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2018.96/2018.96_full.tif",
+          "width": "7439",
+          "height": "13142",
+          "filesize": "293318678",
+          "filename": "2018.96_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 97889,
+      "accession_number": "1917.492",
+      "share_license_status": "CC0",
+      "title": "Presentation  Bowl",
+      "creation_date": "1900",
+      "culture": [
+        "Native North America, California, Yokuts"
+      ],
+      "technique": "redbud, bracken fern; coiled, grass foundation",
+      "type": "Basketry",
+      "url": "https://clevelandart.org/art/1917.492",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.492/1917.492_web.jpg",
+          "width": "900",
+          "height": "579",
+          "filesize": "136378",
+          "filename": "1917.492_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.492/1917.492_print.jpg",
+          "width": "3400",
+          "height": "2187",
+          "filesize": "1511480",
+          "filename": "1917.492_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.492/1917.492_full.tif",
+          "width": "7208",
+          "height": "4637",
+          "filesize": "100298636",
+          "filename": "1917.492_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 159058,
+      "accession_number": "1995.26",
+      "share_license_status": "CC0",
+      "title": "Scolopendrium Vulgare",
+      "creation_date": "1852–54",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "cyanotype",
+      "type": "Photograph",
+      "url": "https://clevelandart.org/art/1995.26",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.26/1995.26_web.jpg",
+          "width": "621",
+          "height": "893",
+          "filesize": "339572",
+          "filename": "1995.26_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.26/1995.26_print.jpg",
+          "width": "2365",
+          "height": "3400",
+          "filesize": "5262036",
+          "filename": "1995.26_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.26/1995.26_full.tif",
+          "width": "3150",
+          "height": "4528",
+          "filesize": "42822868",
+          "filename": "1995.26_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 203,
+          "description": "Anna Atkins (British, 1799–1871)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Anna Atkins British, 1799-1871\r\n\r\nAnna Atkins was the daughter of John George Children, a respected scientist associated with the British Museum and secretary of the Royal Society, who introduced her to science and its small, tightly knit community in Britain. Taking advantage of her father's position as a member of the society's Committee on Papers, Atkins was among the first to hear directly of Louis-Jacques-Mandé Daguerre's announcement of photography, as well as that of William Henry Fox Talbot, who disclosed the details of his own process to a meeting of the committee in February 1839. In 1842 another family friend, Sir John Herschel, whose early work in photography played a key role in its development in Britain, sent John Children a copy of his paper on the invention of the cyanotype.\r\n\tCombining her interests in botany, illustration, and the new cyanotype, the following year Atkins began production of the serial volumes of British Algae: Cyanotype Impressions (1843-53). This work is generally credited as the first photographically illustrated book, preceding by a year the first fascicles of Talbot's better known Pencil of Nature (1844-46). Atkins, whose earlier hand illustrations had accompanied her father's translation of Jean de Lamarck's Genera of Shells, intended British Algae as a companion to William Harvey's Manual of British Algae (1841). The finished work comprised a brief text and almost 400 captioned cyanotype plates. Atkins, possibly in conjunction with her friend Anne Dixon, went on to produce several more albums whose subjects included plants, ferns, feathers, and lace, all subjects popular with early experimenters in cameraless photography. T.W.F.",
+          "name_in_original_language": null,
+          "birth_year": "1799",
+          "death_year": "1871",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 123490,
+      "accession_number": "1943.90",
+      "share_license_status": "CC0",
+      "title": "Portrait of Don Juan Antonio Cuervo",
+      "creation_date": "1819",
+      "culture": [
+        "Spain"
+      ],
+      "technique": "oil on canvas",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1943.90",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.90/1943.90_web.jpg",
+          "width": "654",
+          "height": "893",
+          "filesize": "57890",
+          "filename": "1943.90_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.90/1943.90_print.jpg",
+          "width": "2445",
+          "height": "3400",
+          "filesize": "5062430",
+          "filename": "1943.90_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.90/1943.90_full.tif",
+          "width": "4315",
+          "height": "6000",
+          "filesize": "77700840",
+          "filename": "1943.90_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 2386,
+          "description": "Francisco de Goya (Spanish, 1746–1828)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1746",
+          "death_year": "1828",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 97853,
+      "accession_number": "1917.462",
+      "share_license_status": "CC0",
+      "title": "Hat",
+      "creation_date": "c. 1900",
+      "culture": [
+        "California,  Karok, Humboldt County, 20th century"
+      ],
+      "technique": "hazel, conifer root, woodwardia fern, bear grass, maiden-hair fern; twine (4-strand twine)",
+      "type": "Basketry",
+      "url": "https://clevelandart.org/art/1917.462",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.462/1917.462_web.jpg",
+          "width": "1036",
+          "height": "893",
+          "filesize": "547805",
+          "filename": "1917.462_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.462/1917.462_print.jpg",
+          "width": "3400",
+          "height": "2932",
+          "filesize": "5434072",
+          "filename": "1917.462_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.462/1917.462_full.tif",
+          "width": "5241",
+          "height": "4519",
+          "filesize": "71085060",
+          "filename": "1917.462_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 172318,
+      "accession_number": "2014.708.h",
+      "share_license_status": "CC0",
+      "title": "Fontainebleau Forest: Fern Burners (La Forêt de Fontainebleau: Les brûleurs de fougères)",
+      "creation_date": "1890",
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "wood engraving from bound volume of 34 ",
+      "type": "Bound Volume",
+      "url": "https://clevelandart.org/art/2014.708.h",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2014.708.h/2014.708.h_web.jpg",
+          "width": "651",
+          "height": "900",
+          "filesize": "303807",
+          "filename": "2014.708.h_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2014.708.h/2014.708.h_print.jpg",
+          "width": "2460",
+          "height": "3400",
+          "filesize": "4445970",
+          "filename": "2014.708.h_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2014.708.h/2014.708.h_full.tif",
+          "width": "4232",
+          "height": "5850",
+          "filesize": "74304808",
+          "filename": "2014.708.h_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 13243,
+          "description": "Auguste Louis Lepère (French, 1849–1918)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1849",
+          "death_year": "1918",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 67322,
+          "description": "A. Desmoulins, Published in Revue Illustrée, 1887–90",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 97830,
+      "accession_number": "1917.439",
+      "share_license_status": "CC0",
+      "title": "Bowl Basket (Unfinished)",
+      "creation_date": "1895–1900",
+      "culture": [
+        "California, Yokuts, late 19th- early 20th century"
+      ],
+      "technique": "Redbud, sedge, bracken fern; coiled",
+      "type": "Basketry",
+      "url": "https://clevelandart.org/art/1917.439",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.439/1917.439_web.jpg",
+          "width": "1263",
+          "height": "742",
+          "filesize": "544903",
+          "filename": "1917.439_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.439/1917.439_print.jpg",
+          "width": "3400",
+          "height": "1997",
+          "filesize": "4438289",
+          "filename": "1917.439_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.439/1917.439_full.tif",
+          "width": "5179",
+          "height": "3042",
+          "filesize": "47289356",
+          "filename": "1917.439_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 97871,
+      "accession_number": "1917.477",
+      "share_license_status": "CC0",
+      "title": "Cooking Bowl",
+      "creation_date": "1890",
+      "culture": [
+        "California, Mono, Lake Paiute, late 1800s–early 1900s"
+      ],
+      "technique": "willow, bracken fern; coiled (3 rods)",
+      "type": "Basketry",
+      "url": "https://clevelandart.org/art/1917.477",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.477/1917.477_web.jpg",
+          "width": "1243",
+          "height": "893",
+          "filesize": "741631",
+          "filename": "1917.477_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.477/1917.477_print.jpg",
+          "width": "3400",
+          "height": "2443",
+          "filesize": "5816747",
+          "filename": "1917.477_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.477/1917.477_full.tif",
+          "width": "5401",
+          "height": "3881",
+          "filesize": "62910672",
+          "filename": "1917.477_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 155385,
+      "accession_number": "1990.130.b",
+      "share_license_status": "CC0",
+      "title": "New Ferns from Album of Paintings by the Venerable Zeshin",
+      "creation_date": "1847",
+      "culture": [
+        "Japan, Edo period (1615–1868)"
+      ],
+      "technique": "Leaf in accordion-style album; ink, color, and gold on silk",
+      "type": "Bound Volume",
+      "url": "https://clevelandart.org/art/1990.130.b",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.130.b/1990.130.b_web.jpg",
+          "width": "759",
+          "height": "900",
+          "filesize": "284954",
+          "filename": "1990.130.b_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.130.b/1990.130.b_print.jpg",
+          "width": "2866",
+          "height": "3400",
+          "filesize": "3530675",
+          "filename": "1990.130.b_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.130.b/1990.130.b_full.tif",
+          "width": "3621",
+          "height": "4296",
+          "filesize": "46688336",
+          "filename": "1990.130.b_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6172,
+          "description": "Shibata Zeshin (Japanese, 1807–1891)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "柴田 是真",
+          "birth_year": "1807",
+          "death_year": "1891",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 97869,
+      "accession_number": "1917.475",
+      "share_license_status": "CC0",
+      "title": "Cooking Bowl",
+      "creation_date": "1890s",
+      "culture": [
+        "Great Basin, Washoe, late 19th- early 20th century"
+      ],
+      "technique": "Willow, Bracken fern root; coiled",
+      "type": "Basketry",
+      "url": "https://clevelandart.org/art/1917.475",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.475/1917.475_web.jpg",
+          "width": "1228",
+          "height": "893",
+          "filesize": "698834",
+          "filename": "1917.475_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.475/1917.475_print.jpg",
+          "width": "3400",
+          "height": "2473",
+          "filesize": "5554331",
+          "filename": "1917.475_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.475/1917.475_full.tif",
+          "width": "5557",
+          "height": "4042",
+          "filesize": "67410272",
+          "filename": "1917.475_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 157153,
+      "accession_number": "1993.45",
+      "share_license_status": "CC0",
+      "title": "Ferns of Great Britain and Ireland:  Polypodium Phegopteris",
+      "creation_date": "1855–1856",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "nature printing",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1993.45",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1993.45/1993.45_web.jpg",
+          "width": "603",
+          "height": "893",
+          "filesize": "284291",
+          "filename": "1993.45_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1993.45/1993.45_print.jpg",
+          "width": "2297",
+          "height": "3400",
+          "filesize": "4168322",
+          "filename": "1993.45_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1993.45/1993.45_full.tif",
+          "width": "4432",
+          "height": "6559",
+          "filesize": "87241012",
+          "filename": "1993.45_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 26969,
+          "description": "Henry Bradbury (British, 1829–1860)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1829",
+          "death_year": "1860",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 67523,
+          "description": "Bradbury and Evans",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 145218,
+      "accession_number": "1970.50.a",
+      "share_license_status": "CC0",
+      "title": "The Queen of the Fishes: Plate 1",
+      "creation_date": "1894",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "color woodcut",
+      "type": "Bound Volume",
+      "url": "https://clevelandart.org/art/1970.50.a",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.50.a/1970.50.a_web.jpg",
+          "width": "586",
+          "height": "900",
+          "filesize": "304317",
+          "filename": "1970.50.a_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.50.a/1970.50.a_print.jpg",
+          "width": "2215",
+          "height": "3400",
+          "filesize": "3208201",
+          "filename": "1970.50.a_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.50.a/1970.50.a_full.tif",
+          "width": "7905",
+          "height": "12135",
+          "filesize": "287808500",
+          "filename": "1970.50.a_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27482,
+          "description": "Lucien Pissarro (British, 1863–1944)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1863",
+          "death_year": "1944",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 136596,
+      "accession_number": "1961.158",
+      "share_license_status": "CC0",
+      "title": "Illustration 25:  La Ronde",
+      "creation_date": "1893",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "wood engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1961.158",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1961.158/1961.158_web.jpg",
+          "width": "639",
+          "height": "893",
+          "filesize": "429578",
+          "filename": "1961.158_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1961.158/1961.158_print.jpg",
+          "width": "2434",
+          "height": "3400",
+          "filesize": "5421785",
+          "filename": "1961.158_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1961.158/1961.158_full.tif",
+          "width": "3435",
+          "height": "4799",
+          "filesize": "49482732",
+          "filename": "1961.158_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27482,
+          "description": "Lucien Pissarro (British, 1863–1944)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1863",
+          "death_year": "1944",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    }
+  ]
+}

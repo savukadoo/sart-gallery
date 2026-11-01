@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/helalaou/AeroTizen",
+  "commit": "e23b6c669031bcc8763d31d6d841b3ff7f30b03f",
+  "license": "MIT",
+  "files": {
+    "__init__.py": "d30c0fbe9194d2c1faf6e42930046e06fab152bcbb98f64cfb21c0b170a5a16e",
+    "sdb.py": "03d116d9c15b1104b4988ee56b806b9c867d558384ab86ee762768507e4fabc0",
+    "signer.py": "02cc15a0a7ea97de3efc7c7aa6afe272f41f197921a5de7a631dbea920fc78de",
+    "certs.py": "a72e7321f2d19192ffdf6f14849ef788a980b74bca85119c1aed98a4a903c631",
+    "catalog.py": "8c6fee24f05550ba651f1d0e0c712e816c7bd1165566a6d2b519af798851199c"
+  }
+}

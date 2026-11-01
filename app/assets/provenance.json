@@ -1,0 +1,1956 @@
+{
+  "checked": "2026-10-31",
+  "collections": [
+    {
+      "id": "light-water",
+      "name": "Light & Water",
+      "description": "Impressionist light, rivers, gardens and quiet interiors.",
+      "coverId": "demo-16568"
+    },
+    {
+      "id": "japan-print",
+      "name": "Japan & China",
+      "description": "Japanese woodblock prints and Chinese ink paintings, birds and mountain landscapes.",
+      "coverId": "demo-24645"
+    },
+    {
+      "id": "botanical-cabinet",
+      "name": "Botanical Cabinet",
+      "description": "Flowers, ferns, fruit and foliage in botanical studies, prints and early photography.",
+      "coverId": "cma-132620"
+    },
+    {
+      "id": "shape-colour",
+      "name": "Shape & Colour",
+      "description": "Bold geometry, colour rhythms and abstract compositions.",
+      "coverId": "demo-109819"
+    }
+  ],
+  "processing": "Source reproductions resized proportionally to a maximum 1920-pixel long edge, JPEG quality 88. No creative changes or crops; thumbnails maximum 640 x 480.",
+  "artworks": [
+    {
+      "id": "demo-16568",
+      "title": "Water Lilies",
+      "artist": "Claude Monet",
+      "date": "1906",
+      "url": "assets/16568.jpg",
+      "thumbnail": "assets/16568-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/16568",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "Water Lilies",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 16568,
+      "imageId": "3c27b499-af56-f0d5-93b5-a7f2f1ad5813",
+      "originalUrl": "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1619
+      ],
+      "displayDimensions": [
+        1686,
+        1619
+      ],
+      "sha256": "c9d081924cbfd96f963b04702bdd487bf8b777d6b4b1444c1119a82ff1138fd1",
+      "thumbnailSha256": "159576fc61b070daf9f383c2b0a5a42eb5323ab02ec5919bd9b4caa32ef87b95"
+    },
+    {
+      "id": "demo-27992",
+      "title": "A Sunday on La Grande Jatte — 1884",
+      "artist": "Georges Seurat",
+      "date": "1884–86, border added 1888–89",
+      "url": "assets/27992.jpg",
+      "thumbnail": "assets/27992-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/27992",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "A Sunday on La Grande Jatte — 1884",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 27992,
+      "imageId": "2d484387-2509-5e8e-2c43-22f9981972eb",
+      "originalUrl": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1130
+      ],
+      "displayDimensions": [
+        1686,
+        1130
+      ],
+      "sha256": "88fd53a7bbed9bb88e3daab197f4ac6caa2357c7f66b85518b8322844fbb2570",
+      "thumbnailSha256": "79f07993671b99873b901a16bdb46f86752935c3da1f21c38dfdd99fb715cc80"
+    },
+    {
+      "id": "demo-20684",
+      "title": "Paris Street; Rainy Day",
+      "artist": "Gustave Caillebotte",
+      "date": "1877",
+      "url": "assets/20684.jpg",
+      "thumbnail": "assets/20684-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/20684",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "Paris Street; Rainy Day",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 20684,
+      "imageId": "f8fd76e9-c396-5678-36ed-6a348c904d27",
+      "originalUrl": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1309
+      ],
+      "displayDimensions": [
+        1686,
+        1309
+      ],
+      "sha256": "2b8af8389100c1f8fce7357780ac3f7aa717d980f14752c95bb271ddb50c081f",
+      "thumbnailSha256": "9807b8a5801e8b5e0b9187cd9c589c2a6818d6b85053d806e979ad788057380f"
+    },
+    {
+      "id": "demo-28560",
+      "title": "The Bedroom",
+      "artist": "Vincent van Gogh",
+      "date": "1889",
+      "url": "assets/28560.jpg",
+      "thumbnail": "assets/28560-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/28560",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "The Bedroom",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 28560,
+      "imageId": "6644829f-f292-c5c4-a73c-0356a6fdbf0d",
+      "originalUrl": "https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1320
+      ],
+      "displayDimensions": [
+        1686,
+        1320
+      ],
+      "sha256": "a608e67fd9e9219cc2e668d9d046aac32a11f0998a591d2df702948798a0f769",
+      "thumbnailSha256": "b2a04ec19607e24fe94da19bc9709aa9eab552d10ffb6ab9d700aa6279b1ccb0"
+    },
+    {
+      "id": "demo-14620",
+      "title": "Cliff Walk at Pourville",
+      "artist": "Claude Monet",
+      "date": "1882",
+      "url": "assets/14620.jpg",
+      "thumbnail": "assets/14620-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/14620",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "Cliff Walk at Pourville",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 14620,
+      "imageId": "b0effb1c-ff23-bbaa-f809-9fd94e31c1a0",
+      "originalUrl": "https://www.artic.edu/iiif/2/b0effb1c-ff23-bbaa-f809-9fd94e31c1a0/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1350
+      ],
+      "displayDimensions": [
+        1686,
+        1350
+      ],
+      "sha256": "126821a56a8302578a4e352bce576b43d3b743974cd9655a78d1d903c08862e5",
+      "thumbnailSha256": "986a0e9c5c125961904631d4a03cebd340bd0eb7dfb31df65b75b2621493340a"
+    },
+    {
+      "id": "demo-14598",
+      "title": "The Beach at Sainte-Adresse",
+      "artist": "Claude Monet",
+      "date": "1867",
+      "url": "assets/14598.jpg",
+      "thumbnail": "assets/14598-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/14598",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "The Beach at Sainte-Adresse",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 14598,
+      "imageId": "95be2572-b53d-8e7b-abc9-10eb48d4fa5d",
+      "originalUrl": "https://www.artic.edu/iiif/2/95be2572-b53d-8e7b-abc9-10eb48d4fa5d/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1246
+      ],
+      "displayDimensions": [
+        1686,
+        1246
+      ],
+      "sha256": "0a91e1676d30c5f676376d40f747f85d6491d93ec838b3b953852bb97c98fcc0",
+      "thumbnailSha256": "24e065dee58b38def69c68f18a6970afaf39250b983edde9d1dd1d2c7ef16d78"
+    },
+    {
+      "id": "demo-81537",
+      "title": "Bordighera",
+      "artist": "Claude Monet",
+      "date": "1884",
+      "url": "assets/81537.jpg",
+      "thumbnail": "assets/81537-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/81537",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "Bordighera",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 81537,
+      "imageId": "4d1b3ad0-14db-0d21-ad9f-17abb8bdfbb5",
+      "originalUrl": "https://www.artic.edu/iiif/2/4d1b3ad0-14db-0d21-ad9f-17abb8bdfbb5/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1357
+      ],
+      "displayDimensions": [
+        1686,
+        1357
+      ],
+      "sha256": "1483bf5da0e8331c147a6b581799a97020550a7b5d9ebe03d929ccf8071a8662",
+      "thumbnailSha256": "261068d03233de5f408db8fdc4af392c68bbfc06530d159fd4db5642c7465148"
+    },
+    {
+      "id": "demo-16554",
+      "title": "The Artist's House at Argenteuil",
+      "artist": "Claude Monet",
+      "date": "1873",
+      "url": "assets/16554.jpg",
+      "thumbnail": "assets/16554-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/16554",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "The Artist's House at Argenteuil",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 16554,
+      "imageId": "7d533ed4-ff54-fa2c-64f4-2b16bfbb5880",
+      "originalUrl": "https://www.artic.edu/iiif/2/7d533ed4-ff54-fa2c-64f4-2b16bfbb5880/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1377
+      ],
+      "displayDimensions": [
+        1686,
+        1377
+      ],
+      "sha256": "dedd1d3513645d6511fca95aae6aea735f09992091db84d64f7c35f047ed5cd5",
+      "thumbnailSha256": "0c65a4ab81b98d17a1a582669cbc285533c04d13d8f8d5b1b31d1fa57adb69b4"
+    },
+    {
+      "id": "demo-87000",
+      "title": "Haymaking at Éragny",
+      "artist": "Camille Pissarro",
+      "date": "1892",
+      "url": "assets/87000.jpg",
+      "thumbnail": "assets/87000-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/87000",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "Haymaking at Éragny",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 87000,
+      "imageId": "b84a9755-ca8d-8bd5-5a59-e910b20e3ba5",
+      "originalUrl": "https://www.artic.edu/iiif/2/b84a9755-ca8d-8bd5-5a59-e910b20e3ba5/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1352
+      ],
+      "displayDimensions": [
+        1686,
+        1352
+      ],
+      "sha256": "825307ae0979d90965ee01d517144bfc48c74713e6c9e4ec22a639ce055dfa73",
+      "thumbnailSha256": "e056ed9f50461bd1385315ea802fc183e83620aaad8f507140c87dc9a664c9bf"
+    },
+    {
+      "id": "demo-45838",
+      "title": "Snow at Louveciennes",
+      "artist": "Camille Pissarro",
+      "date": "c. 1870",
+      "url": "assets/45838.jpg",
+      "thumbnail": "assets/45838-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/45838",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "Snow at Louveciennes",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 45838,
+      "imageId": "d4e43d76-594b-ce65-c1a3-45c865624f70",
+      "originalUrl": "https://www.artic.edu/iiif/2/d4e43d76-594b-ce65-c1a3-45c865624f70/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1107
+      ],
+      "displayDimensions": [
+        1686,
+        1107
+      ],
+      "sha256": "2b809dac9d79be50a6aff4661de98e8dac81ec78e3080484461289b9288bc30b",
+      "thumbnailSha256": "ab5c213d781bf00c868198f5446d8818af4ca5acb7201adc189391a982098f86"
+    },
+    {
+      "id": "demo-16633",
+      "title": "The Seine at Port-Marly, Piles of Sand",
+      "artist": "Alfred Sisley",
+      "date": "1875",
+      "url": "assets/16633.jpg",
+      "thumbnail": "assets/16633-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/16633",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "The Seine at Port-Marly, Piles of Sand",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 16633,
+      "imageId": "c4425cb6-d8b5-6390-603d-7f802406d05d",
+      "originalUrl": "https://www.artic.edu/iiif/2/c4425cb6-d8b5-6390-603d-7f802406d05d/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1204
+      ],
+      "displayDimensions": [
+        1686,
+        1204
+      ],
+      "sha256": "697b490898097bfa123002e5d54f1330112813d312a0bc41e1ada80fc806ba4f",
+      "thumbnailSha256": "2744126eca97a047528e4e613cb174f9bfe712433f4d0d3808f79298084b7e34"
+    },
+    {
+      "id": "demo-81561",
+      "title": "Street in Moret",
+      "artist": "Alfred Sisley",
+      "date": "c. 1890",
+      "url": "assets/81561.jpg",
+      "thumbnail": "assets/81561-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/81561",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "Street in Moret",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 81561,
+      "imageId": "c233d88b-fe56-6b9e-d5c2-47b9a7386756",
+      "originalUrl": "https://www.artic.edu/iiif/2/c233d88b-fe56-6b9e-d5c2-47b9a7386756/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1346
+      ],
+      "displayDimensions": [
+        1686,
+        1346
+      ],
+      "sha256": "42ffcf45f2e082a6d8c71fa917b381c97cbcdac599c83ad76fb48a279a8dd8b3",
+      "thumbnailSha256": "8fc904a598dacd8564ae47b1b0efa6f2bcb278bd6d26d21e9f02b58259997edb"
+    },
+    {
+      "id": "demo-81555",
+      "title": "Lunch at the Restaurant Fournaise (The Rowers' Lunch)",
+      "artist": "Pierre-Auguste Renoir",
+      "date": "1875",
+      "url": "assets/81555.jpg",
+      "thumbnail": "assets/81555-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/81555",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "Lunch at the Restaurant Fournaise (The Rowers' Lunch)",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 81555,
+      "imageId": "1a1b74fe-ff2a-8991-0581-5d420f0b840e",
+      "originalUrl": "https://www.artic.edu/iiif/2/1a1b74fe-ff2a-8991-0581-5d420f0b840e/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1407
+      ],
+      "displayDimensions": [
+        1686,
+        1407
+      ],
+      "sha256": "905c2993903ed87f431da71fd8c05da85f945d2f0fcb6090ceca713b2c460392",
+      "thumbnailSha256": "495e6fca228db90444241b50d05fc5d6c9cbb2e71617751f2a423f3d14757ebf"
+    },
+    {
+      "id": "demo-95654",
+      "title": "Near the Lake",
+      "artist": "Pierre-Auguste Renoir",
+      "date": "1879–80",
+      "url": "assets/95654.jpg",
+      "thumbnail": "assets/95654-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/95654",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "Near the Lake",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 95654,
+      "imageId": "26e1c560-acca-3148-46dc-c144ac22bd3e",
+      "originalUrl": "https://www.artic.edu/iiif/2/26e1c560-acca-3148-46dc-c144ac22bd3e/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1686,
+        1412
+      ],
+      "displayDimensions": [
+        1686,
+        1412
+      ],
+      "sha256": "e12c41c0c0afb34c5f9ff123803fce584b1eb77833296cb23629d00feec14d79",
+      "thumbnailSha256": "0c1efc6e302a1787545be3402a9875c00f7e1bbc24122d306973e57288bc6f24"
+    },
+    {
+      "id": "demo-14586",
+      "title": "The Poet's Garden",
+      "artist": "Vincent van Gogh",
+      "date": "1888",
+      "url": "assets/14586.jpg",
+      "thumbnail": "assets/14586-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/14586",
+      "publicDomain": true,
+      "collectionId": "light-water",
+      "catalogueTitle": "The Poet's Garden",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 14586,
+      "imageId": "fa5aaa98-8095-07d6-3b7d-3dfccc518191",
+      "originalUrl": "https://www.artic.edu/iiif/2/fa5aaa98-8095-07d6-3b7d-3dfccc518191/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        ""
+      ],
+      "originalDimensions": [
+        1687,
+        1330
+      ],
+      "displayDimensions": [
+        1687,
+        1330
+      ],
+      "sha256": "feadc5719964a6c81cfae7ef7404c358bff25550838e5f3fae2fd882f97f8f28",
+      "thumbnailSha256": "12acae9fc5ea8c4e543a1328112fac26b49615ecda3494490c7625ac23f79f92"
+    },
+    {
+      "id": "demo-24645",
+      "title": "The Great Wave",
+      "artist": "Katsushika Hokusai",
+      "date": "1830/33",
+      "url": "assets/24645.jpg",
+      "thumbnail": "assets/24645-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/24645",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "Japan",
+      "catalogueTitle": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series \"Thirty-Six Views of Mount Fuji (Fugaku sanjūrokkei)\"",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 24645,
+      "imageId": "b3974542-b9b4-7568-fc4b-966738f61d78",
+      "originalUrl": "https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        "Japan"
+      ],
+      "originalDimensions": [
+        1686,
+        1155
+      ],
+      "displayDimensions": [
+        1686,
+        1155
+      ],
+      "sha256": "9c2bbc08552a40d7567adc7163e70d82f75525c5106cb222822ccb8bcada7ced",
+      "thumbnailSha256": "f02b8db9e69dfacc43be3b1e0ddb25856f5bd217c61b6b1be533fe2a5fb87efb"
+    },
+    {
+      "id": "demo-87008",
+      "title": "Shower Below the Summit",
+      "artist": "Katsushika Hokusai",
+      "date": "c. 1830/33",
+      "url": "assets/87008.jpg",
+      "thumbnail": "assets/87008-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/87008",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "Japan",
+      "catalogueTitle": "Shower Below the Summit (Sanka hakuu), from the series \"Thirty-Six Views of Mount Fuji (Fugaku sanjurokkei)\"",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 87008,
+      "imageId": "bbb6d024-f931-2e2f-eb95-750991834b1c",
+      "originalUrl": "https://www.artic.edu/iiif/2/bbb6d024-f931-2e2f-eb95-750991834b1c/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        "Japan"
+      ],
+      "originalDimensions": [
+        1686,
+        1167
+      ],
+      "displayDimensions": [
+        1686,
+        1167
+      ],
+      "sha256": "1657d1d7acea8581761568b57e8597438b6a822eae0402e281d8ec7b3c1e6582",
+      "thumbnailSha256": "3d3eb59b39a7aaabe803f7c902b57fb02829f209b0a1ef97b91be951e322af55"
+    },
+    {
+      "id": "demo-3652",
+      "title": "Togetsu Bridge at Arashiyama",
+      "artist": "Katsushika Hokusai",
+      "date": "c. 1833/34",
+      "url": "assets/3652.jpg",
+      "thumbnail": "assets/3652-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/3652",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "Japan",
+      "catalogueTitle": "Togetsu Bridge at Arashiyama in Yamashiro Province (Yamashiro Arashiyama no Togetsukyo), from the series \"Unusual Views of Famous Bridges in Various Provinces (Shokoku meikyo kiran)\"",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 3652,
+      "imageId": "e5dfa01d-b460-73e4-9c40-112385fce56b",
+      "originalUrl": "https://www.artic.edu/iiif/2/e5dfa01d-b460-73e4-9c40-112385fce56b/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        "Japan"
+      ],
+      "originalDimensions": [
+        1686,
+        1143
+      ],
+      "displayDimensions": [
+        1686,
+        1143
+      ],
+      "sha256": "ecdde5e49434e3fd99d9e178abf19436d2112dbc77d19192bf9eaf5ab1f3f739",
+      "thumbnailSha256": "77704d3dc7f7fa81672685378bb2f36ed2bb6d5f60e4ca1716ca42f625c48a96"
+    },
+    {
+      "id": "demo-100627",
+      "title": "Fishing Boats at Choshi",
+      "artist": "Katsushika Hokusai",
+      "date": "c. 1833/34",
+      "url": "assets/100627.jpg",
+      "thumbnail": "assets/100627-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/100627",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "Japan",
+      "catalogueTitle": "Fishing Boats at Choshi in Shimosa (Soshu Choshi) from the series \"One Thousand Pictures of the Ocean (Chie no umi)\"",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 100627,
+      "imageId": "36b4069d-1129-ae14-d4b3-ae9af261cf0c",
+      "originalUrl": "https://www.artic.edu/iiif/2/36b4069d-1129-ae14-d4b3-ae9af261cf0c/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        "Japan"
+      ],
+      "originalDimensions": [
+        1686,
+        1246
+      ],
+      "displayDimensions": [
+        1686,
+        1246
+      ],
+      "sha256": "58a5057d6fdc0997f3d7b2127f6184e8f00270c8c13d2442ae658ade9e5fb9df",
+      "thumbnailSha256": "949ad93cc06f6c93899d45d94924274807af4407b9895d248432df7656b6f1f1"
+    },
+    {
+      "id": "demo-10926",
+      "title": "Mishima: Morning Mist",
+      "artist": "Utagawa Hiroshige",
+      "date": "c. 1833/34",
+      "url": "assets/10926.jpg",
+      "thumbnail": "assets/10926-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/10926",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "Japan",
+      "catalogueTitle": "Mishima: Morning Mist (Mishima, asagiri), from the series \"Fifty-three Stations of the Tokaido Road (Tokaido gojusan tsugi no uchi),\" also known as the Hoeido Tokaido",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 10926,
+      "imageId": "c047003a-949c-a581-7c5a-2c415e8cac75",
+      "originalUrl": "https://www.artic.edu/iiif/2/c047003a-949c-a581-7c5a-2c415e8cac75/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        "Japan"
+      ],
+      "originalDimensions": [
+        1686,
+        1080
+      ],
+      "displayDimensions": [
+        1686,
+        1080
+      ],
+      "sha256": "7f947190190d0fb9ccc2ba66d72f71e43b1a929aa75db02a375c1acb9d0c0819",
+      "thumbnailSha256": "71b0bfb786c040baf61c5f3a65a1fd4a20ee232d39601a425275063931196485"
+    },
+    {
+      "id": "demo-25613",
+      "title": "Kanbara: Evening Snow",
+      "artist": "Utagawa Hiroshige",
+      "date": "c. 1833/34",
+      "url": "assets/25613.jpg",
+      "thumbnail": "assets/25613-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/25613",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "Japan",
+      "catalogueTitle": "Kanbara: Evening Snow (Kanbara, yoru no yuki), from the series \"Fifty-three Stations of the Tokaido (Tokaido gojusan tsugi no uchi),\" also known as the Hoeido Tokaido",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 25613,
+      "imageId": "c287562e-816e-096c-022a-b05199ba4b8f",
+      "originalUrl": "https://www.artic.edu/iiif/2/c287562e-816e-096c-022a-b05199ba4b8f/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        "Japan"
+      ],
+      "originalDimensions": [
+        1686,
+        1094
+      ],
+      "displayDimensions": [
+        1686,
+        1094
+      ],
+      "sha256": "23907a20c8fb2f8e92135fb69673d7bb835f23992e1ec630f657acd929057085",
+      "thumbnailSha256": "9f51215d70243c4b013c7c8b8578d9d20c897cc5a01b04cac2d029d7bb4f8651"
+    },
+    {
+      "id": "demo-11054",
+      "title": "Seba",
+      "artist": "Utagawa Hiroshige",
+      "date": "c. 1835/38",
+      "url": "assets/11054.jpg",
+      "thumbnail": "assets/11054-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/11054",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "Japan",
+      "catalogueTitle": "No. 32: Seba, from the series \"Sixty-nine Stations of the Kisokaido (Kisokaido rokujukyu tsugi no uchi)\"",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 11054,
+      "imageId": "f7a5cc17-a592-2068-49db-fbc068e9491c",
+      "originalUrl": "https://www.artic.edu/iiif/2/f7a5cc17-a592-2068-49db-fbc068e9491c/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        "Japan"
+      ],
+      "originalDimensions": [
+        1686,
+        1071
+      ],
+      "displayDimensions": [
+        1686,
+        1071
+      ],
+      "sha256": "4593d345132e371ab78fa69b448090e37c04caa16bbaf43da04c506fdc65a6e7",
+      "thumbnailSha256": "dc18b077d6f64c6f3cf2942888e9ead6c4911baa97625e31b3d9711c45302585"
+    },
+    {
+      "id": "demo-19040",
+      "title": "Snow at Benzaiten Shrine",
+      "artist": "Utagawa Hiroshige",
+      "date": "c. 1844/45",
+      "url": "assets/19040.jpg",
+      "thumbnail": "assets/19040-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/19040",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "Japan",
+      "catalogueTitle": "Snow at Benzaiten Shrine in Inokashira Pond (Inokashira no ike Benzaiten no yashiro yuki no kei), from the series \"Snow, Moon, and Flowers at Famous Places (Meisho setsugekka)\"",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 19040,
+      "imageId": "880f5bf5-4675-c0aa-2e39-1eec70e6c9df",
+      "originalUrl": "https://www.artic.edu/iiif/2/880f5bf5-4675-c0aa-2e39-1eec70e6c9df/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        "Japan"
+      ],
+      "originalDimensions": [
+        1686,
+        1083
+      ],
+      "displayDimensions": [
+        1686,
+        1083
+      ],
+      "sha256": "5ee0cd66a2b8824241899085e81f3467c03053cf6f5fa0324bb82c982a964d49",
+      "thumbnailSha256": "b1664619b39f4575283326f8ea19bc572afd053211d730e7b7f94bb41876fe73"
+    },
+    {
+      "id": "cma-152556",
+      "title": "Bird on a Flowering Branch",
+      "artist": "Artist unknown",
+      "date": "1100s",
+      "url": "assets/cma-152556.jpg",
+      "thumbnail": "assets/cma-152556-thumb.jpg",
+      "source": "https://clevelandart.org/art/1985.371",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "China",
+      "catalogueTitle": "Bird on a Flowering Branch",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 152556,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1985.371/1985.371_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1985.371/1985.371_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "China, Southern Song dynasty (1127–1279)"
+      ],
+      "originalDimensions": [
+        3400,
+        3352
+      ],
+      "displayDimensions": [
+        1920,
+        1893
+      ],
+      "sha256": "65fce0ed1492f54d303eb96eb5db4a3804a389b9a60ece3bf8e95e33c7e74621",
+      "thumbnailSha256": "89c332e02717096564907a78738970b84f0a7ade7fa6ae19e9acbb5fb4a3b04e"
+    },
+    {
+      "id": "cma-132930",
+      "title": "Landscape after Mi Fei",
+      "artist": "Zha Shibiao",
+      "date": "1684",
+      "url": "assets/cma-132930.jpg",
+      "thumbnail": "assets/cma-132930-thumb.jpg",
+      "source": "https://clevelandart.org/art/1955.37.8",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "China",
+      "catalogueTitle": "Landscape Album in Various Styles: Landscape after Mi Fei",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 132930,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1955.37.8/1955.37.8_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1955.37.8/1955.37.8_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "originalDimensions": [
+        3400,
+        2623
+      ],
+      "displayDimensions": [
+        1920,
+        1481
+      ],
+      "sha256": "71ce553a158f2e8be75f7de1d72f13b2a4d16b3977c9b4c52a4194b6da739d4e",
+      "thumbnailSha256": "b622cc2d406cda4f1d82c00d4a0afc36662285ea2d97a3d5bcf6b185bcaa4d2f"
+    },
+    {
+      "id": "cma-132924",
+      "title": "Spring Plowing",
+      "artist": "Zha Shibiao",
+      "date": "1684",
+      "url": "assets/cma-132924.jpg",
+      "thumbnail": "assets/cma-132924-thumb.jpg",
+      "source": "https://clevelandart.org/art/1955.37.2",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "China",
+      "catalogueTitle": "Landscape Album in Various Styles: Spring Plowing",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 132924,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1955.37.2/1955.37.2_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1955.37.2/1955.37.2_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "originalDimensions": [
+        3400,
+        2661
+      ],
+      "displayDimensions": [
+        1920,
+        1503
+      ],
+      "sha256": "922a60eceb7842fe8959ca0a43a4bff41415e054cae21a1d2cc1d6cd8938f917",
+      "thumbnailSha256": "6bf4a561c9c51a000f5ca175346cef3b7a1eec643ff74ac8c3bd338218ddb4cc"
+    },
+    {
+      "id": "cma-143237",
+      "title": "Herbaceous Peony",
+      "artist": "Yun Shouping",
+      "date": "1685",
+      "url": "assets/cma-143237.jpg",
+      "thumbnail": "assets/cma-143237-thumb.jpg",
+      "source": "https://clevelandart.org/art/1967.192",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "China",
+      "catalogueTitle": "Herbaceous Peony",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 143237,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1967.192/1967.192_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1967.192/1967.192_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "originalDimensions": [
+        2088,
+        3400
+      ],
+      "displayDimensions": [
+        1179,
+        1920
+      ],
+      "sha256": "191d02edec7daff4ed8aead4d387c1a43b7ef7d99595b9cc31011ce98e6826c8",
+      "thumbnailSha256": "4962fa5dd1de5ec5348b264d60ee144f958874d8abcc029f06ba8bbb123daa2a"
+    },
+    {
+      "id": "cma-142642",
+      "title": "Spring Landscape",
+      "artist": "Kuncan",
+      "date": "1666",
+      "url": "assets/cma-142642.jpg",
+      "thumbnail": "assets/cma-142642-thumb.jpg",
+      "source": "https://clevelandart.org/art/1966.367",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "China",
+      "catalogueTitle": "Spring Landscape",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 142642,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1966.367/1966.367_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1966.367/1966.367_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "originalDimensions": [
+        3400,
+        1605
+      ],
+      "displayDimensions": [
+        1920,
+        906
+      ],
+      "sha256": "fa8d50d739876142de5cef38ff3e02a197de62be2b8f33b0c50d56b518a16ad0",
+      "thumbnailSha256": "668466446a3c60484cb95261b6078ee3c351be00bbbc081263d3e65e721dde19"
+    },
+    {
+      "id": "cma-132837",
+      "title": "Seasonal Landscape",
+      "artist": "Xiao Yuncong",
+      "date": "1668",
+      "url": "assets/cma-132837.jpg",
+      "thumbnail": "assets/cma-132837-thumb.jpg",
+      "source": "https://clevelandart.org/art/1955.302.4",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "China",
+      "catalogueTitle": "Album of Seasonal Landscapes, Leaf A (previous leaf 4)",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 132837,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1955.302.4/1955.302.4_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1955.302.4/1955.302.4_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "originalDimensions": [
+        2566,
+        3400
+      ],
+      "displayDimensions": [
+        1449,
+        1920
+      ],
+      "sha256": "d523ddfa38a1502015fed5ddb399c6bd8a93008ec81bbdcb565f8bec6411818d",
+      "thumbnailSha256": "6773f0f15415aa29e54c2b439df5efa09c03e0f3b00b92f03a93e3469b4f3cd9"
+    },
+    {
+      "id": "cma-150932",
+      "title": "Landscape Ink-Play",
+      "artist": "Fang Congyi",
+      "date": "1300s",
+      "url": "assets/cma-150932.jpg",
+      "thumbnail": "assets/cma-150932-thumb.jpg",
+      "source": "https://clevelandart.org/art/1982.34",
+      "publicDomain": true,
+      "collectionId": "japan-print",
+      "country": "China",
+      "catalogueTitle": "Landscape Ink-Play",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 150932,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1982.34/1982.34_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1982.34/1982.34_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "China, Yuan dynasty (1271-1368)"
+      ],
+      "originalDimensions": [
+        3179,
+        3400
+      ],
+      "displayDimensions": [
+        1795,
+        1920
+      ],
+      "sha256": "743bcb4dc818eb72f48eb12832bb0d4a3d88c184d6f0a05da2713c98cddf760e",
+      "thumbnailSha256": "cff246b2992dddb65e15b50190141918190a21dc8a3d2f90810082c24c2c1b03"
+    },
+    {
+      "id": "cma-132620",
+      "title": "Orange Lily",
+      "artist": "Thomas Curtis",
+      "date": "1807",
+      "url": "assets/cma-132620.jpg",
+      "thumbnail": "assets/cma-132620-thumb.jpg",
+      "source": "https://clevelandart.org/art/1955.144",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "The Botanical Magazine or Flower Garden Displayed:  Umbel-Flowering Bulb-Bearing Orange-Lily",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 132620,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1955.144/1955.144_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1955.144/1955.144_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "England, 19th century"
+      ],
+      "originalDimensions": [
+        3400,
+        2845
+      ],
+      "displayDimensions": [
+        1920,
+        1607
+      ],
+      "sha256": "3e72eaac9a8e74964b10ae4454d51349a56ad5ab8565c0a123b3b1ce23ab325b",
+      "thumbnailSha256": "84f6d92f522446392168c1c43dfe42630188ab7acde074b98c5162bab6fea891"
+    },
+    {
+      "id": "cma-135614",
+      "title": "Pasture Rose",
+      "artist": "Pierre-Joseph Redouté",
+      "date": "1817–24",
+      "url": "assets/cma-135614.jpg",
+      "thumbnail": "assets/cma-135614-thumb.jpg",
+      "source": "https://clevelandart.org/art/1959.15",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "Pasture Rose (Rosa Carolina Corymbosa)",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 135614,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1959.15/1959.15_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1959.15/1959.15_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "France, 19th century"
+      ],
+      "originalDimensions": [
+        2346,
+        3400
+      ],
+      "displayDimensions": [
+        1325,
+        1920
+      ],
+      "sha256": "2da34ad0ad7923e1cc6958a935be2377b51405318dcebc49e67ae338c065a34b",
+      "thumbnailSha256": "895e4b46e536c614bc50a709f3c8199a43f54929090f6413631ea3f8ef762e1b"
+    },
+    {
+      "id": "cma-159058",
+      "title": "Hart’s-tongue Fern",
+      "artist": "Anna Atkins",
+      "date": "1852–54",
+      "url": "assets/cma-159058.jpg",
+      "thumbnail": "assets/cma-159058-thumb.jpg",
+      "source": "https://clevelandart.org/art/1995.26",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "Scolopendrium Vulgare",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 159058,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1995.26/1995.26_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1995.26/1995.26_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "England, 19th century"
+      ],
+      "originalDimensions": [
+        2365,
+        3400
+      ],
+      "displayDimensions": [
+        1336,
+        1920
+      ],
+      "sha256": "58e92d503e6ebf29a1f23b835753e9d7101be1a8ae7343ca8c97f1cf570ff87a",
+      "thumbnailSha256": "5ac23a9142b54bfe06c7e5eefdeeec8f3f43f4f94de3f8ffc3484a6784f741c7"
+    },
+    {
+      "id": "cma-380086",
+      "title": "Cherries",
+      "artist": "George Brookshaw",
+      "date": "1805, published 1812",
+      "url": "assets/cma-380086.jpg",
+      "thumbnail": "assets/cma-380086-thumb.jpg",
+      "source": "https://clevelandart.org/art/2020.168",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "Pomona Britannica: No. 10 - Cherries",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 380086,
+      "imageId": "https://openaccess-cdn.clevelandart.org/2020.168/2020.168_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/2020.168/2020.168_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "England"
+      ],
+      "originalDimensions": [
+        2611,
+        3400
+      ],
+      "displayDimensions": [
+        1474,
+        1920
+      ],
+      "sha256": "1fa9811e7535a6788dc21d76b5ee0ad288bfee97ccd0b364f180bc6266613691",
+      "thumbnailSha256": "ea26d891f4cd023818a9e17edcec3769e3dbe044fbafcd375b017c5c13bb7ea2"
+    },
+    {
+      "id": "cma-127485",
+      "title": "Blue Egyptian Waterlily",
+      "artist": "Robert John Thornton",
+      "date": "1804",
+      "url": "assets/cma-127485.jpg",
+      "thumbnail": "assets/cma-127485-thumb.jpg",
+      "source": "https://clevelandart.org/art/1950.166",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "The Temple of Flora, or Garden of Nature:  Blue Egyptian Waterlily",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 127485,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1950.166/1950.166_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1950.166/1950.166_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "England, early 19th Century"
+      ],
+      "originalDimensions": [
+        2607,
+        3400
+      ],
+      "displayDimensions": [
+        1472,
+        1920
+      ],
+      "sha256": "5d36dd5b91be447aa9df0e761339762bc9e0bf1141a7763a1c0213b90b549129",
+      "thumbnailSha256": "5072b506b9f91fb65ad0aa1a94c1ead322bd9cef8e38cf85ac38d4f45cc7a653"
+    },
+    {
+      "id": "cma-132870",
+      "title": "Tradescantia",
+      "artist": "Henri Joseph Redouté",
+      "date": "1802–1816",
+      "url": "assets/cma-132870.jpg",
+      "thumbnail": "assets/cma-132870-thumb.jpg",
+      "source": "https://clevelandart.org/art/1955.329",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "Les Liliacées:  Tradescantia discolor",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 132870,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1955.329/1955.329_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1955.329/1955.329_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "France, 19th century"
+      ],
+      "originalDimensions": [
+        2342,
+        3400
+      ],
+      "displayDimensions": [
+        1323,
+        1920
+      ],
+      "sha256": "cbbbef0c7b7593b3cceb4c9dbd28a8860f41b0985612147594b48653938bfc57",
+      "thumbnailSha256": "c1e1969407f9a73ef7b9d48e6c4b6451d0b5263e0a8d3db221aae842463bdbb2"
+    },
+    {
+      "id": "cma-154193",
+      "title": "Fern Study",
+      "artist": "Frank Meadow Sutcliffe",
+      "date": "late 1870s",
+      "url": "assets/cma-154193.jpg",
+      "thumbnail": "assets/cma-154193-thumb.jpg",
+      "source": "https://clevelandart.org/art/1988.238",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "Untitled (Fern Study)",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 154193,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1988.238/1988.238_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1988.238/1988.238_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "England, 19th century"
+      ],
+      "originalDimensions": [
+        3400,
+        2437
+      ],
+      "displayDimensions": [
+        1920,
+        1376
+      ],
+      "sha256": "4a0f69fdc1b8fb7ab45c0845ad290628666b79c4cb33399f1ce65685681289bd",
+      "thumbnailSha256": "e5a84fcc5ed249686214f8ec472ee92c1f99cbc70a4534bfe12b8b9483526362"
+    },
+    {
+      "id": "cma-133051",
+      "title": "Winged Passionflower",
+      "artist": "Henri Joseph Redouté",
+      "date": "1827",
+      "url": "assets/cma-133051.jpg",
+      "thumbnail": "assets/cma-133051-thumb.jpg",
+      "source": "https://clevelandart.org/art/1955.474",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "Choix des plus belles fleurs...plus beaux fruits:  Passiflore ailee",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 133051,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1955.474/1955.474_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1955.474/1955.474_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "France, 19th century"
+      ],
+      "originalDimensions": [
+        2617,
+        3400
+      ],
+      "displayDimensions": [
+        1478,
+        1920
+      ],
+      "sha256": "ffdb2dff3d4bcdda487862b6c6d97782395ab321ffea39fde20c301a75aeaf1c",
+      "thumbnailSha256": "91fa9d86ef4be280bc04c5f3db9a57b7d240131c2d983eab5b1efe9bfd663615"
+    },
+    {
+      "id": "cma-128484",
+      "title": "Bouquet of Carnations",
+      "artist": "Louis Charles Ruotte; Jean Louis Prévost",
+      "date": "1805",
+      "url": "assets/cma-128484.jpg",
+      "thumbnail": "assets/cma-128484-thumb.jpg",
+      "source": "https://clevelandart.org/art/1951.419",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "Collection of Flowers and Fruits Painted after Nature:  Bouquet of Foxglove, Clematis, Pansy, Peony, Poppy, and Yellow Day Lily",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 128484,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1951.419/1951.419_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1951.419/1951.419_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "France, late 18th-early 19th Century"
+      ],
+      "originalDimensions": [
+        2337,
+        3400
+      ],
+      "displayDimensions": [
+        1320,
+        1920
+      ],
+      "sha256": "ff2a77ecd69ded4d63bbd43649e3a46eaa689f1d7590144ce401005c1001cff2",
+      "thumbnailSha256": "c056c85ff83c337d4c7061b0da67bc9269aea4051e0b15dae3d3ec8fa5d20d43"
+    },
+    {
+      "id": "cma-380083",
+      "title": "Figs",
+      "artist": "Richard Brookshaw",
+      "date": "1807, published 1812",
+      "url": "assets/cma-380083.jpg",
+      "thumbnail": "assets/cma-380083-thumb.jpg",
+      "source": "https://clevelandart.org/art/2020.165",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "Pomona Britannica: No. 74 - Figs",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 380083,
+      "imageId": "https://openaccess-cdn.clevelandart.org/2020.165/2020.165_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/2020.165/2020.165_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "England"
+      ],
+      "originalDimensions": [
+        2595,
+        3400
+      ],
+      "displayDimensions": [
+        1465,
+        1920
+      ],
+      "sha256": "d3feed905adff605f9dd426ea9107e2eae4485f4bbcb3e300845a3bf22205791",
+      "thumbnailSha256": "c8b1549d404c3511a21fecfd347eed011b63d8e6faebe1154684f4fa0a44cc88"
+    },
+    {
+      "id": "cma-157153",
+      "title": "Beech Fern",
+      "artist": "Henry Bradbury",
+      "date": "1855–1856",
+      "url": "assets/cma-157153.jpg",
+      "thumbnail": "assets/cma-157153-thumb.jpg",
+      "source": "https://clevelandart.org/art/1993.45",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "Ferns of Great Britain and Ireland:  Polypodium Phegopteris",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 157153,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1993.45/1993.45_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1993.45/1993.45_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "England, 19th century"
+      ],
+      "originalDimensions": [
+        2297,
+        3400
+      ],
+      "displayDimensions": [
+        1297,
+        1920
+      ],
+      "sha256": "3d545041e4e79bdf4d3706ea74c21afb041eb715685c93fa7bbf5b1ff7e03643",
+      "thumbnailSha256": "1d118dc47e62fed3b05ae733141a956454a8450c6d752eb759132ff17264f367"
+    },
+    {
+      "id": "cma-118187",
+      "title": "Dragon Arum",
+      "artist": "Robert John Thornton; William Ward",
+      "date": "1799–1807",
+      "url": "assets/cma-118187.jpg",
+      "thumbnail": "assets/cma-118187-thumb.jpg",
+      "source": "https://clevelandart.org/art/1939.291",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "The Dragon Arum, Black Calla or Solomon's Lily",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 118187,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1939.291/1939.291_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1939.291/1939.291_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "England, late 18th-early 19th Century"
+      ],
+      "originalDimensions": [
+        2628,
+        3400
+      ],
+      "displayDimensions": [
+        1484,
+        1920
+      ],
+      "sha256": "c93461971e5c2f2e7fc90881e65f50b6a128b9d605e474ea18c6ee8a3bc07b64",
+      "thumbnailSha256": "89b1adf1787cac8cb454e559ef60a1db514c029f72d32684ab4b1a7a09dd777e"
+    },
+    {
+      "id": "cma-132618",
+      "title": "White Cape-Coast Lily",
+      "artist": "Sydenham Edwards",
+      "date": "1806",
+      "url": "assets/cma-132618.jpg",
+      "thumbnail": "assets/cma-132618-thumb.jpg",
+      "source": "https://clevelandart.org/art/1955.142",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "The Botanical Magazine or Flower Garden Displayed:  White Cape - Coast Lily",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 132618,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1955.142/1955.142_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1955.142/1955.142_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "England, 19th century"
+      ],
+      "originalDimensions": [
+        3400,
+        2753
+      ],
+      "displayDimensions": [
+        1920,
+        1555
+      ],
+      "sha256": "2fb3a7d0171736b33f173d4a7a89133bbe6cb317854828a8b2f33c3dd4d581ff",
+      "thumbnailSha256": "2b2be4b51045a30031a2aed02000638c7aa54eeb3d255c94d3e127686aae154b"
+    },
+    {
+      "id": "cma-132873",
+      "title": "Pomegranate",
+      "artist": "Henri Joseph Redouté",
+      "date": "1827",
+      "url": "assets/cma-132873.jpg",
+      "thumbnail": "assets/cma-132873-thumb.jpg",
+      "source": "https://clevelandart.org/art/1955.331",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "Choix des plus belles fleurs...plus beaux fruits:  Grenade",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 132873,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1955.331/1955.331_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1955.331/1955.331_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "France, 19th century"
+      ],
+      "originalDimensions": [
+        2494,
+        3400
+      ],
+      "displayDimensions": [
+        1408,
+        1920
+      ],
+      "sha256": "87b78b476018aa1d29194fde1169a815f8e0db76b402f9fa261e419920297866",
+      "thumbnailSha256": "8750bccf17962e7f32cf7f75124c66328b94d3c065d4a67a2af245abc087868f"
+    },
+    {
+      "id": "cma-132861",
+      "title": "Peppers and Butterflies",
+      "artist": "Maria Sibylla Merian",
+      "date": "1771",
+      "url": "assets/cma-132861.jpg",
+      "thumbnail": "assets/cma-132861-thumb.jpg",
+      "source": "https://clevelandart.org/art/1955.320",
+      "publicDomain": true,
+      "collectionId": "botanical-cabinet",
+      "catalogueTitle": "Histoire générale des insects de Suriname et de toute l'Europe:  Vol I, No. 55 - Poivre d'inde",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 132861,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1955.320/1955.320_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1955.320/1955.320_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "Switzerland"
+      ],
+      "originalDimensions": [
+        2388,
+        3400
+      ],
+      "displayDimensions": [
+        1349,
+        1920
+      ],
+      "sha256": "90c5024b5b842780934590a0a556ee31c8c2b168dad46212243d7c1569d991f2",
+      "thumbnailSha256": "885c622bdf77ef961dc46a5a650f1b66b6f33229b6f8d2960c4718149019e097"
+    },
+    {
+      "id": "demo-109819",
+      "title": "Lozenge Composition with Yellow, Black, Blue, Red, and Gray",
+      "artist": "Piet Mondrian",
+      "date": "1921",
+      "url": "assets/109819.jpg",
+      "thumbnail": "assets/109819-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/109819",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Lozenge Composition with Yellow, Black, Blue, Red, and Gray",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 109819,
+      "imageId": "25f660ee-f1db-d13b-42a5-56df97c98ba7",
+      "originalUrl": "https://www.artic.edu/iiif/2/25f660ee-f1db-d13b-42a5-56df97c98ba7/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        "Netherlands"
+      ],
+      "originalDimensions": [
+        1686,
+        1686
+      ],
+      "displayDimensions": [
+        1686,
+        1686
+      ],
+      "sha256": "abd9f750dcf706e38233093d30b6b3d9247ae6ab296769b9937d8c3caa695aa8",
+      "thumbnailSha256": "ce7861de8f78994f58aeae14051f2c3ea5668c939fc7c022e28e75b9a30496e5"
+    },
+    {
+      "id": "artvee-1111609",
+      "title": "Green",
+      "artist": "Wassily Kandinsky",
+      "date": "1924",
+      "url": "assets/artvee-1111609.jpg",
+      "thumbnail": "assets/artvee-1111609-thumb.jpg",
+      "source": "https://artvee.com/dl/green-3/",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Green",
+      "provider": "artvee",
+      "museum": "Artvee",
+      "objectId": 1111609,
+      "imageId": "https://mdl.artvee.com/sdl/913638absdl.jpg",
+      "originalUrl": "https://mdl.artvee.com/sdl/913638absdl.jpg",
+      "rights": "Public domain (Artvee)",
+      "policy": "https://artvee.com/terms-of-service/",
+      "museumCulture": [],
+      "originalDimensions": [
+        1800,
+        1361
+      ],
+      "displayDimensions": [
+        1800,
+        1361
+      ],
+      "sha256": "4bcde9cbc7aa536d84cec67efdfce7019dff099ec550fcce1e97d8f887498b5c",
+      "thumbnailSha256": "667006abb82a3938da171daeed737dfa724acc2818cdcb95229a8473b331c48a",
+      "retrievalNote": "Free Standard JPEG resolved from the public artwork page at build time."
+    },
+    {
+      "id": "artvee-1012079",
+      "title": "Counter-Composition IV",
+      "artist": "Theo van Doesburg",
+      "date": "1924",
+      "url": "assets/artvee-1012079.jpg",
+      "thumbnail": "assets/artvee-1012079-thumb.jpg",
+      "source": "https://artvee.com/dl/contra-composition-iv/",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Contra-composition IV",
+      "provider": "artvee",
+      "museum": "Artvee",
+      "objectId": 1012079,
+      "imageId": "https://mdl.artvee.com/sdl/913141absdl.jpg",
+      "originalUrl": "https://mdl.artvee.com/sdl/913141absdl.jpg",
+      "rights": "Public domain (Artvee)",
+      "policy": "https://artvee.com/terms-of-service/",
+      "museumCulture": [],
+      "originalDimensions": [
+        1800,
+        1779
+      ],
+      "displayDimensions": [
+        1800,
+        1779
+      ],
+      "sha256": "bf58eb8354c13ce11beba6dfcfd7fed3bb4b154498a805c93692754e43d00369",
+      "thumbnailSha256": "6591a7dec03536bf50fbc80bbc8f2d71874ca952e2db660087c5180ebafa29f3",
+      "retrievalNote": "Free Standard JPEG resolved from the public artwork page at build time."
+    },
+    {
+      "id": "artvee-1118854",
+      "title": "Black Accompaniment",
+      "artist": "Wassily Kandinsky",
+      "date": "1923",
+      "url": "assets/artvee-1118854.jpg",
+      "thumbnail": "assets/artvee-1118854-thumb.jpg",
+      "source": "https://artvee.com/dl/schwarze-begleitung/",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Schwarze Begleitung",
+      "provider": "artvee",
+      "museum": "Artvee",
+      "objectId": 1118854,
+      "imageId": "https://mdl.artvee.com/sdl/913860absdl.jpg",
+      "originalUrl": "https://mdl.artvee.com/sdl/913860absdl.jpg",
+      "rights": "Public domain (Artvee)",
+      "policy": "https://artvee.com/terms-of-service/",
+      "museumCulture": [],
+      "originalDimensions": [
+        1416,
+        1800
+      ],
+      "displayDimensions": [
+        1416,
+        1800
+      ],
+      "sha256": "517924b7e334d64f66ac5375ba19d088629c321e1c092d1566f72c6a552e8cc9",
+      "thumbnailSha256": "3b34182841bb682c8c10e95015c7ad508575a7afd0811c799b6cdba6f4136cd9",
+      "retrievalNote": "Free Standard JPEG resolved from the public artwork page at build time."
+    },
+    {
+      "id": "artvee-848339",
+      "title": "Composition XXI",
+      "artist": "Theo van Doesburg",
+      "date": "1923",
+      "url": "assets/artvee-848339.jpg",
+      "thumbnail": "assets/artvee-848339-thumb.jpg",
+      "source": "https://artvee.com/dl/composition-xxi/",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Composition XXI",
+      "provider": "artvee",
+      "museum": "Artvee",
+      "objectId": 848339,
+      "imageId": "https://mdl.artvee.com/sdl/912479absdl.jpg",
+      "originalUrl": "https://mdl.artvee.com/sdl/912479absdl.jpg",
+      "rights": "Public domain (Artvee)",
+      "policy": "https://artvee.com/terms-of-service/",
+      "museumCulture": [],
+      "originalDimensions": [
+        1436,
+        1800
+      ],
+      "displayDimensions": [
+        1436,
+        1800
+      ],
+      "sha256": "7465ed2b900b881805334f37494b60d07af8ff90f09cc5db75ef514a70c6aa7b",
+      "thumbnailSha256": "94ce46c00c44e72b4bf6cf854f1d0212bb30b2c11066e3b6e1474c323b063ce6",
+      "retrievalNote": "Free Standard JPEG resolved from the public artwork page at build time."
+    },
+    {
+      "id": "cma-144705",
+      "title": "Carnival in the Snow",
+      "artist": "Paul Klee",
+      "date": "1923",
+      "url": "assets/cma-144705.jpg",
+      "thumbnail": "assets/cma-144705-thumb.jpg",
+      "source": "https://clevelandart.org/art/1969.46",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Carnival in the Snow",
+      "provider": "cma",
+      "museum": "Cleveland Museum of Art",
+      "objectId": 144705,
+      "imageId": "https://openaccess-cdn.clevelandart.org/1969.46/1969.46_web.jpg",
+      "originalUrl": "https://openaccess-cdn.clevelandart.org/1969.46/1969.46_print.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.clevelandart.org/open-access",
+      "museumCulture": [
+        "Germany, 20th century"
+      ],
+      "originalDimensions": [
+        1536,
+        1676
+      ],
+      "displayDimensions": [
+        1536,
+        1676
+      ],
+      "sha256": "b07cb007d9abba7303e25be8b055188b831df2d1e30fedea940162399a70eb94",
+      "thumbnailSha256": "0b859803f97a35e6435a4820f833019d25f3e44c4d0732bdbb1bb8e98127d182"
+    },
+    {
+      "id": "artvee-367182",
+      "title": "Suprematism",
+      "artist": "Kazimir Malevich",
+      "date": "1917",
+      "url": "assets/artvee-367182.jpg",
+      "thumbnail": "assets/artvee-367182-thumb.jpg",
+      "source": "https://artvee.com/dl/suprematism-3/",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Suprematism",
+      "provider": "artvee",
+      "museum": "Artvee",
+      "objectId": 367182,
+      "imageId": "https://mdl.artvee.com/sdl/107446absdl.jpg",
+      "originalUrl": "https://mdl.artvee.com/sdl/107446absdl.jpg",
+      "rights": "Public domain (Artvee)",
+      "policy": "https://artvee.com/terms-of-service/",
+      "museumCulture": [],
+      "originalDimensions": [
+        1281,
+        1800
+      ],
+      "displayDimensions": [
+        1281,
+        1800
+      ],
+      "sha256": "41d552af593e966e50e58a0d2547830e54ae1a66d70c8bb42b0a12e534e2d092",
+      "thumbnailSha256": "87aeb1b911f20bb55f5d767fe46cef5a2613105d32e66633df68814fb7741260",
+      "retrievalNote": "Free Standard JPEG resolved from the public artwork page at build time."
+    },
+    {
+      "id": "artvee-627241",
+      "title": "Composition with Blue, Red, Yellow and Black",
+      "artist": "Piet Mondrian",
+      "date": "1922",
+      "url": "assets/artvee-627241.jpg",
+      "thumbnail": "assets/artvee-627241-thumb.jpg",
+      "source": "https://artvee.com/dl/composition-with-blue-red-yellow-and-black/",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Composition with Blue, Red, Yellow, and Black",
+      "provider": "artvee",
+      "museum": "Artvee",
+      "objectId": 627241,
+      "imageId": "https://mdl.artvee.com/sdl/911513absdl.jpg",
+      "originalUrl": "https://mdl.artvee.com/sdl/911513absdl.jpg",
+      "rights": "Public domain (Artvee)",
+      "policy": "https://artvee.com/terms-of-service/",
+      "museumCulture": [],
+      "originalDimensions": [
+        1800,
+        1546
+      ],
+      "displayDimensions": [
+        1800,
+        1546
+      ],
+      "sha256": "789debe6df538968eb4987194882ff8f30446048e679b8eb306f3850fe64d303",
+      "thumbnailSha256": "5feeb13df3fdb5acdf27164a274ba0a71daef1c346a846f62e4a1b327b882e8b",
+      "retrievalNote": "Free Standard JPEG resolved from the public artwork page at build time."
+    },
+    {
+      "id": "demo-8987",
+      "title": "Painting with Green Center",
+      "artist": "Vasily Kandinsky",
+      "date": "1913",
+      "url": "assets/8987.jpg",
+      "thumbnail": "assets/8987-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/8987",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Painting with Green Center",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 8987,
+      "imageId": "c68f33ec-feb1-5277-334b-b71ac15ae394",
+      "originalUrl": "https://www.artic.edu/iiif/2/c68f33ec-feb1-5277-334b-b71ac15ae394/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        "Germany"
+      ],
+      "originalDimensions": [
+        1686,
+        1570
+      ],
+      "displayDimensions": [
+        1686,
+        1570
+      ],
+      "sha256": "21b5d3b8067a125b280bd5156e181ed26bec8a7409aff737a533fe41a10bca8a",
+      "thumbnailSha256": "58dccd3feb91d3f6f5cecc7fcc426d9e7d05a2456bc1718a5fa7e50bd4aed8c4"
+    },
+    {
+      "id": "artvee-324188",
+      "title": "Variation on Composition XIII",
+      "artist": "Theo van Doesburg",
+      "date": "1918",
+      "url": "assets/artvee-324188.jpg",
+      "thumbnail": "assets/artvee-324188-thumb.jpg",
+      "source": "https://artvee.com/dl/variation-on-composition-xiii/",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Variation on Composition XIII",
+      "provider": "artvee",
+      "museum": "Artvee",
+      "objectId": 324188,
+      "imageId": "https://mdl.artvee.com/sdl/107164absdl.jpg",
+      "originalUrl": "https://mdl.artvee.com/sdl/107164absdl.jpg",
+      "rights": "Public domain (Artvee)",
+      "policy": "https://artvee.com/terms-of-service/",
+      "museumCulture": [],
+      "originalDimensions": [
+        1800,
+        1799
+      ],
+      "displayDimensions": [
+        1800,
+        1799
+      ],
+      "sha256": "4d56332df4114920414cba8544cd6413ae41d3ba3db37a866f424b51cd099431",
+      "thumbnailSha256": "6c97e03616063b08abc3585cecebbc3c9e81d1148e3f432728927af9aec93b75",
+      "retrievalNote": "Free Standard JPEG resolved from the public artwork page at build time."
+    },
+    {
+      "id": "artvee-1118856",
+      "title": "Curved Points",
+      "artist": "Wassily Kandinsky",
+      "date": "1927",
+      "url": "assets/artvee-1118856.jpg",
+      "thumbnail": "assets/artvee-1118856-thumb.jpg",
+      "source": "https://artvee.com/dl/gebogene-spitzen/",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Gebogene Spitzen",
+      "provider": "artvee",
+      "museum": "Artvee",
+      "objectId": 1118856,
+      "imageId": "https://mdl.artvee.com/sdl/913861absdl.jpg",
+      "originalUrl": "https://mdl.artvee.com/sdl/913861absdl.jpg",
+      "rights": "Public domain (Artvee)",
+      "policy": "https://artvee.com/terms-of-service/",
+      "museumCulture": [],
+      "originalDimensions": [
+        1206,
+        1800
+      ],
+      "displayDimensions": [
+        1206,
+        1800
+      ],
+      "sha256": "39628f9c50fd0d44def26dc7f7b152d9ab07e7a3fb6705f2ad31c8f43432dbd1",
+      "thumbnailSha256": "abb939ea2ca410dc613dfb29846f87cb79929674760d7e09379a3813fdc840f7",
+      "retrievalNote": "Free Standard JPEG resolved from the public artwork page at build time."
+    },
+    {
+      "id": "artvee-1012073",
+      "title": "Eiffel Tower",
+      "artist": "Robert Delaunay",
+      "date": "1924",
+      "url": "assets/artvee-1012073.jpg",
+      "thumbnail": "assets/artvee-1012073-thumb.jpg",
+      "source": "https://artvee.com/dl/eiffel-tower-2/",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Eiffel Tower",
+      "provider": "artvee",
+      "museum": "Artvee",
+      "objectId": 1012073,
+      "imageId": "https://mdl.artvee.com/sdl/913138absdl.jpg",
+      "originalUrl": "https://mdl.artvee.com/sdl/913138absdl.jpg",
+      "rights": "Public domain (Artvee)",
+      "policy": "https://artvee.com/terms-of-service/",
+      "museumCulture": [],
+      "originalDimensions": [
+        1077,
+        1800
+      ],
+      "displayDimensions": [
+        1077,
+        1800
+      ],
+      "sha256": "55d6f5a1e758d1ff0e1ed2934040dd2fdbbd67dc534e161f8af35600b987163b",
+      "thumbnailSha256": "c90ccdaa5299e47fa9be972f45eefb0abed05a4586d055d9d5954d4c52554cab",
+      "retrievalNote": "Free Standard JPEG resolved from the public artwork page at build time."
+    },
+    {
+      "id": "artvee-229920",
+      "title": "Proun IV",
+      "artist": "El Lissitzky",
+      "date": "1923",
+      "url": "assets/artvee-229920.jpg",
+      "thumbnail": "assets/artvee-229920-thumb.jpg",
+      "source": "https://artvee.com/dl/proun-iv-blatt-4-der-i-kestnermappe-proun/",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Proun IV – Blatt 4 der I. Kestnermappe, Proun",
+      "provider": "artvee",
+      "museum": "Artvee",
+      "objectId": 229920,
+      "imageId": "https://mdl.artvee.com/sdl/105786absdl.jpg",
+      "originalUrl": "https://mdl.artvee.com/sdl/105786absdl.jpg",
+      "rights": "Public domain (Artvee)",
+      "policy": "https://artvee.com/terms-of-service/",
+      "museumCulture": [],
+      "originalDimensions": [
+        1296,
+        1800
+      ],
+      "displayDimensions": [
+        1296,
+        1800
+      ],
+      "sha256": "b19ee7576a6a606f89efcb54f51ce1872e5b995afa689b33fc44c06e2d190a7e",
+      "thumbnailSha256": "b09dda4eb032ec18b06a73ae48c59af8310e76866d7bb8536576d0b6089f3aac",
+      "retrievalNote": "Free Standard JPEG resolved from the public artwork page at build time."
+    },
+    {
+      "id": "demo-8991",
+      "title": "Improvisation No. 30 (Cannons)",
+      "artist": "Vasily Kandinsky",
+      "date": "1913",
+      "url": "assets/8991.jpg",
+      "thumbnail": "assets/8991-thumb.jpg",
+      "source": "https://www.artic.edu/artworks/8991",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Improvisation No. 30 (Cannons)",
+      "provider": "aic",
+      "museum": "Art Institute of Chicago",
+      "objectId": 8991,
+      "imageId": "b5bc6b66-9e6e-fe57-dcec-fc49e820e904",
+      "originalUrl": "https://www.artic.edu/iiif/2/b5bc6b66-9e6e-fe57-dcec-fc49e820e904/full/1686,/0/default.jpg",
+      "rights": "CC0 public-domain museum image",
+      "policy": "https://www.artic.edu/open-access/open-access-images",
+      "museumCulture": [
+        "Germany"
+      ],
+      "originalDimensions": [
+        1686,
+        1693
+      ],
+      "displayDimensions": [
+        1686,
+        1693
+      ],
+      "sha256": "1e732fa07df4173203a6cc8b99e8bfa7642f725da02c60e7eeb0b9a61e2ee9bc",
+      "thumbnailSha256": "64490e3991fe307ea1fad8c5f70eb9496ae98768cd70a2b1a189ab5d17aab8ec"
+    },
+    {
+      "id": "artvee-1099173",
+      "title": "Peaceful",
+      "artist": "Wassily Kandinsky",
+      "date": "1930",
+      "url": "assets/artvee-1099173.jpg",
+      "thumbnail": "assets/artvee-1099173-thumb.jpg",
+      "source": "https://artvee.com/dl/friedlich/",
+      "publicDomain": true,
+      "collectionId": "shape-colour",
+      "catalogueTitle": "Friedlich",
+      "provider": "artvee",
+      "museum": "Artvee",
+      "objectId": 1099173,
+      "imageId": "https://mdl.artvee.com/sdl/913566absdl.jpg",
+      "originalUrl": "https://mdl.artvee.com/sdl/913566absdl.jpg",
+      "rights": "Public domain (Artvee)",
+      "policy": "https://artvee.com/terms-of-service/",
+      "museumCulture": [],
+      "originalDimensions": [
+        1234,
+        1800
+      ],
+      "displayDimensions": [
+        1234,
+        1800
+      ],
+      "sha256": "468f035fe1659d9d23bf6a5f3b92e02e9b6c0098b856809ad3f40dec8280ac98",
+      "thumbnailSha256": "81657b80cba080dbfcf6357f70e24072a6a446be459b9b6b062701bc33c91162",
+      "retrievalNote": "Free Standard JPEG resolved from the public artwork page at build time."
+    }
+  ]
+}

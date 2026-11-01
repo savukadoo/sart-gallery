@@ -1,0 +1,331 @@
+[
+  {
+    "id": "light-water",
+    "name": "Light & Water",
+    "description": "Impressionist light, rivers, gardens and quiet interiors.",
+    "coverId": "demo-16568",
+    "artworks": [
+      {
+        "provider": "aic",
+        "id": 16568
+      },
+      {
+        "provider": "aic",
+        "id": 27992
+      },
+      {
+        "provider": "aic",
+        "id": 20684
+      },
+      {
+        "provider": "aic",
+        "id": 28560
+      },
+      {
+        "provider": "aic",
+        "id": 14620
+      },
+      {
+        "provider": "aic",
+        "id": 14598
+      },
+      {
+        "provider": "aic",
+        "id": 81537
+      },
+      {
+        "provider": "aic",
+        "id": 16554
+      },
+      {
+        "provider": "aic",
+        "id": 87000
+      },
+      {
+        "provider": "aic",
+        "id": 45838
+      },
+      {
+        "provider": "aic",
+        "id": 16633
+      },
+      {
+        "provider": "aic",
+        "id": 81561
+      },
+      {
+        "provider": "aic",
+        "id": 81555
+      },
+      {
+        "provider": "aic",
+        "id": 95654
+      },
+      {
+        "provider": "aic",
+        "id": 14586
+      }
+    ]
+  },
+  {
+    "id": "japan-print",
+    "name": "Japan & China",
+    "description": "Japanese woodblock prints and Chinese ink paintings, birds and mountain landscapes.",
+    "coverId": "demo-24645",
+    "artworks": [
+      {
+        "provider": "aic",
+        "id": 24645,
+        "title": "The Great Wave",
+        "country": "Japan"
+      },
+      {
+        "provider": "aic",
+        "id": 87008,
+        "title": "Shower Below the Summit",
+        "country": "Japan"
+      },
+      {
+        "provider": "aic",
+        "id": 3652,
+        "title": "Togetsu Bridge at Arashiyama",
+        "country": "Japan"
+      },
+      {
+        "provider": "aic",
+        "id": 100627,
+        "title": "Fishing Boats at Choshi",
+        "country": "Japan"
+      },
+      {
+        "provider": "aic",
+        "id": 10926,
+        "title": "Mishima: Morning Mist",
+        "country": "Japan"
+      },
+      {
+        "provider": "aic",
+        "id": 25613,
+        "title": "Kanbara: Evening Snow",
+        "country": "Japan"
+      },
+      {
+        "provider": "aic",
+        "id": 11054,
+        "title": "Seba",
+        "country": "Japan"
+      },
+      {
+        "provider": "aic",
+        "id": 19040,
+        "title": "Snow at Benzaiten Shrine",
+        "country": "Japan"
+      },
+      {
+        "provider": "cma",
+        "id": 152556,
+        "title": "Bird on a Flowering Branch",
+        "country": "China"
+      },
+      {
+        "provider": "cma",
+        "id": 132930,
+        "title": "Landscape after Mi Fei",
+        "country": "China"
+      },
+      {
+        "provider": "cma",
+        "id": 132924,
+        "title": "Spring Plowing",
+        "country": "China"
+      },
+      {
+        "provider": "cma",
+        "id": 143237,
+        "title": "Herbaceous Peony",
+        "country": "China"
+      },
+      {
+        "provider": "cma",
+        "id": 142642,
+        "title": "Spring Landscape",
+        "country": "China"
+      },
+      {
+        "provider": "cma",
+        "id": 132837,
+        "title": "Seasonal Landscape",
+        "country": "China"
+      },
+      {
+        "provider": "cma",
+        "id": 150932,
+        "title": "Landscape Ink-Play",
+        "country": "China"
+      }
+    ]
+  },
+  {
+    "id": "botanical-cabinet",
+    "name": "Botanical Cabinet",
+    "description": "Flowers, ferns, fruit and foliage in botanical studies, prints and early photography.",
+    "coverId": "cma-132620",
+    "artworks": [
+      {
+        "provider": "cma",
+        "id": 132620,
+        "title": "Orange Lily"
+      },
+      {
+        "provider": "cma",
+        "id": 135614,
+        "title": "Pasture Rose"
+      },
+      {
+        "provider": "cma",
+        "id": 159058,
+        "title": "Hart’s-tongue Fern"
+      },
+      {
+        "provider": "cma",
+        "id": 380086,
+        "title": "Cherries"
+      },
+      {
+        "provider": "cma",
+        "id": 127485,
+        "title": "Blue Egyptian Waterlily"
+      },
+      {
+        "provider": "cma",
+        "id": 132870,
+        "title": "Tradescantia"
+      },
+      {
+        "provider": "cma",
+        "id": 154193,
+        "title": "Fern Study"
+      },
+      {
+        "provider": "cma",
+        "id": 133051,
+        "title": "Winged Passionflower"
+      },
+      {
+        "provider": "cma",
+        "id": 128484,
+        "title": "Bouquet of Carnations"
+      },
+      {
+        "provider": "cma",
+        "id": 380083,
+        "title": "Figs"
+      },
+      {
+        "provider": "cma",
+        "id": 157153,
+        "title": "Beech Fern"
+      },
+      {
+        "provider": "cma",
+        "id": 118187,
+        "title": "Dragon Arum"
+      },
+      {
+        "provider": "cma",
+        "id": 132618,
+        "title": "White Cape-Coast Lily"
+      },
+      {
+        "provider": "cma",
+        "id": 132873,
+        "title": "Pomegranate"
+      },
+      {
+        "provider": "cma",
+        "id": 132861,
+        "title": "Peppers and Butterflies"
+      }
+    ]
+  },
+  {
+    "id": "shape-colour",
+    "name": "Shape & Colour",
+    "description": "Bold geometry, colour rhythms and abstract compositions.",
+    "coverId": "demo-109819",
+    "artworks": [
+      {
+        "provider": "aic",
+        "id": 109819
+      },
+      {
+        "provider": "artvee",
+        "id": 1111609,
+        "title": "Green"
+      },
+      {
+        "provider": "artvee",
+        "id": 1012079,
+        "title": "Counter-Composition IV"
+      },
+      {
+        "provider": "artvee",
+        "id": 1118854,
+        "title": "Black Accompaniment"
+      },
+      {
+        "provider": "artvee",
+        "id": 848339,
+        "title": "Composition XXI"
+      },
+      {
+        "provider": "cma",
+        "id": 144705,
+        "title": "Carnival in the Snow"
+      },
+      {
+        "provider": "artvee",
+        "id": 367182,
+        "title": "Suprematism"
+      },
+      {
+        "provider": "artvee",
+        "id": 627241,
+        "title": "Composition with Blue, Red, Yellow and Black"
+      },
+      {
+        "provider": "aic",
+        "id": 8987
+      },
+      {
+        "provider": "artvee",
+        "id": 324188,
+        "title": "Variation on Composition XIII"
+      },
+      {
+        "provider": "artvee",
+        "id": 1118856,
+        "title": "Curved Points"
+      },
+      {
+        "provider": "artvee",
+        "id": 1012073,
+        "title": "Eiffel Tower"
+      },
+      {
+        "provider": "artvee",
+        "id": 229920,
+        "title": "Proun IV"
+      },
+      {
+        "provider": "aic",
+        "id": 8991
+      },
+      {
+        "provider": "artvee",
+        "id": 1099173,
+        "title": "Peaceful"
+      }
+    ]
+  }
+]

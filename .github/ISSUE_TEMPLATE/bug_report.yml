@@ -1,0 +1,37 @@
+name: Bug report
+description: Report a reproducible problem in SART Gallery.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Use disposable examples. Remove personal photos, connection codes, network addresses and device identifiers. Report vulnerabilities privately through the Security tab.
+  - type: input
+    id: version
+    attributes:
+      label: SART version
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Tizen version and general TV family, or browser and operating system. Do not include a device serial number or address.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual behaviour
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Clean screenshots or redacted logs
+      description: Include only material you are comfortable making public.

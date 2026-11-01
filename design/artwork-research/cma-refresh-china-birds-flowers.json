@@ -1,0 +1,2982 @@
+{
+  "info": {
+    "total": 94,
+    "parameters": {
+      "skip": 0,
+      "limit": 60,
+      "type": "Painting",
+      "q": "flowers",
+      "cc0": "1",
+      "culture": "China",
+      "has_image": "1",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,classification_type,collection,gallery,department",
+      "classification_type": "Painting",
+      "search": "flowers"
+    }
+  },
+  "data": [
+    {
+      "id": 143462,
+      "accession_number": "1967.36",
+      "share_license_status": "CC0",
+      "title": "Ink Flowers",
+      "creation_date": "1361",
+      "culture": [
+        "China, Yuan dynasty (1271–1368)"
+      ],
+      "technique": "Handscroll; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1967.36",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.36/1967.36_web.jpg",
+          "width": "1263",
+          "height": "268",
+          "filesize": "206380",
+          "filename": "1967.36_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.36/1967.36_print.jpg",
+          "width": "2048",
+          "height": "707",
+          "filesize": "100371",
+          "filename": "1967.36_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.36/1967.36_full.tif",
+          "width": "2048",
+          "height": "707",
+          "filesize": "111596",
+          "filename": "1967.36_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 11254,
+          "description": "Zhao Zhong (Chinese, second half of the 1300s)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "趙衷",
+          "birth_year": "1345",
+          "death_year": "1405",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149109,
+      "accession_number": "1977.4",
+      "share_license_status": "CC0",
+      "title": "Flowers of Four Seasons, with Poems",
+      "creation_date": "1531",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "handscroll; ink and light color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1977.4",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1977.4/1977.4_web.jpg",
+          "width": "900",
+          "height": "37",
+          "filesize": "49627",
+          "filename": "1977.4_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1977.4/1977.4_print.jpg",
+          "width": "3400",
+          "height": "141",
+          "filesize": "182760",
+          "filename": "1977.4_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1977.4/1977.4_full.tif",
+          "width": "59746",
+          "height": "2476",
+          "filesize": "443828848",
+          "filename": "1977.4_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 22864,
+          "description": "Wang Guxiang (Chinese, 1501–1568)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "王穀祥",
+          "birth_year": "1501",
+          "death_year": "1568",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 95080,
+      "accession_number": "1915.617",
+      "share_license_status": "CC0",
+      "title": "Insects and Flowers",
+      "creation_date": "c. 1900",
+      "culture": [
+        "China, Qing dynasty (1644-1911) or Republican period (1912-49)"
+      ],
+      "technique": "Handscroll; ink and color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1915.617",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.617/1915.617_web.jpg",
+          "width": "1263",
+          "height": "42",
+          "filesize": "45837",
+          "filename": "1915.617_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.617/1915.617_print.jpg",
+          "width": "3400",
+          "height": "112",
+          "filesize": "263180",
+          "filename": "1915.617_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.617/1915.617_full.tif",
+          "width": "30000",
+          "height": "984",
+          "filesize": "88579988",
+          "filename": "1915.617_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 94611,
+      "accession_number": "1915.116",
+      "share_license_status": "CC0",
+      "title": "Flowers and Rocks",
+      "creation_date": "1368–1644",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "hanging scroll; color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1915.116",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.116/1915.116_web.jpg",
+          "width": "281",
+          "height": "900",
+          "filesize": "90971",
+          "filename": "1915.116_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.116/1915.116_print.jpg",
+          "width": "1062",
+          "height": "3400",
+          "filesize": "799366",
+          "filename": "1915.116_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.116/1915.116_full.tif",
+          "width": "4933",
+          "height": "15794",
+          "filesize": "233764408",
+          "filename": "1915.116_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148243,
+      "accession_number": "1975.22.8",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 8",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.8/1975.22.8_web.jpg",
+          "width": "1263",
+          "height": "662",
+          "filesize": "674076",
+          "filename": "1975.22.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.8/1975.22.8_print.jpg",
+          "width": "3400",
+          "height": "1781",
+          "filesize": "5683589",
+          "filename": "1975.22.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.8/1975.22.8_full.tif",
+          "width": "6390",
+          "height": "3349",
+          "filesize": "64230728",
+          "filename": "1975.22.8_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148241,
+      "accession_number": "1975.22.6",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 6",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.6",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.6/1975.22.6_web.jpg",
+          "width": "1263",
+          "height": "662",
+          "filesize": "667173",
+          "filename": "1975.22.6_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.6/1975.22.6_print.jpg",
+          "width": "3400",
+          "height": "1781",
+          "filesize": "5655502",
+          "filename": "1975.22.6_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.6/1975.22.6_full.tif",
+          "width": "6390",
+          "height": "3349",
+          "filesize": "64230640",
+          "filename": "1975.22.6_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 145419,
+      "accession_number": "1970.70",
+      "share_license_status": "CC0",
+      "title": "Flowers and Birds",
+      "creation_date": "first half of the 14th Century",
+      "culture": [
+        "China, Yuan dynasty (1271-1368)"
+      ],
+      "technique": "Album leaf; ink and color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1970.70",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.70/1970.70_web.jpg",
+          "width": "888",
+          "height": "893",
+          "filesize": "537040",
+          "filename": "1970.70_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.70/1970.70_print.jpg",
+          "width": "3382",
+          "height": "3400",
+          "filesize": "7379392",
+          "filename": "1970.70_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.70/1970.70_full.tif",
+          "width": "6144",
+          "height": "6176",
+          "filesize": "113857096",
+          "filename": "1970.70_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31479,
+          "description": "Qian Xuan (Chinese, 1235–1307)",
+          "extent": null,
+          "qualifier": "style of",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "錢選",
+          "birth_year": "1235",
+          "death_year": "1307",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 145430,
+      "accession_number": "1970.80",
+      "share_license_status": "CC0",
+      "title": "Ink Plum",
+      "creation_date": "late 1400s–early 1500s",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "hanging scroll, ink on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1970.80",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.80/1970.80_web.jpg",
+          "width": "467",
+          "height": "893",
+          "filesize": "306437",
+          "filename": "1970.80_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.80/1970.80_print.jpg",
+          "width": "1778",
+          "height": "3400",
+          "filesize": "3520391",
+          "filename": "1970.80_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.80/1970.80_full.tif",
+          "width": "2615",
+          "height": "5000",
+          "filesize": "39238516",
+          "filename": "1970.80_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23276,
+          "description": "Peng Xu (Chinese, active 1488–1521)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "彭勖",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 152556,
+      "accession_number": "1985.371",
+      "share_license_status": "CC0",
+      "title": "Bird on a Flowering Branch",
+      "creation_date": "1100s",
+      "culture": [
+        "China, Southern Song dynasty (1127–1279)"
+      ],
+      "technique": "album leaf mounted as a hanging scroll; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1985.371",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.371/1985.371_web.jpg",
+          "width": "900",
+          "height": "887",
+          "filesize": "417104",
+          "filename": "1985.371_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.371/1985.371_print.jpg",
+          "width": "3400",
+          "height": "3352",
+          "filesize": "7341474",
+          "filename": "1985.371_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.371/1985.371_full.tif",
+          "width": "9707",
+          "height": "9569",
+          "filesize": "278688533",
+          "filename": "1985.371_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 159726,
+      "accession_number": "1997.101",
+      "share_license_status": "CC0",
+      "title": "Flowering Crab Apple",
+      "creation_date": "1500",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "hanging scroll; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1997.101",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.101/1997.101_web.jpg",
+          "width": "301",
+          "height": "893",
+          "filesize": "186982",
+          "filename": "1997.101_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.101/1997.101_print.jpg",
+          "width": "1146",
+          "height": "3400",
+          "filesize": "2590556",
+          "filename": "1997.101_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.101/1997.101_full.tif",
+          "width": "3336",
+          "height": "9900",
+          "filesize": "99100264",
+          "filename": "1997.101_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23557,
+          "description": "Shen Zhou (Chinese, 1427–1509)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "沈周",
+          "birth_year": "1427",
+          "death_year": "1509",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 167664,
+      "accession_number": "2009.342.3",
+      "share_license_status": "CC0",
+      "title": "Shakyamuni Triad: Buddha Attended by Manjushri and Samantabhadra (Bodhisattva with Elephant)",
+      "creation_date": "late 1300s",
+      "culture": [
+        "China, Fuzhou, Fujian Province, Yuan dynasty (1271-1368)"
+      ],
+      "technique": "Hanging scroll; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2009.342.3",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2009.342.3/2009.342.3_web.jpg",
+          "width": "404",
+          "height": "893",
+          "filesize": "311764",
+          "filename": "2009.342.3_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2009.342.3/2009.342.3_print.jpg",
+          "width": "1537",
+          "height": "3400",
+          "filesize": "4603724",
+          "filename": "2009.342.3_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2009.342.3/2009.342.3_full.tif",
+          "width": "2962",
+          "height": "6552",
+          "filesize": "58246916",
+          "filename": "2009.342.3_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 143237,
+      "accession_number": "1967.192",
+      "share_license_status": "CC0",
+      "title": "Herbaceous Peony",
+      "creation_date": "1685",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "Hanging scroll; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1967.192",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.192/1967.192_web.jpg",
+          "width": "548",
+          "height": "893",
+          "filesize": "335103",
+          "filename": "1967.192_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.192/1967.192_print.jpg",
+          "width": "2088",
+          "height": "3400",
+          "filesize": "4043067",
+          "filename": "1967.192_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.192/1967.192_full.tif",
+          "width": "3070",
+          "height": "5000",
+          "filesize": "46070180",
+          "filename": "1967.192_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31207,
+          "description": "Yun Shouping (Chinese, 1633–1690)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "惲壽平",
+          "birth_year": "1633",
+          "death_year": "1690",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149891,
+      "accession_number": "1980.13",
+      "share_license_status": "CC0",
+      "title": "Plum Blossoms and Peonies",
+      "creation_date": "1741",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "handscroll; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1980.13",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1980.13/1980.13_web.jpg",
+          "width": "900",
+          "height": "48",
+          "filesize": "46955",
+          "filename": "1980.13_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1980.13/1980.13_print.jpg",
+          "width": "3400",
+          "height": "180",
+          "filesize": "269715",
+          "filename": "1980.13_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1980.13/1980.13_full.tif",
+          "width": "104090",
+          "height": "5525",
+          "filesize": "1725320452",
+          "filename": "1980.13_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31358,
+          "description": "Gao Fenghan (Chinese, 1683–1749)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "高鳳翰",
+          "birth_year": "1683",
+          "death_year": "1749",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 130497,
+      "accession_number": "1953.247",
+      "share_license_status": "CC0",
+      "title": "Fish and Rocks",
+      "creation_date": "mid- to late 1600s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "Handscroll; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1953.247",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.247/1953.247_web.jpg",
+          "width": "900",
+          "height": "118",
+          "filesize": "50871",
+          "filename": "1953.247_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.247/1953.247_print.jpg",
+          "width": "3400",
+          "height": "447",
+          "filesize": "361158",
+          "filename": "1953.247_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.247/1953.247_full.tif",
+          "width": "36789",
+          "height": "4833",
+          "filesize": "533426800",
+          "filename": "1953.247_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6306,
+          "description": "Bada Shanren (Chinese, 1626–1705)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "八大山人",
+          "birth_year": "1626",
+          "death_year": "1705",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 141200,
+      "accession_number": "1964.44",
+      "share_license_status": "CC0",
+      "title": "Bodhidharma Crossing the Yangzi on a Reed",
+      "creation_date": "1300s",
+      "culture": [
+        "China, Yuan dynasty (1271-1368)"
+      ],
+      "technique": "hanging scroll; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1964.44",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.44/1964.44_web.jpg",
+          "width": "221",
+          "height": "900",
+          "filesize": "73933",
+          "filename": "1964.44_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.44/1964.44_print.jpg",
+          "width": "833",
+          "height": "3400",
+          "filesize": "847729",
+          "filename": "1964.44_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.44/1964.44_full.tif",
+          "width": "9763",
+          "height": "39834",
+          "filesize": "1166721712",
+          "filename": "1964.44_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132908,
+      "accession_number": "1955.36",
+      "share_license_status": "CC0",
+      "title": "Landscape after Guo Zhongshu",
+      "creation_date": "c. 1680–1705",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "Hanging scroll; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.36",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.36/1955.36_web.jpg",
+          "width": "386",
+          "height": "893",
+          "filesize": "272761",
+          "filename": "1955.36_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.36/1955.36_print.jpg",
+          "width": "1468",
+          "height": "3400",
+          "filesize": "3610743",
+          "filename": "1955.36_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.36/1955.36_full.tif",
+          "width": "2859",
+          "height": "6622",
+          "filesize": "56829052",
+          "filename": "1955.36_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6306,
+          "description": "Bada Shanren (Chinese, 1626–1705)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "八大山人",
+          "birth_year": "1626",
+          "death_year": "1705",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 136463,
+      "accession_number": "1960.40",
+      "share_license_status": "CC0",
+      "title": "Chrysanthemums and Cabbage",
+      "creation_date": "c. 1486 or before",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "handscroll; ink and slight color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1960.40",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1960.40/1960.40_web.jpg",
+          "width": "1263",
+          "height": "71",
+          "filesize": "78027",
+          "filename": "1960.40_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1960.40/1960.40_print.jpg",
+          "width": "3400",
+          "height": "191",
+          "filesize": "496049",
+          "filename": "1960.40_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1960.40/1960.40_full.tif",
+          "width": "22873",
+          "height": "1286",
+          "filesize": "88265100",
+          "filename": "1960.40_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23744,
+          "description": "Tao Cheng (Chinese, active c. 1471–after 1502)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陶成",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149603,
+      "accession_number": "1979.27",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "Double album with twenty-two leaves; ink or ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27/1979.27_web.jpg",
+          "width": "759",
+          "height": "900",
+          "filesize": "211631",
+          "filename": "1979.27_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27/1979.27_print.jpg",
+          "width": "2868",
+          "height": "3400",
+          "filesize": "2577503",
+          "filename": "1979.27_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27/1979.27_full.tif",
+          "width": "3870",
+          "height": "4588",
+          "filesize": "53292020",
+          "filename": "1979.27_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149414,
+      "accession_number": "1978.67",
+      "share_license_status": "CC0",
+      "title": "Garden for Solitary Enjoyment",
+      "creation_date": "1515–52",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "Handscroll; ink and light color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1978.67",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1978.67/1978.67_web.jpg",
+          "width": "900",
+          "height": "21",
+          "filesize": "44018",
+          "filename": "1978.67_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1978.67/1978.67_print.jpg",
+          "width": "3400",
+          "height": "80",
+          "filesize": "120607",
+          "filename": "1978.67_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1978.67/1978.67_full.tif",
+          "width": "120000",
+          "height": "2834",
+          "filesize": "1020278620",
+          "filename": "1978.67_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 22786,
+          "description": "Qiu Ying (Chinese, 1494–1552)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "仇英",
+          "birth_year": "1494",
+          "death_year": "1552",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 145907,
+      "accession_number": "1971.132",
+      "share_license_status": "CC0",
+      "title": "Lily and Butterflies",
+      "creation_date": "1300s",
+      "culture": [
+        "China, Yuan dynasty (1271-1368)"
+      ],
+      "technique": "Hanging scroll; ink on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1971.132",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_web.jpg",
+          "width": "348",
+          "height": "900",
+          "filesize": "101444",
+          "filename": "1971.132_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_print.jpg",
+          "width": "1313",
+          "height": "3400",
+          "filesize": "1118918",
+          "filename": "1971.132_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_full.tif",
+          "width": "9891",
+          "height": "25609",
+          "filesize": "1519817156",
+          "filename": "1971.132_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31453,
+          "description": "Liu Shanshou (Chinese, active 1300s)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "劉善守",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149616,
+      "accession_number": "1979.27.2",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Volume 2",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "Album with eleven leaves; ink or ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2/1979.27.2_web.jpg",
+          "width": "800",
+          "height": "893",
+          "filesize": "477315",
+          "filename": "1979.27.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2/1979.27.2_print.jpg",
+          "width": "3045",
+          "height": "3400",
+          "filesize": "7036154",
+          "filename": "1979.27.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2/1979.27.2_full.tif",
+          "width": "4770",
+          "height": "5326",
+          "filesize": "76242636",
+          "filename": "1979.27.2_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149604,
+      "accession_number": "1979.27.1",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Volume 1",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "Album with eleven leaves; ink or ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.1",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1/1979.27.1_web.jpg",
+          "width": "753",
+          "height": "893",
+          "filesize": "514185",
+          "filename": "1979.27.1_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1/1979.27.1_print.jpg",
+          "width": "2867",
+          "height": "3400",
+          "filesize": "7575223",
+          "filename": "1979.27.1_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1/1979.27.1_full.tif",
+          "width": "3870",
+          "height": "4588",
+          "filesize": "53294848",
+          "filename": "1979.27.1_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148237,
+      "accession_number": "1975.22.2",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 2",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.2/1975.22.2_web.jpg",
+          "width": "864",
+          "height": "893",
+          "filesize": "610145",
+          "filename": "1975.22.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.2/1975.22.2_print.jpg",
+          "width": "3288",
+          "height": "3400",
+          "filesize": "8486225",
+          "filename": "1975.22.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.2/1975.22.2_full.tif",
+          "width": "6027",
+          "height": "6232",
+          "filesize": "112701860",
+          "filename": "1975.22.2_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148571,
+      "accession_number": "1976.112",
+      "share_license_status": "CC0",
+      "title": "Five Pine Trees",
+      "creation_date": "1747",
+      "culture": [
+        "China, Qing dynasty (1644–1911), Qianlong reign (1736–95)"
+      ],
+      "technique": "Hanging scroll; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1976.112",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.112/1976.112_web.jpg",
+          "width": "423",
+          "height": "893",
+          "filesize": "338291",
+          "filename": "1976.112_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.112/1976.112_print.jpg",
+          "width": "1609",
+          "height": "3400",
+          "filesize": "4177953",
+          "filename": "1976.112_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.112/1976.112_full.tif",
+          "width": "3104",
+          "height": "6560",
+          "filesize": "61108792",
+          "filename": "1976.112_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31397,
+          "description": "Li Shan (Chinese, c. 1686–1762)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "李鱔",
+          "birth_year": "1686",
+          "death_year": "1762",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 159724,
+      "accession_number": "1997.100",
+      "share_license_status": "CC0",
+      "title": "Yellow Chrysanthemums and Red Osmanthus in the Style of Wang Yuan",
+      "creation_date": "1468",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "hanging scroll; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1997.100",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.100/1997.100_web.jpg",
+          "width": "352",
+          "height": "900",
+          "filesize": "141540",
+          "filename": "1997.100_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.100/1997.100_print.jpg",
+          "width": "1329",
+          "height": "3400",
+          "filesize": "1293222",
+          "filename": "1997.100_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.100/1997.100_full.tif",
+          "width": "13536",
+          "height": "34642",
+          "filesize": "1406772092",
+          "filename": "1997.100_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23557,
+          "description": "Shen Zhou (Chinese, 1427–1509)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "沈周",
+          "birth_year": "1427",
+          "death_year": "1509",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149618,
+      "accession_number": "1979.27.2.13",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: A Lohan [after Guanxiu]",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.2.13",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.13/1979.27.2.13_web.jpg",
+          "width": "798",
+          "height": "900",
+          "filesize": "401630",
+          "filename": "1979.27.2.13_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.13/1979.27.2.13_print.jpg",
+          "width": "3014",
+          "height": "3400",
+          "filesize": "4826251",
+          "filename": "1979.27.2.13_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.13/1979.27.2.13_full.tif",
+          "width": "4854",
+          "height": "5476",
+          "filesize": "79770460",
+          "filename": "1979.27.2.13_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 103824,
+      "accession_number": "1921.915",
+      "share_license_status": "CC0",
+      "title": "Illustrated Book of Flowers and Butterflies",
+      "creation_date": "1800s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "painting on pith paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1921.915",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915/1921.915_web.jpg",
+          "width": "900",
+          "height": "636",
+          "filesize": "249979",
+          "filename": "1921.915_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915/1921.915_print.jpg",
+          "width": "3400",
+          "height": "2403",
+          "filesize": "3971090",
+          "filename": "1921.915_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915/1921.915_full.tif",
+          "width": "7655",
+          "height": "5410",
+          "filesize": "124275136",
+          "filename": "1921.915_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 161286,
+      "accession_number": "1999.6",
+      "share_license_status": "CC0",
+      "title": "Pipa (Loquats)",
+      "creation_date": "c. 1888–89",
+      "culture": [
+        "China, Yangzhou, Qing dynasty (1644–1911)"
+      ],
+      "technique": "Hanging scroll; ink and color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1999.6",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.6/1999.6_web.jpg",
+          "width": "423",
+          "height": "893",
+          "filesize": "270816",
+          "filename": "1999.6_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.6/1999.6_print.jpg",
+          "width": "1612",
+          "height": "3400",
+          "filesize": "3224559",
+          "filename": "1999.6_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.6/1999.6_full.tif",
+          "width": "2371",
+          "height": "5000",
+          "filesize": "35580920",
+          "filename": "1999.6_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33134,
+          "description": "Xugu (Chinese, 1823–1896)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "虛谷",
+          "birth_year": "1823",
+          "death_year": "1896",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149608,
+      "accession_number": "1979.27.1.2",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Laozi Riding an Ox",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.1.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.2/1979.27.1.2_web.jpg",
+          "width": "810",
+          "height": "893",
+          "filesize": "593401",
+          "filename": "1979.27.1.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.2/1979.27.1.2_print.jpg",
+          "width": "3085",
+          "height": "3400",
+          "filesize": "10906748",
+          "filename": "1979.27.1.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.2/1979.27.1.2_full.tif",
+          "width": "4992",
+          "height": "5500",
+          "filesize": "82397936",
+          "filename": "1979.27.1.2_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149615,
+      "accession_number": "1979.27.1.9",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Chrysanthemum and Rock",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.1.9",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.9/1979.27.1.9_web.jpg",
+          "width": "783",
+          "height": "893",
+          "filesize": "551063",
+          "filename": "1979.27.1.9_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.9/1979.27.1.9_print.jpg",
+          "width": "2981",
+          "height": "3400",
+          "filesize": "10403287",
+          "filename": "1979.27.1.9_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.9/1979.27.1.9_full.tif",
+          "width": "4818",
+          "height": "5494",
+          "filesize": "79440124",
+          "filename": "1979.27.1.9_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149612,
+      "accession_number": "1979.27.1.6",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Lotus and Rocks",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.1.6",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.6/1979.27.1.6_web.jpg",
+          "width": "786",
+          "height": "893",
+          "filesize": "562519",
+          "filename": "1979.27.1.6_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.6/1979.27.1.6_print.jpg",
+          "width": "2992",
+          "height": "3400",
+          "filesize": "10504144",
+          "filename": "1979.27.1.6_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.6/1979.27.1.6_full.tif",
+          "width": "4872",
+          "height": "5536",
+          "filesize": "80944088",
+          "filename": "1979.27.1.6_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 143245,
+      "accession_number": "1967.193.g",
+      "share_license_status": "CC0",
+      "title": "Desk Album: Flower and Bird Paintings (Climbing Blue Flowers)",
+      "creation_date": "1700s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1967.193.g",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.193.g/1967.193.g_web.jpg",
+          "width": "900",
+          "height": "647",
+          "filesize": "203364",
+          "filename": "1967.193.g_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.193.g/1967.193.g_print.jpg",
+          "width": "3400",
+          "height": "2446",
+          "filesize": "2279110",
+          "filename": "1967.193.g_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.193.g/1967.193.g_full.tif",
+          "width": "6775",
+          "height": "4874",
+          "filesize": "99096732",
+          "filename": "1967.193.g_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31202,
+          "description": "Zhang Ruoai (Chinese, 1713–1746)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "張若靄",
+          "birth_year": "1713",
+          "death_year": "1746",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 143241,
+      "accession_number": "1967.193.c",
+      "share_license_status": "CC0",
+      "title": "Desk Album: Flower and Bird Paintings (mallow flowers)",
+      "creation_date": "1700s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1967.193.c",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.193.c/1967.193.c_web.jpg",
+          "width": "900",
+          "height": "651",
+          "filesize": "193835",
+          "filename": "1967.193.c_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.193.c/1967.193.c_print.jpg",
+          "width": "3400",
+          "height": "2461",
+          "filesize": "2284872",
+          "filename": "1967.193.c_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.193.c/1967.193.c_full.tif",
+          "width": "6800",
+          "height": "4921",
+          "filesize": "100420136",
+          "filename": "1967.193.c_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31202,
+          "description": "Zhang Ruoai (Chinese, 1713–1746)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "張若靄",
+          "birth_year": "1713",
+          "death_year": "1746",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149606,
+      "accession_number": "1979.27.1.10",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Landscape in the Style of Ni Zan",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.1.10",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.10/1979.27.1.10_web.jpg",
+          "width": "804",
+          "height": "900",
+          "filesize": "383090",
+          "filename": "1979.27.1.10_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.10/1979.27.1.10_print.jpg",
+          "width": "3038",
+          "height": "3400",
+          "filesize": "5372956",
+          "filename": "1979.27.1.10_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.10/1979.27.1.10_full.tif",
+          "width": "4866",
+          "height": "5446",
+          "filesize": "79528480",
+          "filename": "1979.27.1.10_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149614,
+      "accession_number": "1979.27.1.8",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Portrait of Zhongqing in a Landscape",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.1.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.8/1979.27.1.8_web.jpg",
+          "width": "788",
+          "height": "893",
+          "filesize": "609865",
+          "filename": "1979.27.1.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.8/1979.27.1.8_print.jpg",
+          "width": "3002",
+          "height": "3400",
+          "filesize": "10787895",
+          "filename": "1979.27.1.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.8/1979.27.1.8_full.tif",
+          "width": "4878",
+          "height": "5524",
+          "filesize": "80868376",
+          "filename": "1979.27.1.8_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149617,
+      "accession_number": "1979.27.2.12",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Mr. Five Willows (Wuliu), Tao Yuanming",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.2.12",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.12/1979.27.2.12_web.jpg",
+          "width": "890",
+          "height": "893",
+          "filesize": "715456",
+          "filename": "1979.27.2.12_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.12/1979.27.2.12_print.jpg",
+          "width": "3388",
+          "height": "3400",
+          "filesize": "9321300",
+          "filename": "1979.27.2.12_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.12/1979.27.2.12_full.tif",
+          "width": "6027",
+          "height": "6048",
+          "filesize": "109374960",
+          "filename": "1979.27.2.12_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 160133,
+      "accession_number": "1997.91",
+      "share_license_status": "CC0",
+      "title": "Quails and Sparrows in an Autumn Scene",
+      "creation_date": "1347",
+      "culture": [
+        "China, Yuan dynasty (1271–1368)"
+      ],
+      "technique": "hanging scroll, ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1997.91",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.91/1997.91_web.jpg",
+          "width": "492",
+          "height": "900",
+          "filesize": "154298",
+          "filename": "1997.91_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.91/1997.91_print.jpg",
+          "width": "1860",
+          "height": "3400",
+          "filesize": "1751286",
+          "filename": "1997.91_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.91/1997.91_full.tif",
+          "width": "10549",
+          "height": "19283",
+          "filesize": "610275088",
+          "filename": "1997.91_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 11246,
+          "description": "Wang Yuan (Chinese, c. 1299–after 1366)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "王淵",
+          "death_year": "1371",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 680375,
+      "accession_number": "1921.915.e",
+      "share_license_status": "CC0",
+      "title": "Painting Five from Illustrated Book of Flowers and Butterflies",
+      "creation_date": "1800s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "painting on pith paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1921.915.e",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.e/1921.915.e_web.jpg",
+          "width": "900",
+          "height": "585",
+          "filesize": "251854",
+          "filename": "1921.915.e_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.e/1921.915.e_print.jpg",
+          "width": "3400",
+          "height": "2209",
+          "filesize": "3139295",
+          "filename": "1921.915.e_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.e/1921.915.e_full.tif",
+          "width": "6908",
+          "height": "4488",
+          "filesize": "93050188",
+          "filename": "1921.915.e_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149613,
+      "accession_number": "1979.27.1.7",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Daoist and Crane in Autumn Landscape",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.1.7",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.7/1979.27.1.7_web.jpg",
+          "width": "797",
+          "height": "893",
+          "filesize": "600179",
+          "filename": "1979.27.1.7_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.7/1979.27.1.7_print.jpg",
+          "width": "3035",
+          "height": "3400",
+          "filesize": "10790618",
+          "filename": "1979.27.1.7_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.7/1979.27.1.7_full.tif",
+          "width": "4884",
+          "height": "5470",
+          "filesize": "80177216",
+          "filename": "1979.27.1.7_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149623,
+      "accession_number": "1979.27.2.18",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Scholar Reading in a Thatched Hut by a Waterfall",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.2.18",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.18/1979.27.2.18_web.jpg",
+          "width": "795",
+          "height": "900",
+          "filesize": "409642",
+          "filename": "1979.27.2.18_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.18/1979.27.2.18_print.jpg",
+          "width": "3004",
+          "height": "3400",
+          "filesize": "4921044",
+          "filename": "1979.27.2.18_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.18/1979.27.2.18_full.tif",
+          "width": "4854",
+          "height": "5494",
+          "filesize": "80031968",
+          "filename": "1979.27.2.18_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148235,
+      "accession_number": "1975.22.10",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 10",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.10",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.10/1975.22.10_web.jpg",
+          "width": "870",
+          "height": "893",
+          "filesize": "657816",
+          "filename": "1975.22.10_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.10/1975.22.10_print.jpg",
+          "width": "3314",
+          "height": "3400",
+          "filesize": "9340084",
+          "filename": "1975.22.10_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.10/1975.22.10_full.tif",
+          "width": "6059",
+          "height": "6216",
+          "filesize": "113009300",
+          "filename": "1975.22.10_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 143240,
+      "accession_number": "1967.193.b",
+      "share_license_status": "CC0",
+      "title": "Desk Album: Flower and Bird Paintings (Bats, rocks, flowers circular calligraphy)",
+      "creation_date": "1700s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1967.193.b",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.193.b/1967.193.b_web.jpg",
+          "width": "900",
+          "height": "652",
+          "filesize": "225977",
+          "filename": "1967.193.b_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.193.b/1967.193.b_print.jpg",
+          "width": "3400",
+          "height": "2464",
+          "filesize": "2557457",
+          "filename": "1967.193.b_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.193.b/1967.193.b_full.tif",
+          "width": "6802",
+          "height": "4930",
+          "filesize": "100634560",
+          "filename": "1967.193.b_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31202,
+          "description": "Zhang Ruoai (Chinese, 1713–1746)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "張若靄",
+          "birth_year": "1713",
+          "death_year": "1746",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 680379,
+      "accession_number": "1921.915.g",
+      "share_license_status": "CC0",
+      "title": "Painting Seven from Illustrated Book of Flowers and Butterflies",
+      "creation_date": "1800s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "painting on pith paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1921.915.g",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.g/1921.915.g_web.jpg",
+          "width": "900",
+          "height": "594",
+          "filesize": "252784",
+          "filename": "1921.915.g_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.g/1921.915.g_print.jpg",
+          "width": "3400",
+          "height": "2243",
+          "filesize": "3081029",
+          "filename": "1921.915.g_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.g/1921.915.g_full.tif",
+          "width": "6925",
+          "height": "4568",
+          "filesize": "94942744",
+          "filename": "1921.915.g_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 680373,
+      "accession_number": "1921.915.c",
+      "share_license_status": "CC0",
+      "title": "Painting Three from Illustrated Book of Flowers and Butterflies",
+      "creation_date": "1800s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "painting on pith paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1921.915.c",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.c/1921.915.c_web.jpg",
+          "width": "900",
+          "height": "596",
+          "filesize": "251428",
+          "filename": "1921.915.c_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.c/1921.915.c_print.jpg",
+          "width": "3400",
+          "height": "2253",
+          "filesize": "3094943",
+          "filename": "1921.915.c_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.c/1921.915.c_full.tif",
+          "width": "6864",
+          "height": "4548",
+          "filesize": "93694138",
+          "filename": "1921.915.c_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 680382,
+      "accession_number": "1921.915.j",
+      "share_license_status": "CC0",
+      "title": "Painting Ten from Illustrated Book of Flowers and Butterflies",
+      "creation_date": "1800s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "painting on pith paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1921.915.j",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.j/1921.915.j_web.jpg",
+          "width": "900",
+          "height": "599",
+          "filesize": "240380",
+          "filename": "1921.915.j_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.j/1921.915.j_print.jpg",
+          "width": "3400",
+          "height": "2262",
+          "filesize": "2832943",
+          "filename": "1921.915.j_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.j/1921.915.j_full.tif",
+          "width": "6867",
+          "height": "4568",
+          "filesize": "94146700",
+          "filename": "1921.915.j_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148851,
+      "accession_number": "1976.90",
+      "share_license_status": "CC0",
+      "title": "Peonies",
+      "creation_date": "late 1200s",
+      "culture": [
+        "China, Yuan dynasty (1271-1368)"
+      ],
+      "technique": "hanging scroll; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1976.90",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.90/1976.90_web.jpg",
+          "width": "547",
+          "height": "893",
+          "filesize": "356276",
+          "filename": "1976.90_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.90/1976.90_print.jpg",
+          "width": "2082",
+          "height": "3400",
+          "filesize": "5678251",
+          "filename": "1976.90_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.90/1976.90_full.tif",
+          "width": "3970",
+          "height": "6482",
+          "filesize": "77228480",
+          "filename": "1976.90_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 680381,
+      "accession_number": "1921.915.i",
+      "share_license_status": "CC0",
+      "title": "Painting Nine from Illustrated Book of Flowers and Butterflies",
+      "creation_date": "1800s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "painting on pith paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1921.915.i",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.i/1921.915.i_web.jpg",
+          "width": "900",
+          "height": "563",
+          "filesize": "218307",
+          "filename": "1921.915.i_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.i/1921.915.i_print.jpg",
+          "width": "3400",
+          "height": "2126",
+          "filesize": "2571286",
+          "filename": "1921.915.i_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.i/1921.915.i_full.tif",
+          "width": "6988",
+          "height": "4370",
+          "filesize": "91652150",
+          "filename": "1921.915.i_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 680372,
+      "accession_number": "1921.915.b",
+      "share_license_status": "CC0",
+      "title": "Painting Two from Illustrated Book of Flowers and Butterflies",
+      "creation_date": "1800s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "painting on pith paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1921.915.b",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.b/1921.915.b_web.jpg",
+          "width": "900",
+          "height": "593",
+          "filesize": "240858",
+          "filename": "1921.915.b_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.b/1921.915.b_print.jpg",
+          "width": "3400",
+          "height": "2240",
+          "filesize": "2816643",
+          "filename": "1921.915.b_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.b/1921.915.b_full.tif",
+          "width": "6880",
+          "height": "4532",
+          "filesize": "93581896",
+          "filename": "1921.915.b_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 680380,
+      "accession_number": "1921.915.h",
+      "share_license_status": "CC0",
+      "title": "Painting Eight from Illustrated Book of Flowers and Butterflies",
+      "creation_date": "1800s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "painting on pith paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1921.915.h",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.h/1921.915.h_web.jpg",
+          "width": "900",
+          "height": "592",
+          "filesize": "248593",
+          "filename": "1921.915.h_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.h/1921.915.h_print.jpg",
+          "width": "3400",
+          "height": "2238",
+          "filesize": "3153787",
+          "filename": "1921.915.h_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.h/1921.915.h_full.tif",
+          "width": "6810",
+          "height": "4483",
+          "filesize": "91629206",
+          "filename": "1921.915.h_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 680383,
+      "accession_number": "1921.915.k",
+      "share_license_status": "CC0",
+      "title": "Painting Eleven from Illustrated Book of Flowers and Butterflies",
+      "creation_date": "1800s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "painting on pith paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1921.915.k",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.k/1921.915.k_web.jpg",
+          "width": "900",
+          "height": "601",
+          "filesize": "234887",
+          "filename": "1921.915.k_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.k/1921.915.k_print.jpg",
+          "width": "3400",
+          "height": "2272",
+          "filesize": "2755691",
+          "filename": "1921.915.k_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.k/1921.915.k_full.tif",
+          "width": "6880",
+          "height": "4597",
+          "filesize": "94921656",
+          "filename": "1921.915.k_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 680384,
+      "accession_number": "1921.915.l",
+      "share_license_status": "CC0",
+      "title": "Painting Twelve from Illustrated Book of Flowers and Butterflies",
+      "creation_date": "1800s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "painting on pith paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1921.915.l",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.l/1921.915.l_web.jpg",
+          "width": "900",
+          "height": "606",
+          "filesize": "225626",
+          "filename": "1921.915.l_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.l/1921.915.l_print.jpg",
+          "width": "3400",
+          "height": "2291",
+          "filesize": "2717397",
+          "filename": "1921.915.l_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.l/1921.915.l_full.tif",
+          "width": "6840",
+          "height": "4608",
+          "filesize": "94595948",
+          "filename": "1921.915.l_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 680374,
+      "accession_number": "1921.915.d",
+      "share_license_status": "CC0",
+      "title": "Painting Four from Illustrated Book of Flowers and Butterflies",
+      "creation_date": "1800s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "painting on pith paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1921.915.d",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.d/1921.915.d_web.jpg",
+          "width": "900",
+          "height": "581",
+          "filesize": "244426",
+          "filename": "1921.915.d_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.d/1921.915.d_print.jpg",
+          "width": "3400",
+          "height": "2193",
+          "filesize": "2941141",
+          "filename": "1921.915.d_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.d/1921.915.d_full.tif",
+          "width": "6955",
+          "height": "4486",
+          "filesize": "93640524",
+          "filename": "1921.915.d_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 680376,
+      "accession_number": "1921.915.f",
+      "share_license_status": "CC0",
+      "title": "Painting Six from Illustrated Book of Flowers and Butterflies",
+      "creation_date": "1800s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "painting on pith paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1921.915.f",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.f/1921.915.f_web.jpg",
+          "width": "900",
+          "height": "600",
+          "filesize": "260175",
+          "filename": "1921.915.f_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.f/1921.915.f_print.jpg",
+          "width": "3400",
+          "height": "2267",
+          "filesize": "3065773",
+          "filename": "1921.915.f_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.915.f/1921.915.f_full.tif",
+          "width": "6875",
+          "height": "4584",
+          "filesize": "94587912",
+          "filename": "1921.915.f_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 161706,
+      "accession_number": "2000.7",
+      "share_license_status": "CC0",
+      "title": "Flowering Plants",
+      "creation_date": "1862",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "hanging scroll; ink and color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/2000.7",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2000.7/2000.7_web.jpg",
+          "width": "276",
+          "height": "900",
+          "filesize": "87941",
+          "filename": "2000.7_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2000.7/2000.7_print.jpg",
+          "width": "1043",
+          "height": "3400",
+          "filesize": "669103",
+          "filename": "2000.7_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2000.7/2000.7_full.tif",
+          "width": "2419",
+          "height": "7885",
+          "filesize": "57250760",
+          "filename": "2000.7_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 37698,
+          "description": "Wu Rangzhi (Chinese, 1799–1870)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "吳讓之",
+          "birth_year": "1799",
+          "death_year": "1870",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148244,
+      "accession_number": "1975.22.9",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 9",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.9",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.9/1975.22.9_web.jpg",
+          "width": "1263",
+          "height": "662",
+          "filesize": "671932",
+          "filename": "1975.22.9_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.9/1975.22.9_print.jpg",
+          "width": "3400",
+          "height": "1782",
+          "filesize": "5696328",
+          "filename": "1975.22.9_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.9/1975.22.9_full.tif",
+          "width": "6389",
+          "height": "3349",
+          "filesize": "64220388",
+          "filename": "1975.22.9_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 143239,
+      "accession_number": "1967.193.a",
+      "share_license_status": "CC0",
+      "title": "Desk Album: Flower and Bird Paintings (Bats, rocks, flowers oval calligraphy)\r\n",
+      "creation_date": "1700s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1967.193.a",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.193.a/1967.193.a_web.jpg",
+          "width": "900",
+          "height": "658",
+          "filesize": "229694",
+          "filename": "1967.193.a_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.193.a/1967.193.a_print.jpg",
+          "width": "3400",
+          "height": "2484",
+          "filesize": "2569362",
+          "filename": "1967.193.a_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.193.a/1967.193.a_full.tif",
+          "width": "6798",
+          "height": "4967",
+          "filesize": "101329740",
+          "filename": "1967.193.a_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31202,
+          "description": "Zhang Ruoai (Chinese, 1713–1746)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "張若靄",
+          "birth_year": "1713",
+          "death_year": "1746",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149610,
+      "accession_number": "1979.27.1.4",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Autumn Landscape",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.1.4",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.4/1979.27.1.4_web.jpg",
+          "width": "790",
+          "height": "893",
+          "filesize": "641768",
+          "filename": "1979.27.1.4_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.4/1979.27.1.4_print.jpg",
+          "width": "3007",
+          "height": "3400",
+          "filesize": "10937645",
+          "filename": "1979.27.1.4_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.4/1979.27.1.4_full.tif",
+          "width": "4812",
+          "height": "5440",
+          "filesize": "78563912",
+          "filename": "1979.27.1.4_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149619,
+      "accession_number": "1979.27.2.14",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: A Bird and Peach-Blossom Branch",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.2.14",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.14/1979.27.2.14_web.jpg",
+          "width": "794",
+          "height": "900",
+          "filesize": "329729",
+          "filename": "1979.27.2.14_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.14/1979.27.2.14_print.jpg",
+          "width": "2998",
+          "height": "3400",
+          "filesize": "4467872",
+          "filename": "1979.27.2.14_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.14/1979.27.2.14_full.tif",
+          "width": "4824",
+          "height": "5470",
+          "filesize": "79187696",
+          "filename": "1979.27.2.14_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148233,
+      "accession_number": "1975.22",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album of ten leaves; ink and light color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22/1975.22_web.jpg",
+          "width": "870",
+          "height": "893",
+          "filesize": "774808",
+          "filename": "1975.22_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22/1975.22_print.jpg",
+          "width": "3312",
+          "height": "3400",
+          "filesize": "12891488",
+          "filename": "1975.22_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22/1975.22_full.tif",
+          "width": "4844",
+          "height": "4972",
+          "filesize": "72290068",
+          "filename": "1975.22_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149625,
+      "accession_number": "1979.27.2.20",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: An Ancient Tree",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.2.20",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.20/1979.27.2.20_web.jpg",
+          "width": "798",
+          "height": "900",
+          "filesize": "385287",
+          "filename": "1979.27.2.20_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.20/1979.27.2.20_print.jpg",
+          "width": "3015",
+          "height": "3400",
+          "filesize": "4770128",
+          "filename": "1979.27.2.20_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.20/1979.27.2.20_full.tif",
+          "width": "4872",
+          "height": "5494",
+          "filesize": "80328024",
+          "filename": "1979.27.2.20_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    }
+  ]
+}

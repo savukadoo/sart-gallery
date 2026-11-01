@@ -1,0 +1,1583 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "74895783": {
+        "pageid": 74895783,
+        "ns": 6,
+        "title": "File:Alter Dampfer (Old Steamboat), 1922 - Paul Klee.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7231162,
+            "width": 3488,
+            "height": 3466,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Alter_Dampfer_%28Old_Steamboat%29%2C_1922_-_Paul_Klee.jpg/500px-Alter_Dampfer_%28Old_Steamboat%29%2C_1922_-_Paul_Klee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 423,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Alter_Dampfer_%28Old_Steamboat%29%2C_1922_-_Paul_Klee.jpg/960px-Alter_Dampfer_%28Old_Steamboat%29%2C_1922_-_Paul_Klee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Alter_Dampfer_%28Old_Steamboat%29%2C_1922_-_Paul_Klee.jpg/500px-Alter_Dampfer_%28Old_Steamboat%29%2C_1922_-_Paul_Klee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 423,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Alter_Dampfer_%28Old_Steamboat%29%2C_1922_-_Paul_Klee.jpg/960px-Alter_Dampfer_%28Old_Steamboat%29%2C_1922_-_Paul_Klee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Alter_Dampfer_%28Old_Steamboat%29%2C_1922_-_Paul_Klee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alter_Dampfer_(Old_Steamboat),_1922_-_Paul_Klee.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74895783",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">German:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"de\"><i>Alter Dampfer <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q138412697#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Old Steamboat</i></div></div><div style=\"display: none;\">title QS:P1476,de:\"Alter Dampfer <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q138412697#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lde,\"Alter Dampfer <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q138412697#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Old Steamboat\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Paul_Klee\" class=\"extiw\" title=\"w:en:Paul Klee\"><span title=\"German-Swiss artist (1879–1940)\">Paul Klee</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1922<div style=\"display: none;\">date QS:P571,+1922-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043066": {
+        "pageid": 82043066,
+        "ns": 6,
+        "title": "File:Paul Klee, A Genius Serves a Small Breakfast (Ein Genius serviert ein kleines Frühstück), 1920, NGA 8108.jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7667911,
+            "width": 2884,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Paul_Klee%2C_A_Genius_Serves_a_Small_Breakfast_%28Ein_Genius_serviert_ein_kleines_Fr%C3%BChst%C3%BCck%29%2C_1920%2C_NGA_8108.jpg/330px-Paul_Klee%2C_A_Genius_Serves_a_Small_Breakfast_%28Ein_Genius_serviert_ein_kleines_Fr%C3%BChst%C3%BCck%29%2C_1920%2C_NGA_8108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 303,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Paul_Klee%2C_A_Genius_Serves_a_Small_Breakfast_%28Ein_Genius_serviert_ein_kleines_Fr%C3%BChst%C3%BCck%29%2C_1920%2C_NGA_8108.jpg/960px-Paul_Klee%2C_A_Genius_Serves_a_Small_Breakfast_%28Ein_Genius_serviert_ein_kleines_Fr%C3%BChst%C3%BCck%29%2C_1920%2C_NGA_8108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Paul_Klee%2C_A_Genius_Serves_a_Small_Breakfast_%28Ein_Genius_serviert_ein_kleines_Fr%C3%BChst%C3%BCck%29%2C_1920%2C_NGA_8108.jpg/330px-Paul_Klee%2C_A_Genius_Serves_a_Small_Breakfast_%28Ein_Genius_serviert_ein_kleines_Fr%C3%BChst%C3%BCck%29%2C_1920%2C_NGA_8108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 303,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Paul_Klee%2C_A_Genius_Serves_a_Small_Breakfast_%28Ein_Genius_serviert_ein_kleines_Fr%C3%BChst%C3%BCck%29%2C_1920%2C_NGA_8108.jpg/960px-Paul_Klee%2C_A_Genius_Serves_a_Small_Breakfast_%28Ein_Genius_serviert_ein_kleines_Fr%C3%BChst%C3%BCck%29%2C_1920%2C_NGA_8108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Paul_Klee%2C_A_Genius_Serves_a_Small_Breakfast_%28Ein_Genius_serviert_ein_kleines_Fr%C3%BChst%C3%BCck%29%2C_1920%2C_NGA_8108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_A_Genius_Serves_a_Small_Breakfast_(Ein_Genius_serviert_ein_kleines_Fr%C3%BChst%C3%BCck),_1920,_NGA_8108.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043066",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>A Genius Serves a Small Breakfast (Ein Genius serviert ein kleines Frühstück) </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1920<div style=\"display: none;\">date QS:P571,+1920-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81486419": {
+        "pageid": 81486419,
+        "ns": 6,
+        "title": "File:Paul Klee, Baum und Architektur--Rhythmen (Tree and Architecture--Rhythms), 1920, NGA 130844.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11318867,
+            "width": 4000,
+            "height": 2918,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Paul_Klee%2C_Baum_und_Architektur--Rhythmen_%28Tree_and_Architecture--Rhythms%29%2C_1920%2C_NGA_130844.jpg/960px-Paul_Klee%2C_Baum_und_Architektur--Rhythmen_%28Tree_and_Architecture--Rhythms%29%2C_1920%2C_NGA_130844.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 576,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Paul_Klee%2C_Baum_und_Architektur--Rhythmen_%28Tree_and_Architecture--Rhythms%29%2C_1920%2C_NGA_130844.jpg/1280px-Paul_Klee%2C_Baum_und_Architektur--Rhythmen_%28Tree_and_Architecture--Rhythms%29%2C_1920%2C_NGA_130844.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Paul_Klee%2C_Baum_und_Architektur--Rhythmen_%28Tree_and_Architecture--Rhythms%29%2C_1920%2C_NGA_130844.jpg/960px-Paul_Klee%2C_Baum_und_Architektur--Rhythmen_%28Tree_and_Architecture--Rhythms%29%2C_1920%2C_NGA_130844.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 576,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Paul_Klee%2C_Baum_und_Architektur--Rhythmen_%28Tree_and_Architecture--Rhythms%29%2C_1920%2C_NGA_130844.jpg/1280px-Paul_Klee%2C_Baum_und_Architektur--Rhythmen_%28Tree_and_Architecture--Rhythms%29%2C_1920%2C_NGA_130844.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Paul_Klee%2C_Baum_und_Architektur--Rhythmen_%28Tree_and_Architecture--Rhythms%29%2C_1920%2C_NGA_130844.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Baum_und_Architektur--Rhythmen_(Tree_and_Architecture--Rhythms),_1920,_NGA_130844.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81486419",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">German:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"de\"><i>Baum und Architektur―Rhythmen <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q138236787#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Tree and Architecture―Rhythms</i></div></div><div style=\"display: none;\">title QS:P1476,de:\"Baum und Architektur―Rhythmen <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q138236787#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lde,\"Baum und Architektur―Rhythmen <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q138236787#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Tree and Architecture―Rhythms\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Paul_Klee\" class=\"extiw\" title=\"w:en:Paul Klee\"><span title=\"German-Swiss artist (1879–1940)\">Paul Klee</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1920<div style=\"display: none;\">date QS:P571,+1920-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043087": {
+        "pageid": 82043087,
+        "ns": 6,
+        "title": "File:Paul Klee, Blick auf einen Fluss (View on a River), 1912, NGA 8112.jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9011991,
+            "width": 4000,
+            "height": 2907,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Paul_Klee%2C_Blick_auf_einen_Fluss_%28View_on_a_River%29%2C_1912%2C_NGA_8112.jpg/960px-Paul_Klee%2C_Blick_auf_einen_Fluss_%28View_on_a_River%29%2C_1912%2C_NGA_8112.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 578,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Paul_Klee%2C_Blick_auf_einen_Fluss_%28View_on_a_River%29%2C_1912%2C_NGA_8112.jpg/1280px-Paul_Klee%2C_Blick_auf_einen_Fluss_%28View_on_a_River%29%2C_1912%2C_NGA_8112.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Paul_Klee%2C_Blick_auf_einen_Fluss_%28View_on_a_River%29%2C_1912%2C_NGA_8112.jpg/960px-Paul_Klee%2C_Blick_auf_einen_Fluss_%28View_on_a_River%29%2C_1912%2C_NGA_8112.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 578,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Paul_Klee%2C_Blick_auf_einen_Fluss_%28View_on_a_River%29%2C_1912%2C_NGA_8112.jpg/1280px-Paul_Klee%2C_Blick_auf_einen_Fluss_%28View_on_a_River%29%2C_1912%2C_NGA_8112.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Paul_Klee%2C_Blick_auf_einen_Fluss_%28View_on_a_River%29%2C_1912%2C_NGA_8112.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Blick_auf_einen_Fluss_(View_on_a_River),_1912,_NGA_8112.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043087",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Blick auf einen Fluss (View on a River) </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1912<div style=\"display: none;\">date QS:P571,+1912-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81486426": {
+        "pageid": 81486426,
+        "ns": 6,
+        "title": "File:Paul Klee, Composition with Figures, 1915, NGA 164935.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 16286836,
+            "width": 4000,
+            "height": 3280,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Paul_Klee%2C_Composition_with_Figures%2C_1915%2C_NGA_164935.jpg/960px-Paul_Klee%2C_Composition_with_Figures%2C_1915%2C_NGA_164935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 512,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Paul_Klee%2C_Composition_with_Figures%2C_1915%2C_NGA_164935.jpg/1280px-Paul_Klee%2C_Composition_with_Figures%2C_1915%2C_NGA_164935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Paul_Klee%2C_Composition_with_Figures%2C_1915%2C_NGA_164935.jpg/960px-Paul_Klee%2C_Composition_with_Figures%2C_1915%2C_NGA_164935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 512,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Paul_Klee%2C_Composition_with_Figures%2C_1915%2C_NGA_164935.jpg/1280px-Paul_Klee%2C_Composition_with_Figures%2C_1915%2C_NGA_164935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Paul_Klee%2C_Composition_with_Figures%2C_1915%2C_NGA_164935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Composition_with_Figures,_1915,_NGA_164935.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81486426",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Composition with Figures </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1915<div style=\"display: none;\">date QS:P571,+1915-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043113": {
+        "pageid": 82043113,
+        "ns": 6,
+        "title": "File:Paul Klee, Der Verliebte (The Loved One), 1923, NGA 8107.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12254612,
+            "width": 2782,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Paul_Klee%2C_Der_Verliebte_%28The_Loved_One%29%2C_1923%2C_NGA_8107.jpg/330px-Paul_Klee%2C_Der_Verliebte_%28The_Loved_One%29%2C_1923%2C_NGA_8107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 292,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Paul_Klee%2C_Der_Verliebte_%28The_Loved_One%29%2C_1923%2C_NGA_8107.jpg/960px-Paul_Klee%2C_Der_Verliebte_%28The_Loved_One%29%2C_1923%2C_NGA_8107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Paul_Klee%2C_Der_Verliebte_%28The_Loved_One%29%2C_1923%2C_NGA_8107.jpg/330px-Paul_Klee%2C_Der_Verliebte_%28The_Loved_One%29%2C_1923%2C_NGA_8107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 292,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Paul_Klee%2C_Der_Verliebte_%28The_Loved_One%29%2C_1923%2C_NGA_8107.jpg/960px-Paul_Klee%2C_Der_Verliebte_%28The_Loved_One%29%2C_1923%2C_NGA_8107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Paul_Klee%2C_Der_Verliebte_%28The_Loved_One%29%2C_1923%2C_NGA_8107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Der_Verliebte_(The_Loved_One),_1923,_NGA_8107.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043113",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Der Verliebte (The Loved One) </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1923<div style=\"display: none;\">date QS:P571,+1923-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043119": {
+        "pageid": 82043119,
+        "ns": 6,
+        "title": "File:Paul Klee, Die Hexe mit dem Kamm (Witch with a Comb), 1922, NGA 39433.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6802050,
+            "width": 2651,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Paul_Klee%2C_Die_Hexe_mit_dem_Kamm_%28Witch_with_a_Comb%29%2C_1922%2C_NGA_39433.jpg/330px-Paul_Klee%2C_Die_Hexe_mit_dem_Kamm_%28Witch_with_a_Comb%29%2C_1922%2C_NGA_39433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 278,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Paul_Klee%2C_Die_Hexe_mit_dem_Kamm_%28Witch_with_a_Comb%29%2C_1922%2C_NGA_39433.jpg/960px-Paul_Klee%2C_Die_Hexe_mit_dem_Kamm_%28Witch_with_a_Comb%29%2C_1922%2C_NGA_39433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Paul_Klee%2C_Die_Hexe_mit_dem_Kamm_%28Witch_with_a_Comb%29%2C_1922%2C_NGA_39433.jpg/330px-Paul_Klee%2C_Die_Hexe_mit_dem_Kamm_%28Witch_with_a_Comb%29%2C_1922%2C_NGA_39433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 278,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Paul_Klee%2C_Die_Hexe_mit_dem_Kamm_%28Witch_with_a_Comb%29%2C_1922%2C_NGA_39433.jpg/960px-Paul_Klee%2C_Die_Hexe_mit_dem_Kamm_%28Witch_with_a_Comb%29%2C_1922%2C_NGA_39433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Paul_Klee%2C_Die_Hexe_mit_dem_Kamm_%28Witch_with_a_Comb%29%2C_1922%2C_NGA_39433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Die_Hexe_mit_dem_Kamm_(Witch_with_a_Comb),_1922,_NGA_39433.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043119",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Die Hexe mit dem Kamm (Witch with a Comb) </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1922<div style=\"display: none;\">date QS:P571,+1922-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81486437": {
+        "pageid": 81486437,
+        "ns": 6,
+        "title": "File:Paul Klee, Feuer Clown I (Fire Clown), 1921, NGA 130834.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8429214,
+            "width": 3310,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Paul_Klee%2C_Feuer_Clown_I_%28Fire_Clown%29%2C_1921%2C_NGA_130834.jpg/500px-Paul_Klee%2C_Feuer_Clown_I_%28Fire_Clown%29%2C_1921%2C_NGA_130834.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 347,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Paul_Klee%2C_Feuer_Clown_I_%28Fire_Clown%29%2C_1921%2C_NGA_130834.jpg/960px-Paul_Klee%2C_Feuer_Clown_I_%28Fire_Clown%29%2C_1921%2C_NGA_130834.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Paul_Klee%2C_Feuer_Clown_I_%28Fire_Clown%29%2C_1921%2C_NGA_130834.jpg/500px-Paul_Klee%2C_Feuer_Clown_I_%28Fire_Clown%29%2C_1921%2C_NGA_130834.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 347,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Paul_Klee%2C_Feuer_Clown_I_%28Fire_Clown%29%2C_1921%2C_NGA_130834.jpg/960px-Paul_Klee%2C_Feuer_Clown_I_%28Fire_Clown%29%2C_1921%2C_NGA_130834.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Paul_Klee%2C_Feuer_Clown_I_%28Fire_Clown%29%2C_1921%2C_NGA_130834.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Feuer_Clown_I_(Fire_Clown),_1921,_NGA_130834.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81486437",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">German:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"de\"><i>Feuer Clown I <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q64619068#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Fire Clown</i></div></div><div style=\"display: none;\">title QS:P1476,de:\"Feuer Clown I <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q64619068#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lde,\"Feuer Clown I <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q64619068#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Fire Clown\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Paul_Klee\" class=\"extiw\" title=\"w:en:Paul Klee\"><span title=\"German-Swiss artist (1879–1940)\">Paul Klee</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1921<div style=\"display: none;\">date QS:P571,+1921-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043133": {
+        "pageid": 82043133,
+        "ns": 6,
+        "title": "File:Paul Klee, Garden of Passion (Garten der Leidenschaft), 1913, NGA 8111.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10444197,
+            "width": 4000,
+            "height": 2772,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Paul_Klee%2C_Garden_of_Passion_%28Garten_der_Leidenschaft%29%2C_1913%2C_NGA_8111.jpg/960px-Paul_Klee%2C_Garden_of_Passion_%28Garten_der_Leidenschaft%29%2C_1913%2C_NGA_8111.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 600,
+            "thumbheight": 416,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Paul_Klee%2C_Garden_of_Passion_%28Garten_der_Leidenschaft%29%2C_1913%2C_NGA_8111.jpg/1280px-Paul_Klee%2C_Garden_of_Passion_%28Garten_der_Leidenschaft%29%2C_1913%2C_NGA_8111.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Paul_Klee%2C_Garden_of_Passion_%28Garten_der_Leidenschaft%29%2C_1913%2C_NGA_8111.jpg/960px-Paul_Klee%2C_Garden_of_Passion_%28Garten_der_Leidenschaft%29%2C_1913%2C_NGA_8111.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 600,
+              "height": 416,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Paul_Klee%2C_Garden_of_Passion_%28Garten_der_Leidenschaft%29%2C_1913%2C_NGA_8111.jpg/1280px-Paul_Klee%2C_Garden_of_Passion_%28Garten_der_Leidenschaft%29%2C_1913%2C_NGA_8111.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Paul_Klee%2C_Garden_of_Passion_%28Garten_der_Leidenschaft%29%2C_1913%2C_NGA_8111.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Garden_of_Passion_(Garten_der_Leidenschaft),_1913,_NGA_8111.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043133",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Garden of Passion (Garten der Leidenschaft) </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1913<div style=\"display: none;\">date QS:P571,+1913-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043145": {
+        "pageid": 82043145,
+        "ns": 6,
+        "title": "File:Paul Klee, Hope and Destruction (Zerstörung und Hoffnung), 1916, NGA 8113.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6633194,
+            "width": 2744,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Paul_Klee%2C_Hope_and_Destruction_%28Zerst%C3%B6rung_und_Hoffnung%29%2C_1916%2C_NGA_8113.jpg/330px-Paul_Klee%2C_Hope_and_Destruction_%28Zerst%C3%B6rung_und_Hoffnung%29%2C_1916%2C_NGA_8113.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 288,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Paul_Klee%2C_Hope_and_Destruction_%28Zerst%C3%B6rung_und_Hoffnung%29%2C_1916%2C_NGA_8113.jpg/960px-Paul_Klee%2C_Hope_and_Destruction_%28Zerst%C3%B6rung_und_Hoffnung%29%2C_1916%2C_NGA_8113.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Paul_Klee%2C_Hope_and_Destruction_%28Zerst%C3%B6rung_und_Hoffnung%29%2C_1916%2C_NGA_8113.jpg/330px-Paul_Klee%2C_Hope_and_Destruction_%28Zerst%C3%B6rung_und_Hoffnung%29%2C_1916%2C_NGA_8113.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 288,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Paul_Klee%2C_Hope_and_Destruction_%28Zerst%C3%B6rung_und_Hoffnung%29%2C_1916%2C_NGA_8113.jpg/960px-Paul_Klee%2C_Hope_and_Destruction_%28Zerst%C3%B6rung_und_Hoffnung%29%2C_1916%2C_NGA_8113.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Paul_Klee%2C_Hope_and_Destruction_%28Zerst%C3%B6rung_und_Hoffnung%29%2C_1916%2C_NGA_8113.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Hope_and_Destruction_(Zerst%C3%B6rung_und_Hoffnung),_1916,_NGA_8113.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043145",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Hope and Destruction (Zerstörung und Hoffnung) </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1916<div style=\"display: none;\">date QS:P571,+1916-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81486445": {
+        "pageid": 81486445,
+        "ns": 6,
+        "title": "File:Paul Klee, Interieur mit der Uhr (Interior with the Clock), 1913, NGA 164934.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15229612,
+            "width": 3693,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Paul_Klee%2C_Interieur_mit_der_Uhr_%28Interior_with_the_Clock%29%2C_1913%2C_NGA_164934.jpg/500px-Paul_Klee%2C_Interieur_mit_der_Uhr_%28Interior_with_the_Clock%29%2C_1913%2C_NGA_164934.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 388,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Paul_Klee%2C_Interieur_mit_der_Uhr_%28Interior_with_the_Clock%29%2C_1913%2C_NGA_164934.jpg/960px-Paul_Klee%2C_Interieur_mit_der_Uhr_%28Interior_with_the_Clock%29%2C_1913%2C_NGA_164934.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Paul_Klee%2C_Interieur_mit_der_Uhr_%28Interior_with_the_Clock%29%2C_1913%2C_NGA_164934.jpg/500px-Paul_Klee%2C_Interieur_mit_der_Uhr_%28Interior_with_the_Clock%29%2C_1913%2C_NGA_164934.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 388,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Paul_Klee%2C_Interieur_mit_der_Uhr_%28Interior_with_the_Clock%29%2C_1913%2C_NGA_164934.jpg/960px-Paul_Klee%2C_Interieur_mit_der_Uhr_%28Interior_with_the_Clock%29%2C_1913%2C_NGA_164934.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Paul_Klee%2C_Interieur_mit_der_Uhr_%28Interior_with_the_Clock%29%2C_1913%2C_NGA_164934.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Interieur_mit_der_Uhr_(Interior_with_the_Clock),_1913,_NGA_164934.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81486445",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Interior with the Clock <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q64619075#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"Interior with the Clock <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q64619075#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Interior with the Clock <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q64619075#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Paul_Klee\" class=\"extiw\" title=\"w:en:Paul Klee\"><span title=\"German-Swiss artist (1879–1940)\">Paul Klee</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1913<div style=\"display: none;\">date QS:P571,+1913-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81486449": {
+        "pageid": 81486449,
+        "ns": 6,
+        "title": "File:Paul Klee, Komischer Reiter (Comic Rider), 1921, NGA 130833.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5217959,
+            "width": 3733,
+            "height": 3477,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Paul_Klee%2C_Komischer_Reiter_%28Comic_Rider%29%2C_1921%2C_NGA_130833.jpg/500px-Paul_Klee%2C_Komischer_Reiter_%28Comic_Rider%29%2C_1921%2C_NGA_130833.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 451,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Paul_Klee%2C_Komischer_Reiter_%28Comic_Rider%29%2C_1921%2C_NGA_130833.jpg/960px-Paul_Klee%2C_Komischer_Reiter_%28Comic_Rider%29%2C_1921%2C_NGA_130833.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Paul_Klee%2C_Komischer_Reiter_%28Comic_Rider%29%2C_1921%2C_NGA_130833.jpg/500px-Paul_Klee%2C_Komischer_Reiter_%28Comic_Rider%29%2C_1921%2C_NGA_130833.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 451,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Paul_Klee%2C_Komischer_Reiter_%28Comic_Rider%29%2C_1921%2C_NGA_130833.jpg/960px-Paul_Klee%2C_Komischer_Reiter_%28Comic_Rider%29%2C_1921%2C_NGA_130833.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Paul_Klee%2C_Komischer_Reiter_%28Comic_Rider%29%2C_1921%2C_NGA_130833.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Komischer_Reiter_(Comic_Rider),_1921,_NGA_130833.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81486449",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Komischer Reiter (Comic Rider) </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1921<div style=\"display: none;\">date QS:P571,+1921-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81486452": {
+        "pageid": 81486452,
+        "ns": 6,
+        "title": "File:Paul Klee, Leiche (Corpse), 1913, NGA 143811.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5297280,
+            "width": 4000,
+            "height": 2215,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Paul_Klee%2C_Leiche_%28Corpse%29%2C_1913%2C_NGA_143811.jpg/960px-Paul_Klee%2C_Leiche_%28Corpse%29%2C_1913%2C_NGA_143811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 600,
+            "thumbheight": 332,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Paul_Klee%2C_Leiche_%28Corpse%29%2C_1913%2C_NGA_143811.jpg/1280px-Paul_Klee%2C_Leiche_%28Corpse%29%2C_1913%2C_NGA_143811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Paul_Klee%2C_Leiche_%28Corpse%29%2C_1913%2C_NGA_143811.jpg/960px-Paul_Klee%2C_Leiche_%28Corpse%29%2C_1913%2C_NGA_143811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 600,
+              "height": 332,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Paul_Klee%2C_Leiche_%28Corpse%29%2C_1913%2C_NGA_143811.jpg/1280px-Paul_Klee%2C_Leiche_%28Corpse%29%2C_1913%2C_NGA_143811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Paul_Klee%2C_Leiche_%28Corpse%29%2C_1913%2C_NGA_143811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Leiche_(Corpse),_1913,_NGA_143811.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81486452",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Leiche (Corpse) </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1913<div style=\"display: none;\">date QS:P571,+1913-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81486458": {
+        "pageid": 81486458,
+        "ns": 6,
+        "title": "File:Paul Klee, Ludwigstrasse, 1912, NGA 130832.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5145152,
+            "width": 4000,
+            "height": 2235,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Paul_Klee%2C_Ludwigstrasse%2C_1912%2C_NGA_130832.jpg/960px-Paul_Klee%2C_Ludwigstrasse%2C_1912%2C_NGA_130832.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 600,
+            "thumbheight": 335,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Paul_Klee%2C_Ludwigstrasse%2C_1912%2C_NGA_130832.jpg/1280px-Paul_Klee%2C_Ludwigstrasse%2C_1912%2C_NGA_130832.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Paul_Klee%2C_Ludwigstrasse%2C_1912%2C_NGA_130832.jpg/960px-Paul_Klee%2C_Ludwigstrasse%2C_1912%2C_NGA_130832.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 600,
+              "height": 335,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Paul_Klee%2C_Ludwigstrasse%2C_1912%2C_NGA_130832.jpg/1280px-Paul_Klee%2C_Ludwigstrasse%2C_1912%2C_NGA_130832.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Paul_Klee%2C_Ludwigstrasse%2C_1912%2C_NGA_130832.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Ludwigstrasse,_1912,_NGA_130832.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81486458",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Ludwigstrasse </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1912<div style=\"display: none;\">date QS:P571,+1912-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043157": {
+        "pageid": 82043157,
+        "ns": 6,
+        "title": "File:Paul Klee, Park, 1920, NGA 108314.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9749000,
+            "width": 3030,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Paul_Klee%2C_Park%2C_1920%2C_NGA_108314.jpg/330px-Paul_Klee%2C_Park%2C_1920%2C_NGA_108314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 318,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Paul_Klee%2C_Park%2C_1920%2C_NGA_108314.jpg/960px-Paul_Klee%2C_Park%2C_1920%2C_NGA_108314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Paul_Klee%2C_Park%2C_1920%2C_NGA_108314.jpg/330px-Paul_Klee%2C_Park%2C_1920%2C_NGA_108314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 318,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Paul_Klee%2C_Park%2C_1920%2C_NGA_108314.jpg/960px-Paul_Klee%2C_Park%2C_1920%2C_NGA_108314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Paul_Klee%2C_Park%2C_1920%2C_NGA_108314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Park,_1920,_NGA_108314.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043157",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Park </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1920<div style=\"display: none;\">date QS:P571,+1920-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043162": {
+        "pageid": 82043162,
+        "ns": 6,
+        "title": "File:Paul Klee, Park, 1920, NGA 37121.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9786055,
+            "width": 3093,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Paul_Klee%2C_Park%2C_1920%2C_NGA_37121.jpg/330px-Paul_Klee%2C_Park%2C_1920%2C_NGA_37121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 325,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Paul_Klee%2C_Park%2C_1920%2C_NGA_37121.jpg/960px-Paul_Klee%2C_Park%2C_1920%2C_NGA_37121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Paul_Klee%2C_Park%2C_1920%2C_NGA_37121.jpg/330px-Paul_Klee%2C_Park%2C_1920%2C_NGA_37121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 325,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Paul_Klee%2C_Park%2C_1920%2C_NGA_37121.jpg/960px-Paul_Klee%2C_Park%2C_1920%2C_NGA_37121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Paul_Klee%2C_Park%2C_1920%2C_NGA_37121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Park,_1920,_NGA_37121.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043162",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Park </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1920<div style=\"display: none;\">date QS:P571,+1920-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043169": {
+        "pageid": 82043169,
+        "ns": 6,
+        "title": "File:Paul Klee, Perseus (Der Witz hat über das Leid gesiegt) (Perseus-The Triumph of Brain over Body), 1904, NGA 8109.jpg",
+        "index": 24,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8406589,
+            "width": 3530,
+            "height": 3226,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Paul_Klee%2C_Perseus_%28Der_Witz_hat_%C3%BCber_das_Leid_gesiegt%29_%28Perseus-The_Triumph_of_Brain_over_Body%29%2C_1904%2C_NGA_8109.jpg/500px-Paul_Klee%2C_Perseus_%28Der_Witz_hat_%C3%BCber_das_Leid_gesiegt%29_%28Perseus-The_Triumph_of_Brain_over_Body%29%2C_1904%2C_NGA_8109.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 460,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Paul_Klee%2C_Perseus_%28Der_Witz_hat_%C3%BCber_das_Leid_gesiegt%29_%28Perseus-The_Triumph_of_Brain_over_Body%29%2C_1904%2C_NGA_8109.jpg/960px-Paul_Klee%2C_Perseus_%28Der_Witz_hat_%C3%BCber_das_Leid_gesiegt%29_%28Perseus-The_Triumph_of_Brain_over_Body%29%2C_1904%2C_NGA_8109.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Paul_Klee%2C_Perseus_%28Der_Witz_hat_%C3%BCber_das_Leid_gesiegt%29_%28Perseus-The_Triumph_of_Brain_over_Body%29%2C_1904%2C_NGA_8109.jpg/500px-Paul_Klee%2C_Perseus_%28Der_Witz_hat_%C3%BCber_das_Leid_gesiegt%29_%28Perseus-The_Triumph_of_Brain_over_Body%29%2C_1904%2C_NGA_8109.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 460,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Paul_Klee%2C_Perseus_%28Der_Witz_hat_%C3%BCber_das_Leid_gesiegt%29_%28Perseus-The_Triumph_of_Brain_over_Body%29%2C_1904%2C_NGA_8109.jpg/960px-Paul_Klee%2C_Perseus_%28Der_Witz_hat_%C3%BCber_das_Leid_gesiegt%29_%28Perseus-The_Triumph_of_Brain_over_Body%29%2C_1904%2C_NGA_8109.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Paul_Klee%2C_Perseus_%28Der_Witz_hat_%C3%BCber_das_Leid_gesiegt%29_%28Perseus-The_Triumph_of_Brain_over_Body%29%2C_1904%2C_NGA_8109.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Perseus_(Der_Witz_hat_%C3%BCber_das_Leid_gesiegt)_(Perseus-The_Triumph_of_Brain_over_Body),_1904,_NGA_8109.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043169",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Perseus (Der Witz hat über das Leid gesiegt) [Perseus-The Triumph of Brain over Body] </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1904<div style=\"display: none;\">date QS:P571,+1904-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81486465": {
+        "pageid": 81486465,
+        "ns": 6,
+        "title": "File:Paul Klee, Persische Nachtigallen (Persian Nightingales), 1917, NGA 71551.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6158281,
+            "width": 2317,
+            "height": 3017,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Paul_Klee%2C_Persische_Nachtigallen_%28Persian_Nightingales%29%2C_1917%2C_NGA_71551.jpg/330px-Paul_Klee%2C_Persische_Nachtigallen_%28Persian_Nightingales%29%2C_1917%2C_NGA_71551.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 322,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Paul_Klee%2C_Persische_Nachtigallen_%28Persian_Nightingales%29%2C_1917%2C_NGA_71551.jpg/960px-Paul_Klee%2C_Persische_Nachtigallen_%28Persian_Nightingales%29%2C_1917%2C_NGA_71551.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Paul_Klee%2C_Persische_Nachtigallen_%28Persian_Nightingales%29%2C_1917%2C_NGA_71551.jpg/330px-Paul_Klee%2C_Persische_Nachtigallen_%28Persian_Nightingales%29%2C_1917%2C_NGA_71551.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 322,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Paul_Klee%2C_Persische_Nachtigallen_%28Persian_Nightingales%29%2C_1917%2C_NGA_71551.jpg/960px-Paul_Klee%2C_Persische_Nachtigallen_%28Persian_Nightingales%29%2C_1917%2C_NGA_71551.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Paul_Klee%2C_Persische_Nachtigallen_%28Persian_Nightingales%29%2C_1917%2C_NGA_71551.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Persische_Nachtigallen_(Persian_Nightingales),_1917,_NGA_71551.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81486465",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">German:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"de\"><i>Persische Nachtigallen <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q64619059#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Persian Nightingales</i></div></div><div style=\"display: none;\">title QS:P1476,de:\"Persische Nachtigallen <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q64619059#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lde,\"Persische Nachtigallen <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q64619059#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Persian Nightingales\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Paul_Klee\" class=\"extiw\" title=\"w:en:Paul Klee\"><span title=\"German-Swiss artist (1879–1940)\">Paul Klee</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1917<div style=\"display: none;\">date QS:P571,+1917-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043183": {
+        "pageid": 82043183,
+        "ns": 6,
+        "title": "File:Paul Klee, Queen of Hearts (Herzdame), 1921, NGA 53055.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7511319,
+            "width": 2706,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Paul_Klee%2C_Queen_of_Hearts_%28Herzdame%29%2C_1921%2C_NGA_53055.jpg/330px-Paul_Klee%2C_Queen_of_Hearts_%28Herzdame%29%2C_1921%2C_NGA_53055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 284,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Paul_Klee%2C_Queen_of_Hearts_%28Herzdame%29%2C_1921%2C_NGA_53055.jpg/960px-Paul_Klee%2C_Queen_of_Hearts_%28Herzdame%29%2C_1921%2C_NGA_53055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Paul_Klee%2C_Queen_of_Hearts_%28Herzdame%29%2C_1921%2C_NGA_53055.jpg/330px-Paul_Klee%2C_Queen_of_Hearts_%28Herzdame%29%2C_1921%2C_NGA_53055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 284,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Paul_Klee%2C_Queen_of_Hearts_%28Herzdame%29%2C_1921%2C_NGA_53055.jpg/960px-Paul_Klee%2C_Queen_of_Hearts_%28Herzdame%29%2C_1921%2C_NGA_53055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Paul_Klee%2C_Queen_of_Hearts_%28Herzdame%29%2C_1921%2C_NGA_53055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Queen_of_Hearts_(Herzdame),_1921,_NGA_53055.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043183",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Queen of Hearts (Herzdame) </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1921<div style=\"display: none;\">date QS:P571,+1921-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81555575": {
+        "pageid": 81555575,
+        "ns": 6,
+        "title": "File:Paul Klee, Small World, 1914, NGA 153703.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9091901,
+            "width": 2603,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Paul_Klee%2C_Small_World%2C_1914%2C_NGA_153703.jpg/330px-Paul_Klee%2C_Small_World%2C_1914%2C_NGA_153703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 273,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Paul_Klee%2C_Small_World%2C_1914%2C_NGA_153703.jpg/960px-Paul_Klee%2C_Small_World%2C_1914%2C_NGA_153703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Paul_Klee%2C_Small_World%2C_1914%2C_NGA_153703.jpg/330px-Paul_Klee%2C_Small_World%2C_1914%2C_NGA_153703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 273,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Paul_Klee%2C_Small_World%2C_1914%2C_NGA_153703.jpg/960px-Paul_Klee%2C_Small_World%2C_1914%2C_NGA_153703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Paul_Klee%2C_Small_World%2C_1914%2C_NGA_153703.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Small_World,_1914,_NGA_153703.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81555575",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Small World </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1914<div style=\"display: none;\">date QS:P571,+1914-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043207": {
+        "pageid": 82043207,
+        "ns": 6,
+        "title": "File:Paul Klee, Small World (Kleinwelt), 1914, NGA 8110.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10403358,
+            "width": 2801,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Paul_Klee%2C_Small_World_%28Kleinwelt%29%2C_1914%2C_NGA_8110.jpg/330px-Paul_Klee%2C_Small_World_%28Kleinwelt%29%2C_1914%2C_NGA_8110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 294,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Paul_Klee%2C_Small_World_%28Kleinwelt%29%2C_1914%2C_NGA_8110.jpg/960px-Paul_Klee%2C_Small_World_%28Kleinwelt%29%2C_1914%2C_NGA_8110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Paul_Klee%2C_Small_World_%28Kleinwelt%29%2C_1914%2C_NGA_8110.jpg/330px-Paul_Klee%2C_Small_World_%28Kleinwelt%29%2C_1914%2C_NGA_8110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 294,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Paul_Klee%2C_Small_World_%28Kleinwelt%29%2C_1914%2C_NGA_8110.jpg/960px-Paul_Klee%2C_Small_World_%28Kleinwelt%29%2C_1914%2C_NGA_8110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Paul_Klee%2C_Small_World_%28Kleinwelt%29%2C_1914%2C_NGA_8110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Small_World_(Kleinwelt),_1914,_NGA_8110.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043207",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Small World (Kleinwelt) </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1914<div style=\"display: none;\">date QS:P571,+1914-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043231": {
+        "pageid": 82043231,
+        "ns": 6,
+        "title": "File:Paul Klee, The Monarchist, 1904, NGA 11548.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9220873,
+            "width": 3498,
+            "height": 3491,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Paul_Klee%2C_The_Monarchist%2C_1904%2C_NGA_11548.jpg/500px-Paul_Klee%2C_The_Monarchist%2C_1904%2C_NGA_11548.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 421,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Paul_Klee%2C_The_Monarchist%2C_1904%2C_NGA_11548.jpg/960px-Paul_Klee%2C_The_Monarchist%2C_1904%2C_NGA_11548.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Paul_Klee%2C_The_Monarchist%2C_1904%2C_NGA_11548.jpg/500px-Paul_Klee%2C_The_Monarchist%2C_1904%2C_NGA_11548.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 421,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Paul_Klee%2C_The_Monarchist%2C_1904%2C_NGA_11548.jpg/960px-Paul_Klee%2C_The_Monarchist%2C_1904%2C_NGA_11548.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Paul_Klee%2C_The_Monarchist%2C_1904%2C_NGA_11548.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_The_Monarchist,_1904,_NGA_11548.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043231",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>The Monarchist <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q65024283#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"The Monarchist <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q65024283#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"The Monarchist <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q65024283#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Paul_Klee\" class=\"extiw\" title=\"w:en:Paul Klee\"><span title=\"German-Swiss artist (1879–1940)\">Paul Klee</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1904<div style=\"display: none;\">date QS:P571,+1904-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043252": {
+        "pageid": 82043252,
+        "ns": 6,
+        "title": "File:Paul Klee, The Tight Rope Walker (Seiltänzer), 1923, NGA 8106.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12073958,
+            "width": 2477,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Paul_Klee%2C_The_Tight_Rope_Walker_%28Seilt%C3%A4nzer%29%2C_1923%2C_NGA_8106.jpg/330px-Paul_Klee%2C_The_Tight_Rope_Walker_%28Seilt%C3%A4nzer%29%2C_1923%2C_NGA_8106.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 260,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Paul_Klee%2C_The_Tight_Rope_Walker_%28Seilt%C3%A4nzer%29%2C_1923%2C_NGA_8106.jpg/960px-Paul_Klee%2C_The_Tight_Rope_Walker_%28Seilt%C3%A4nzer%29%2C_1923%2C_NGA_8106.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Paul_Klee%2C_The_Tight_Rope_Walker_%28Seilt%C3%A4nzer%29%2C_1923%2C_NGA_8106.jpg/330px-Paul_Klee%2C_The_Tight_Rope_Walker_%28Seilt%C3%A4nzer%29%2C_1923%2C_NGA_8106.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 260,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Paul_Klee%2C_The_Tight_Rope_Walker_%28Seilt%C3%A4nzer%29%2C_1923%2C_NGA_8106.jpg/960px-Paul_Klee%2C_The_Tight_Rope_Walker_%28Seilt%C3%A4nzer%29%2C_1923%2C_NGA_8106.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Paul_Klee%2C_The_Tight_Rope_Walker_%28Seilt%C3%A4nzer%29%2C_1923%2C_NGA_8106.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_The_Tight_Rope_Walker_(Seilt%C3%A4nzer),_1923,_NGA_8106.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043252",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>The Tight Rope Walker (Seiltänzer) </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1923<div style=\"display: none;\">date QS:P571,+1923-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81486472": {
+        "pageid": 81486472,
+        "ns": 6,
+        "title": "File:Paul Klee, Verhexte Tiere (Bewitched Animals), 1922, NGA 130835.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 6110100,
+            "width": 3733,
+            "height": 3220,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Paul_Klee%2C_Verhexte_Tiere_%28Bewitched_Animals%29%2C_1922%2C_NGA_130835.jpg/500px-Paul_Klee%2C_Verhexte_Tiere_%28Bewitched_Animals%29%2C_1922%2C_NGA_130835.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 487,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Paul_Klee%2C_Verhexte_Tiere_%28Bewitched_Animals%29%2C_1922%2C_NGA_130835.jpg/1280px-Paul_Klee%2C_Verhexte_Tiere_%28Bewitched_Animals%29%2C_1922%2C_NGA_130835.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Paul_Klee%2C_Verhexte_Tiere_%28Bewitched_Animals%29%2C_1922%2C_NGA_130835.jpg/500px-Paul_Klee%2C_Verhexte_Tiere_%28Bewitched_Animals%29%2C_1922%2C_NGA_130835.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 487,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Paul_Klee%2C_Verhexte_Tiere_%28Bewitched_Animals%29%2C_1922%2C_NGA_130835.jpg/1280px-Paul_Klee%2C_Verhexte_Tiere_%28Bewitched_Animals%29%2C_1922%2C_NGA_130835.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Paul_Klee%2C_Verhexte_Tiere_%28Bewitched_Animals%29%2C_1922%2C_NGA_130835.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Verhexte_Tiere_(Bewitched_Animals),_1922,_NGA_130835.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81486472",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Verhexte Tiere (Bewitched Animals) </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1922<div style=\"display: none;\">date QS:P571,+1922-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "82043279": {
+        "pageid": 82043279,
+        "ns": 6,
+        "title": "File:Paul Klee, Zwei Männer, einander in höherer Stellung vermutend, begegnen sich (Two Men Meet, Each Believing the Other to Be of Higher Rank, 1903, NGA 11549.jpg",
+        "index": 25,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7073520,
+            "width": 4000,
+            "height": 2310,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Paul_Klee%2C_Zwei_M%C3%A4nner%2C_einander_in_h%C3%B6herer_Stellung_vermutend%2C_begegnen_sich_%28Two_Men_Meet%2C_Each_Believing_the_Other_to_Be_of_Higher_Rank%2C_1903%2C_NGA_11549.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 600,
+            "thumbheight": 347,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Paul_Klee%2C_Zwei_M%C3%A4nner%2C_einander_in_h%C3%B6herer_Stellung_vermutend%2C_begegnen_sich_%28Two_Men_Meet%2C_Each_Believing_the_Other_to_Be_of_Higher_Rank%2C_1903%2C_NGA_11549.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Paul_Klee%2C_Zwei_M%C3%A4nner%2C_einander_in_h%C3%B6herer_Stellung_vermutend%2C_begegnen_sich_%28Two_Men_Meet%2C_Each_Believing_the_Other_to_Be_of_Higher_Rank%2C_1903%2C_NGA_11549.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 600,
+              "height": 347,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Paul_Klee%2C_Zwei_M%C3%A4nner%2C_einander_in_h%C3%B6herer_Stellung_vermutend%2C_begegnen_sich_%28Two_Men_Meet%2C_Each_Believing_the_Other_to_Be_of_Higher_Rank%2C_1903%2C_NGA_11549.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Paul_Klee%2C_Zwei_M%C3%A4nner%2C_einander_in_h%C3%B6herer_Stellung_vermutend%2C_begegnen_sich_%28Two_Men_Meet%2C_Each_Believing_the_Other_to_Be_of_Higher_Rank%2C_1903%2C_NGA_11549.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Zwei_M%C3%A4nner,_einander_in_h%C3%B6herer_Stellung_vermutend,_begegnen_sich_(Two_Men_Meet,_Each_Believing_the_Other_to_Be_of_Higher_Rank,_1903,_NGA_11549.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82043279",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Zwei Männer, einander in höherer Stellung vermutend, begegnen sich (Two Men Meet, Each Believing the Other to Be of Higher Rank </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nPaul Klee</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1903<div style=\"display: none;\">date QS:P571,+1903-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

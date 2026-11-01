@@ -1,0 +1,134 @@
+{
+  "scope": "Third-party notices only. Original SART code is AGPL-3.0-only; bundled artwork rights are separate.",
+  "sdkVersion": "34.0\nwasi-libc: 2e6fb9d8ee0c\nllvm: 895aa2c896ad\nllvm-version: 23.1.0\nconfig: f992bcc08219",
+  "files": [
+    {
+      "file": "AeroTizen-MIT.txt",
+      "component": "AeroTizen e23b6c669031bcc8763d31d6d841b3ff7f30b03f",
+      "license": "MIT",
+      "source": "https://github.com/helalaou/AeroTizen/blob/e23b6c669031bcc8763d31d6d841b3ff7f30b03f/LICENSE",
+      "sha256": "fcf8adb5b2a36516b0404f91161d434ae6871cd27377428d0be26a7b73243223"
+    },
+    {
+      "file": "Mbed-TLS.txt",
+      "component": "Mbed TLS 3.6.7",
+      "license": "Apache-2.0 OR GPL-2.0-or-later",
+      "source": "https://github.com/Mbed-TLS/mbedtls/blob/mbedtls-3.6.7/LICENSE",
+      "sha256": "9b405ef4c89342f5eae1dd828882f931747f71001cfba7d114801039b52ad09b"
+    },
+    {
+      "file": "QR-Code-Generator-MIT.txt",
+      "component": "QR Code Generator for JavaScript",
+      "license": "MIT",
+      "source": "https://github.com/kazuhikoarase/qrcode-generator/blob/master/js/dist/qrcode.js",
+      "sha256": "474384371abd5a4b1bf9858f2dbb027de9b9a4cc33e0321aa667715065e474d6",
+      "note": "Copyright and complete licence text preserved from app/assets/qr-license.json; upstream header retained in app/qr-vendor.js."
+    },
+    {
+      "file": "Acorn-MIT.txt",
+      "component": "Acorn 8.19.0",
+      "license": "MIT",
+      "source": "https://github.com/acornjs/acorn/tree/8.19.0",
+      "sha256": "76a876cf886ff9be2a8b5e2e86514fed06223c8c9f0c1e9ee9606e93841e00b7"
+    },
+    {
+      "file": "Pillow-LICENSE.txt",
+      "component": "Pillow 13.0.0",
+      "license": "MIT-CMU",
+      "source": "https://pypi.org/project/Pillow/13.0.0/",
+      "sha256": "dda12a98c1979cf3d94df1cff45d27a4cb3f04a60c76f76902ac54cac03ec0ce"
+    },
+    {
+      "file": "Cryptography-LICENSE.txt",
+      "component": "cryptography 50.0.2",
+      "license": "Apache-2.0 OR BSD-3-Clause",
+      "source": "https://pypi.org/project/cryptography/50.0.2/",
+      "sha256": "3e0c7c091a948b82533ba98fd7cbb40432d6f1a9acbf85f5922d2f99a93ae6bb"
+    },
+    {
+      "file": "Cryptography-Apache-2.0.txt",
+      "component": "cryptography 50.0.2",
+      "license": "Apache-2.0 OR BSD-3-Clause",
+      "source": "https://pypi.org/project/cryptography/50.0.2/",
+      "sha256": "aac73b3148f6d1d7111dbca32099f68d26c644c6813ae1e4f05f6579aa2663fe"
+    },
+    {
+      "file": "Cryptography-BSD-3-Clause.txt",
+      "component": "cryptography 50.0.2",
+      "license": "Apache-2.0 OR BSD-3-Clause",
+      "source": "https://pypi.org/project/cryptography/50.0.2/",
+      "sha256": "602c4c7482de6479dd2e9793cda275e5e63d773dacd1eca689232ab7008fb4fb"
+    },
+    {
+      "file": "CFFI-MIT-0.txt",
+      "component": "cffi 2.1.1",
+      "license": "MIT-0",
+      "source": "https://pypi.org/project/cffi/2.1.1/",
+      "sha256": "5ba24ddc57067f9249add644c3afc41a5d6dc37e23433ef759d95df370b0af63"
+    },
+    {
+      "file": "Pycparser-BSD-3-Clause.txt",
+      "component": "pycparser 3.11",
+      "license": "BSD-3-Clause",
+      "source": "https://pypi.org/project/pycparser/3.11/",
+      "sha256": "0a9e78156ae8b96caf1b4f11ac2df424b83de29736f9e757630548a6272fdf90"
+    },
+    {
+      "file": "WASI-libc-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/WebAssembly/wasi-libc/2e6fb9d8ee0c/LICENSE",
+      "bytes": 910,
+      "sha256": "2711a8b5a5cdfef0e639f96c1aca12ae23d7d64a02d0507f1bdf14d2b27bbc3a",
+      "component": "WASI libc 2e6fb9d8ee0c"
+    },
+    {
+      "file": "WASI-libc-Apache-LLVM.txt",
+      "source": "https://raw.githubusercontent.com/WebAssembly/wasi-libc/2e6fb9d8ee0c/LICENSE-APACHE-LLVM",
+      "bytes": 12243,
+      "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5",
+      "component": "WASI libc 2e6fb9d8ee0c"
+    },
+    {
+      "file": "WASI-libc-Apache-2.0.txt",
+      "source": "https://raw.githubusercontent.com/WebAssembly/wasi-libc/2e6fb9d8ee0c/LICENSE-APACHE",
+      "bytes": 10847,
+      "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+      "component": "WASI libc 2e6fb9d8ee0c"
+    },
+    {
+      "file": "WASI-libc-MIT.txt",
+      "source": "https://raw.githubusercontent.com/WebAssembly/wasi-libc/2e6fb9d8ee0c/LICENSE-MIT",
+      "bytes": 1023,
+      "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+      "component": "WASI libc 2e6fb9d8ee0c"
+    },
+    {
+      "file": "WASI-cloudlibc-BSD-2-Clause.txt",
+      "source": "https://raw.githubusercontent.com/WebAssembly/wasi-libc/2e6fb9d8ee0c/libc-bottom-half/cloudlibc/LICENSE",
+      "bytes": 1292,
+      "sha256": "c8b789cf5a746611e6300a0cc7750dbf92b61912a709d04e639245f7290656d0",
+      "component": "WASI libc 2e6fb9d8ee0c"
+    },
+    {
+      "file": "WASI-musl-COPYRIGHT.txt",
+      "source": "https://raw.githubusercontent.com/WebAssembly/wasi-libc/2e6fb9d8ee0c/libc-top-half/musl/COPYRIGHT",
+      "bytes": 6196,
+      "sha256": "b870108ec5e7790e9f9919064f1b9421d62d5f9b0e6c230c6adf7ea2da62e97b",
+      "component": "WASI libc 2e6fb9d8ee0c"
+    },
+    {
+      "file": "LLVM-compiler-rt-LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/llvm/llvm-project/895aa2c896ad/compiler-rt/LICENSE.TXT",
+      "bytes": 16708,
+      "sha256": "1a8f1058753f1ba890de984e48f0242a3a5c29a6a8f2ed9fd813f36985387e8d",
+      "component": "LLVM compiler-rt 895aa2c896ad"
+    },
+    {
+      "file": "WASI-dlmalloc-CC0.txt",
+      "component": "Doug Lea dlmalloc 2.8.6 in WASI libc 2e6fb9d8ee0c",
+      "license": "CC0-1.0",
+      "source": "https://raw.githubusercontent.com/WebAssembly/wasi-libc/2e6fb9d8ee0c/dlmalloc/src/malloc.c",
+      "sha256": "854638742c93abbd4ec57d2e9b306d29b30a71705ca43e68c6f584084797034e",
+      "note": "Public-domain/CC0 notice and version extracted verbatim from the upstream opening comment; no implementation code copied."
+    }
+  ]
+}

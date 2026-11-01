@@ -1,0 +1,3154 @@
+{
+  "info": {
+    "total": 189,
+    "parameters": {
+      "skip": 0,
+      "limit": 60,
+      "type": "Painting",
+      "q": "landscape",
+      "cc0": "1",
+      "culture": "China",
+      "has_image": "1",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,classification_type,collection,gallery,department",
+      "classification_type": "Painting",
+      "search": "landscape"
+    }
+  },
+  "data": [
+    {
+      "id": 142642,
+      "accession_number": "1966.367",
+      "share_license_status": "CC0",
+      "title": "Spring Landscape",
+      "creation_date": "1666",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "double album leaf mounted as a handscroll; ink and color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1966.367",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.367/1966.367_web.jpg",
+          "width": "1263",
+          "height": "596",
+          "filesize": "636728",
+          "filename": "1966.367_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.367/1966.367_print.jpg",
+          "width": "3400",
+          "height": "1605",
+          "filesize": "4626239",
+          "filename": "1966.367_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.367/1966.367_full.tif",
+          "width": "10390",
+          "height": "4906",
+          "filesize": "203921888",
+          "filename": "1966.367_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31221,
+          "description": "Kuncan (Chinese, 1612–c. 1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Kuncan was one of the so-called Four Monks of the early Qing period.",
+          "name_in_original_language": "髠殘",
+          "birth_year": "1612",
+          "death_year": "1678",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132908,
+      "accession_number": "1955.36",
+      "share_license_status": "CC0",
+      "title": "Landscape after Guo Zhongshu",
+      "creation_date": "c. 1680–1705",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "Hanging scroll; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.36",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.36/1955.36_web.jpg",
+          "width": "386",
+          "height": "893",
+          "filesize": "272761",
+          "filename": "1955.36_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.36/1955.36_print.jpg",
+          "width": "1468",
+          "height": "3400",
+          "filesize": "3610743",
+          "filename": "1955.36_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.36/1955.36_full.tif",
+          "width": "2859",
+          "height": "6622",
+          "filesize": "56829052",
+          "filename": "1955.36_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6306,
+          "description": "Bada Shanren (Chinese, 1626–1705)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "八大山人",
+          "birth_year": "1626",
+          "death_year": "1705",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 160947,
+      "accession_number": "1999.216.1",
+      "share_license_status": "CC0",
+      "title": "Herdboys and Buffalo in Landscape",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Qixian, Yuan dynasty (1271-1368)"
+      ],
+      "technique": "Hanging scroll; ink on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1999.216.1",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.216.1/1999.216.1_web.jpg",
+          "width": "551",
+          "height": "893",
+          "filesize": "306557",
+          "filename": "1999.216.1_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.216.1/1999.216.1_print.jpg",
+          "width": "2097",
+          "height": "3400",
+          "filesize": "4926202",
+          "filename": "1999.216.1_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.216.1/1999.216.1_full.tif",
+          "width": "3886",
+          "height": "6301",
+          "filesize": "73488412",
+          "filename": "1999.216.1_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 36734,
+          "description": "Guo Min (Chinese, mid-late 1200s)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "郭敏",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 154086,
+      "accession_number": "1988.20",
+      "share_license_status": "CC0",
+      "title": "Landscape with Woodcutters Returning Home",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "hanging scroll, ink on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1988.20",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1988.20/1988.20_web.jpg",
+          "width": "430",
+          "height": "900",
+          "filesize": "97821",
+          "filename": "1988.20_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1988.20/1988.20_print.jpg",
+          "width": "1623",
+          "height": "3400",
+          "filesize": "1172404",
+          "filename": "1988.20_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1988.20/1988.20_full.tif",
+          "width": "3763",
+          "height": "7885",
+          "filesize": "89042424",
+          "filename": "1988.20_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 160948,
+      "accession_number": "1999.216.2",
+      "share_license_status": "CC0",
+      "title": "Herdboys and Buffalo in Landscape",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Qixian, Yuan dynasty (1271-1368)"
+      ],
+      "technique": "Hanging scroll; ink on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1999.216.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.216.2/1999.216.2_web.jpg",
+          "width": "568",
+          "height": "900",
+          "filesize": "193433",
+          "filename": "1999.216.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.216.2/1999.216.2_print.jpg",
+          "width": "2144",
+          "height": "3400",
+          "filesize": "2025342",
+          "filename": "1999.216.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.216.2/1999.216.2_full.tif",
+          "width": "3904",
+          "height": "6191",
+          "filesize": "72533236",
+          "filename": "1999.216.2_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 36734,
+          "description": "Guo Min (Chinese, mid-late 1200s)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "郭敏",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132016,
+      "accession_number": "1954.583",
+      "share_license_status": "CC0",
+      "title": "Landscape after Ni Zan",
+      "creation_date": "1707",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "Hanging scroll; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1954.583",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1954.583/1954.583_web.jpg",
+          "width": "500",
+          "height": "893",
+          "filesize": "352090",
+          "filename": "1954.583_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1954.583/1954.583_print.jpg",
+          "width": "1905",
+          "height": "3400",
+          "filesize": "5185657",
+          "filename": "1954.583_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1954.583/1954.583_full.tif",
+          "width": "3674",
+          "height": "6555",
+          "filesize": "72277744",
+          "filename": "1954.583_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23295,
+          "description": "Wang Yuanqi (Chinese, 1642–1715)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "王原祁",
+          "birth_year": "1642",
+          "death_year": "1715",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149606,
+      "accession_number": "1979.27.1.10",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Landscape in the Style of Ni Zan",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.1.10",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.10/1979.27.1.10_web.jpg",
+          "width": "804",
+          "height": "900",
+          "filesize": "383090",
+          "filename": "1979.27.1.10_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.10/1979.27.1.10_print.jpg",
+          "width": "3038",
+          "height": "3400",
+          "filesize": "5372956",
+          "filename": "1979.27.1.10_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.10/1979.27.1.10_full.tif",
+          "width": "4866",
+          "height": "5446",
+          "filesize": "79528480",
+          "filename": "1979.27.1.10_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132926,
+      "accession_number": "1955.37.4",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: The Stream of Wuling",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.4",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.4/1955.37.4_web.jpg",
+          "width": "1133",
+          "height": "893",
+          "filesize": "782505",
+          "filename": "1955.37.4_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.4/1955.37.4_print.jpg",
+          "width": "3400",
+          "height": "2679",
+          "filesize": "7857097",
+          "filename": "1955.37.4_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.4/1955.37.4_full.tif",
+          "width": "5368",
+          "height": "4230",
+          "filesize": "68149912",
+          "filename": "1955.37.4_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 144286,
+      "accession_number": "1969.123",
+      "share_license_status": "CC0",
+      "title": "Landscape in the Style of Dong Yuan and Juran",
+      "creation_date": "c. 1650",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "hanging scroll, ink with white pigment on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1969.123",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1969.123/1969.123_web.jpg",
+          "width": "247",
+          "height": "893",
+          "filesize": "153568",
+          "filename": "1969.123_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1969.123/1969.123_print.jpg",
+          "width": "939",
+          "height": "3400",
+          "filesize": "2074878",
+          "filename": "1969.123_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1969.123/1969.123_full.tif",
+          "width": "1842",
+          "height": "6668",
+          "filesize": "36873068",
+          "filename": "1969.123_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23761,
+          "description": "Gong Xian (Chinese, 1599–1689)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "龔賢",
+          "birth_year": "1599",
+          "death_year": "1689",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 129861,
+      "accession_number": "1952.285",
+      "share_license_status": "CC0",
+      "title": "Landscape with Flying Geese",
+      "creation_date": "mid-1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127-1279)"
+      ],
+      "technique": "Album leaf; ink and slight color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1952.285",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.285/1952.285_web.jpg",
+          "width": "900",
+          "height": "748",
+          "filesize": "239843",
+          "filename": "1952.285_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.285/1952.285_print.jpg",
+          "width": "3400",
+          "height": "2824",
+          "filesize": "4291057",
+          "filename": "1952.285_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.285/1952.285_full.tif",
+          "width": "12110",
+          "height": "10058",
+          "filesize": "365436076",
+          "filename": "1952.285_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6218,
+          "description": "Ma Lin (Chinese, c. 1185–after 1260)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "active mid 1200s",
+          "name_in_original_language": "馬麟",
+          "birth_year": "1180",
+          "death_year": "1260",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 150932,
+      "accession_number": "1982.34",
+      "share_license_status": "CC0",
+      "title": "Landscape Ink-Play",
+      "creation_date": "1300s",
+      "culture": [
+        "China, Yuan dynasty (1271-1368)"
+      ],
+      "technique": "hanging scroll; ink and color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1982.34",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1982.34/1982.34_web.jpg",
+          "width": "842",
+          "height": "900",
+          "filesize": "205693",
+          "filename": "1982.34_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1982.34/1982.34_print.jpg",
+          "width": "3179",
+          "height": "3400",
+          "filesize": "2400270",
+          "filename": "1982.34_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1982.34/1982.34_full.tif",
+          "width": "5615",
+          "height": "6005",
+          "filesize": "101184992",
+          "filename": "1982.34_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 38541,
+          "description": "Fang Congyi (Chinese, active c. 1340–80)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "方從義",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149614,
+      "accession_number": "1979.27.1.8",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Portrait of Zhongqing in a Landscape",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.1.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.8/1979.27.1.8_web.jpg",
+          "width": "788",
+          "height": "893",
+          "filesize": "609865",
+          "filename": "1979.27.1.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.8/1979.27.1.8_print.jpg",
+          "width": "3002",
+          "height": "3400",
+          "filesize": "10787895",
+          "filename": "1979.27.1.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.8/1979.27.1.8_full.tif",
+          "width": "4878",
+          "height": "5524",
+          "filesize": "80868376",
+          "filename": "1979.27.1.8_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 130219,
+      "accession_number": "1952.588",
+      "share_license_status": "CC0",
+      "title": "Landscape after Jing Hao and Guan Tong",
+      "creation_date": "1700s",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "hanging scroll; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1952.588",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.588/1952.588_web.jpg",
+          "width": "460",
+          "height": "893",
+          "filesize": "329742",
+          "filename": "1952.588_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.588/1952.588_print.jpg",
+          "width": "1753",
+          "height": "3400",
+          "filesize": "3959905",
+          "filename": "1952.588_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.588/1952.588_full.tif",
+          "width": "2578",
+          "height": "5000",
+          "filesize": "38683516",
+          "filename": "1952.588_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6299,
+          "description": "Li Shizhuo (Chinese, c. 1690–1770)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "李世倬",
+          "birth_year": "1690",
+          "death_year": "1770",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149613,
+      "accession_number": "1979.27.1.7",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Daoist and Crane in Autumn Landscape",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.1.7",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.7/1979.27.1.7_web.jpg",
+          "width": "797",
+          "height": "893",
+          "filesize": "600179",
+          "filename": "1979.27.1.7_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.7/1979.27.1.7_print.jpg",
+          "width": "3035",
+          "height": "3400",
+          "filesize": "10790618",
+          "filename": "1979.27.1.7_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.7/1979.27.1.7_full.tif",
+          "width": "4884",
+          "height": "5470",
+          "filesize": "80177216",
+          "filename": "1979.27.1.7_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 135836,
+      "accession_number": "1959.348",
+      "share_license_status": "CC0",
+      "title": "Buddhist Retreat by Stream and Mountains",
+      "creation_date": "960–85",
+      "culture": [
+        "China, Northern Song dynasty (960–1127)"
+      ],
+      "technique": "Hanging scroll; ink on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1959.348",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.348/1959.348_web.jpg",
+          "width": "259",
+          "height": "900",
+          "filesize": "77650",
+          "filename": "1959.348_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.348/1959.348_print.jpg",
+          "width": "978",
+          "height": "3400",
+          "filesize": "799435",
+          "filename": "1959.348_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.348/1959.348_full.tif",
+          "width": "13109",
+          "height": "45554",
+          "filesize": "1791526440",
+          "filename": "1959.348_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 22770,
+          "description": "Juran (Chinese, active 960–985)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "巨然",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132930,
+      "accession_number": "1955.37.8",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: Landscape after Mi Fei",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.8/1955.37.8_web.jpg",
+          "width": "1158",
+          "height": "893",
+          "filesize": "706874",
+          "filename": "1955.37.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.8/1955.37.8_print.jpg",
+          "width": "3400",
+          "height": "2623",
+          "filesize": "7453083",
+          "filename": "1955.37.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.8/1955.37.8_full.tif",
+          "width": "5482",
+          "height": "4230",
+          "filesize": "69595096",
+          "filename": "1955.37.8_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 173659,
+      "accession_number": "1915.702",
+      "share_license_status": "CC0",
+      "title": "Landscape with Poet Tao Yuanming (365–472 CE)",
+      "creation_date": "1200s–1400s",
+      "culture": [
+        "China, Ming dynasty (1368-1644) or earlier"
+      ],
+      "technique": "Album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1915.702",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.702/1915.702_web.jpg",
+          "width": "900",
+          "height": "851",
+          "filesize": "319184",
+          "filename": "1915.702_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.702/1915.702_print.jpg",
+          "width": "3400",
+          "height": "3213",
+          "filesize": "4335032",
+          "filename": "1915.702_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.702/1915.702_full.tif",
+          "width": "10619",
+          "height": "10035",
+          "filesize": "319714344",
+          "filename": "1915.702_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 95208,
+      "accession_number": "1915.97.3",
+      "share_license_status": "CC0",
+      "title": "Landscape",
+      "creation_date": "1892",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "Hanging scroll; color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1915.97.3",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.97.3/1915.97.3_web.jpg",
+          "width": "253",
+          "height": "900",
+          "filesize": "95940",
+          "filename": "1915.97.3_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.97.3/1915.97.3_print.jpg",
+          "width": "954",
+          "height": "3400",
+          "filesize": "807934",
+          "filename": "1915.97.3_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.97.3/1915.97.3_full.tif",
+          "width": "2205",
+          "height": "7857",
+          "filesize": "52003060",
+          "filename": "1915.97.3_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 286271,
+          "description": "Ren Yu (Chinese, 1853–1901)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Ren Yu 任預 (1853–1901) was the youngest, most eccentric, and least prolific of the Four Rens (Ren Xiong, Ren Xun, and Ren Yi [Bonian]) a family of prominent painters in Shanghai during the late Qing dynasty (1644–1911).",
+          "name_in_original_language": "任預",
+          "birth_year": "1853",
+          "death_year": "1901",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 160946,
+      "accession_number": "1999.216",
+      "share_license_status": "CC0",
+      "title": "Herdboys and Buffalo in Landscapes",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Qixian, Yuan dynasty (1271-1368)"
+      ],
+      "technique": "Pair of hanging scrolls; ink on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1999.216",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.216/1999.216_web.jpg",
+          "width": "900",
+          "height": "711",
+          "filesize": "223103",
+          "filename": "1999.216_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.216/1999.216_print.jpg",
+          "width": "3400",
+          "height": "2687",
+          "filesize": "2334967",
+          "filename": "1999.216_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.216/1999.216_full.tif",
+          "width": "7974",
+          "height": "6301",
+          "filesize": "150757976",
+          "filename": "1999.216_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 36734,
+          "description": "Guo Min (Chinese, mid-late 1200s)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "郭敏",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 95209,
+      "accession_number": "1915.97.4",
+      "share_license_status": "CC0",
+      "title": "Landscape",
+      "creation_date": "1892",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "Hanging scroll; color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1915.97.4",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.97.4/1915.97.4_web.jpg",
+          "width": "255",
+          "height": "900",
+          "filesize": "82912",
+          "filename": "1915.97.4_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.97.4/1915.97.4_print.jpg",
+          "width": "965",
+          "height": "3400",
+          "filesize": "643052",
+          "filename": "1915.97.4_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.97.4/1915.97.4_full.tif",
+          "width": "2257",
+          "height": "7950",
+          "filesize": "53857956",
+          "filename": "1915.97.4_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 286271,
+          "description": "Ren Yu (Chinese, 1853–1901)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Ren Yu 任預 (1853–1901) was the youngest, most eccentric, and least prolific of the Four Rens (Ren Xiong, Ren Xun, and Ren Yi [Bonian]) a family of prominent painters in Shanghai during the late Qing dynasty (1644–1911).",
+          "name_in_original_language": "任預",
+          "birth_year": "1853",
+          "death_year": "1901",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 145123,
+      "accession_number": "1970.3",
+      "share_license_status": "CC0",
+      "title": "Landscape in the Style of Huang Gongwang",
+      "creation_date": "1649",
+      "culture": [
+        "China, late Ming dynasty (1368-1644) - early Qing dynasty (1644-1911)"
+      ],
+      "technique": "handscroll; ink and color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1970.3",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.3/1970.3_web.jpg",
+          "width": "1263",
+          "height": "73",
+          "filesize": "80667",
+          "filename": "1970.3_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.3/1970.3_print.jpg",
+          "width": "3400",
+          "height": "196",
+          "filesize": "526570",
+          "filename": "1970.3_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.3/1970.3_full.tif",
+          "width": "23278",
+          "height": "1341",
+          "filesize": "93668452",
+          "filename": "1970.3_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23279,
+          "description": "Gu Tianzhi (Chinese, active mid-1600s)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "顧天植",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 152832,
+      "accession_number": "1985.71.8",
+      "share_license_status": "CC0",
+      "title": "River Landscape",
+      "creation_date": "1788",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1985.71.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71.8/1985.71.8_web.jpg",
+          "width": "573",
+          "height": "893",
+          "filesize": "301068",
+          "filename": "1985.71.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71.8/1985.71.8_print.jpg",
+          "width": "2183",
+          "height": "3400",
+          "filesize": "4347039",
+          "filename": "1985.71.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71.8/1985.71.8_full.tif",
+          "width": "4315",
+          "height": "6720",
+          "filesize": "87011468",
+          "filename": "1985.71.8_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31140,
+          "description": "Min Zhen (Chinese, 1730–after 1788)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "閔貞",
+          "birth_year": "1730",
+          "death_year": "1788",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 95207,
+      "accession_number": "1915.97.2",
+      "share_license_status": "CC0",
+      "title": "Landscape",
+      "creation_date": "1892",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "Hanging scroll; color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1915.97.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.97.2/1915.97.2_web.jpg",
+          "width": "252",
+          "height": "900",
+          "filesize": "90409",
+          "filename": "1915.97.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.97.2/1915.97.2_print.jpg",
+          "width": "953",
+          "height": "3400",
+          "filesize": "799026",
+          "filename": "1915.97.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.97.2/1915.97.2_full.tif",
+          "width": "2243",
+          "height": "8000",
+          "filesize": "53861048",
+          "filename": "1915.97.2_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 286271,
+          "description": "Ren Yu (Chinese, 1853–1901)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Ren Yu 任預 (1853–1901) was the youngest, most eccentric, and least prolific of the Four Rens (Ren Xiong, Ren Xun, and Ren Yi [Bonian]) a family of prominent painters in Shanghai during the late Qing dynasty (1644–1911).",
+          "name_in_original_language": "任預",
+          "birth_year": "1853",
+          "death_year": "1901",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132837,
+      "accession_number": "1955.302.4",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf A (previous leaf 4)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.4",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.4/1955.302.4_web.jpg",
+          "width": "674",
+          "height": "893",
+          "filesize": "486593",
+          "filename": "1955.302.4_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.4/1955.302.4_print.jpg",
+          "width": "2566",
+          "height": "3400",
+          "filesize": "6745068",
+          "filename": "1955.302.4_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.4/1955.302.4_full.tif",
+          "width": "3222",
+          "height": "4269",
+          "filesize": "41297892",
+          "filename": "1955.302.4_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132924,
+      "accession_number": "1955.37.2",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: Spring Plowing",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "Album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.2/1955.37.2_web.jpg",
+          "width": "900",
+          "height": "704",
+          "filesize": "314728",
+          "filename": "1955.37.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.2/1955.37.2_print.jpg",
+          "width": "3400",
+          "height": "2661",
+          "filesize": "3529030",
+          "filename": "1955.37.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.2/1955.37.2_full.tif",
+          "width": "5512",
+          "height": "4314",
+          "filesize": "71363680",
+          "filename": "1955.37.2_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 95206,
+      "accession_number": "1915.97.1",
+      "share_license_status": "CC0",
+      "title": "Landscape",
+      "creation_date": "1892",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "Hanging scroll; color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1915.97.1",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.97.1/1915.97.1_web.jpg",
+          "width": "253",
+          "height": "900",
+          "filesize": "96447",
+          "filename": "1915.97.1_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.97.1/1915.97.1_print.jpg",
+          "width": "955",
+          "height": "3400",
+          "filesize": "802162",
+          "filename": "1915.97.1_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.97.1/1915.97.1_full.tif",
+          "width": "2233",
+          "height": "7952",
+          "filesize": "53299616",
+          "filename": "1915.97.1_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 286271,
+          "description": "Ren Yu (Chinese, 1853–1901)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Ren Yu 任預 (1853–1901) was the youngest, most eccentric, and least prolific of the Four Rens (Ren Xiong, Ren Xun, and Ren Yi [Bonian]) a family of prominent painters in Shanghai during the late Qing dynasty (1644–1911).",
+          "name_in_original_language": "任預",
+          "birth_year": "1853",
+          "death_year": "1901",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 160137,
+      "accession_number": "1997.95",
+      "share_license_status": "CC0",
+      "title": "Mountains of the Immortals",
+      "creation_date": "1300–1370",
+      "culture": [
+        "China, Yuan dynasty (1271-1368)"
+      ],
+      "technique": "Handscroll; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1997.95",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.95/1997.95_web.jpg",
+          "width": "1263",
+          "height": "346",
+          "filesize": "345552",
+          "filename": "1997.95_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.95/1997.95_print.jpg",
+          "width": "3400",
+          "height": "931",
+          "filesize": "2553241",
+          "filename": "1997.95_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.95/1997.95_full.tif",
+          "width": "17085",
+          "height": "4678",
+          "filesize": "319720592",
+          "filename": "1997.95_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 11199,
+          "description": "Chen Ruyan (Chinese, c. 1331–1371)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳汝言",
+          "birth_year": "1326",
+          "death_year": "1371",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 11204,
+          "description": "Ni Zan (Chinese, 1301–1374)",
+          "extent": "calligraphy by",
+          "qualifier": null,
+          "role": "calligrapher",
+          "biography": null,
+          "name_in_original_language": "倪瓚",
+          "birth_year": "1301",
+          "death_year": "1374",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132835,
+      "accession_number": "1955.302.2",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf D (previous leaf 2)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.2/1955.302.2_web.jpg",
+          "width": "675",
+          "height": "893",
+          "filesize": "459484",
+          "filename": "1955.302.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.2/1955.302.2_print.jpg",
+          "width": "2571",
+          "height": "3400",
+          "filesize": "6479624",
+          "filename": "1955.302.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.2/1955.302.2_full.tif",
+          "width": "3192",
+          "height": "4221",
+          "filesize": "40454700",
+          "filename": "1955.302.2_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 98261,
+      "accession_number": "1917.94",
+      "share_license_status": "CC0",
+      "title": "Landscape",
+      "creation_date": "1368–1644",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "handscroll; ink and slight color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1917.94",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_web.jpg",
+          "width": "1263",
+          "height": "116",
+          "filesize": "120880",
+          "filename": "1917.94_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_print.jpg",
+          "width": "3400",
+          "height": "311",
+          "filesize": "804267",
+          "filename": "1917.94_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.94/1917.94_full.tif",
+          "width": "12000",
+          "height": "1099",
+          "filesize": "39587352",
+          "filename": "1917.94_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 152828,
+      "accession_number": "1985.71.4",
+      "share_license_status": "CC0",
+      "title": "Landscape after Mi Fu",
+      "creation_date": "1788",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1985.71.4",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71.4/1985.71.4_web.jpg",
+          "width": "573",
+          "height": "893",
+          "filesize": "395318",
+          "filename": "1985.71.4_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71.4/1985.71.4_print.jpg",
+          "width": "2183",
+          "height": "3400",
+          "filesize": "5077576",
+          "filename": "1985.71.4_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71.4/1985.71.4_full.tif",
+          "width": "4315",
+          "height": "6720",
+          "filesize": "87011468",
+          "filename": "1985.71.4_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31140,
+          "description": "Min Zhen (Chinese, 1730–after 1788)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "閔貞",
+          "birth_year": "1730",
+          "death_year": "1788",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149610,
+      "accession_number": "1979.27.1.4",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters: Autumn Landscape",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.1.4",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.4/1979.27.1.4_web.jpg",
+          "width": "790",
+          "height": "893",
+          "filesize": "641768",
+          "filename": "1979.27.1.4_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.4/1979.27.1.4_print.jpg",
+          "width": "3007",
+          "height": "3400",
+          "filesize": "10937645",
+          "filename": "1979.27.1.4_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.1.4/1979.27.1.4_full.tif",
+          "width": "4812",
+          "height": "5440",
+          "filesize": "78563912",
+          "filename": "1979.27.1.4_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132928,
+      "accession_number": "1955.37.6",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: Traveling in Autumn Mountains",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.6",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.6/1955.37.6_web.jpg",
+          "width": "900",
+          "height": "674",
+          "filesize": "283837",
+          "filename": "1955.37.6_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.6/1955.37.6_print.jpg",
+          "width": "3400",
+          "height": "2546",
+          "filesize": "3145835",
+          "filename": "1955.37.6_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.6/1955.37.6_full.tif",
+          "width": "5368",
+          "height": "4020",
+          "filesize": "64764684",
+          "filename": "1955.37.6_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132919,
+      "accession_number": "1955.37",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "Album of twelve leaves; ink or ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37/1955.37_web.jpg",
+          "width": "1167",
+          "height": "893",
+          "filesize": "673277",
+          "filename": "1955.37_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37/1955.37_print.jpg",
+          "width": "3400",
+          "height": "2601",
+          "filesize": "6704486",
+          "filename": "1955.37_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37/1955.37_full.tif",
+          "width": "5699",
+          "height": "4360",
+          "filesize": "74570072",
+          "filename": "1955.37_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132931,
+      "accession_number": "1955.37.9",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: Pleasure in a Mountain Brook",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.9",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.9/1955.37.9_web.jpg",
+          "width": "900",
+          "height": "679",
+          "filesize": "291965",
+          "filename": "1955.37.9_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.9/1955.37.9_print.jpg",
+          "width": "3400",
+          "height": "2566",
+          "filesize": "3409574",
+          "filename": "1955.37.9_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.9/1955.37.9_full.tif",
+          "width": "5518",
+          "height": "4164",
+          "filesize": "68957776",
+          "filename": "1955.37.9_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 152827,
+      "accession_number": "1985.71.3",
+      "share_license_status": "CC0",
+      "title": "Landscape in the Manner of Ma Yuan",
+      "creation_date": "1788",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1985.71.3",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71.3/1985.71.3_web.jpg",
+          "width": "572",
+          "height": "893",
+          "filesize": "377621",
+          "filename": "1985.71.3_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71.3/1985.71.3_print.jpg",
+          "width": "2179",
+          "height": "3400",
+          "filesize": "4839848",
+          "filename": "1985.71.3_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1985.71.3/1985.71.3_full.tif",
+          "width": "4307",
+          "height": "6720",
+          "filesize": "86850188",
+          "filename": "1985.71.3_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31140,
+          "description": "Min Zhen (Chinese, 1730–after 1788)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "閔貞",
+          "birth_year": "1730",
+          "death_year": "1788",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149620,
+      "accession_number": "1979.27.2.15",
+      "share_license_status": "CC0",
+      "title": "Paintings after Ancient Masters:Travelers in an Autumn Landscape",
+      "creation_date": "1598–1652",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1979.27.2.15",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.15/1979.27.2.15_web.jpg",
+          "width": "796",
+          "height": "900",
+          "filesize": "440890",
+          "filename": "1979.27.2.15_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.15/1979.27.2.15_print.jpg",
+          "width": "3007",
+          "height": "3400",
+          "filesize": "4824034",
+          "filename": "1979.27.2.15_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1979.27.2.15/1979.27.2.15_full.tif",
+          "width": "4848",
+          "height": "5482",
+          "filesize": "79759276",
+          "filename": "1979.27.2.15_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6274,
+          "description": "Chen Hongshou (Chinese, 1598/99–1652)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "陳洪綬",
+          "birth_year": "1598",
+          "death_year": "1652",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 151028,
+      "accession_number": "1982.68.12",
+      "share_license_status": "CC0",
+      "title": "Album of Landscape Paintings Illustrating Old Poems: Boy Tending a Water Buffalo",
+      "creation_date": "1745",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "Album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1982.68.12",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1982.68.12/1982.68.12_web.jpg",
+          "width": "1072",
+          "height": "893",
+          "filesize": "634457",
+          "filename": "1982.68.12_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1982.68.12/1982.68.12_print.jpg",
+          "width": "3400",
+          "height": "2833",
+          "filesize": "6015862",
+          "filename": "1982.68.12_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1982.68.12/1982.68.12_full.tif",
+          "width": "6347",
+          "height": "5288",
+          "filesize": "100709876",
+          "filename": "1982.68.12_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23570,
+          "description": "Hua Yan (Chinese, 1682–c. 1765)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "華喦",
+          "birth_year": "1682",
+          "death_year": "1756",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 149413,
+      "accession_number": "1978.66",
+      "share_license_status": "CC0",
+      "title": "River Village:  Fisherman's Joy",
+      "creation_date": "c. 1302–3",
+      "culture": [
+        "China, Yuan dynasty (1271-1368)"
+      ],
+      "technique": "Fan painting mounted as album leaf; ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1978.66",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1978.66/1978.66_web.jpg",
+          "width": "932",
+          "height": "893",
+          "filesize": "512617",
+          "filename": "1978.66_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1978.66/1978.66_print.jpg",
+          "width": "3400",
+          "height": "3258",
+          "filesize": "7231153",
+          "filename": "1978.66_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1978.66/1978.66_full.tif",
+          "width": "6512",
+          "height": "6240",
+          "filesize": "121925704",
+          "filename": "1978.66_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 22796,
+          "description": "Zhao Mengfu (Chinese, 1254–1322)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "趙孟頫",
+          "birth_year": "1254",
+          "death_year": "1322",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 153729,
+      "accession_number": "1987.37",
+      "share_license_status": "CC0",
+      "title": "Mountain Landscape in Moonlight",
+      "creation_date": "1200s",
+      "culture": [
+        "China, Southern Song dynasty (1127–1279) to Yuan dynasty (1271–1368)"
+      ],
+      "technique": "hanging scroll; ink on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1987.37",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.37/1987.37_web.jpg",
+          "width": "578",
+          "height": "900",
+          "filesize": "143576",
+          "filename": "1987.37_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.37/1987.37_print.jpg",
+          "width": "2184",
+          "height": "3400",
+          "filesize": "2316026",
+          "filename": "1987.37_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.37/1987.37_full.tif",
+          "width": "4847",
+          "height": "7547",
+          "filesize": "109769708",
+          "filename": "1987.37_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132921,
+      "accession_number": "1955.37.10",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: Landscape after Wu Zhen",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.10",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.10/1955.37.10_web.jpg",
+          "width": "900",
+          "height": "695",
+          "filesize": "321080",
+          "filename": "1955.37.10_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.10/1955.37.10_print.jpg",
+          "width": "3400",
+          "height": "2627",
+          "filesize": "3511496",
+          "filename": "1955.37.10_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.10/1955.37.10_full.tif",
+          "width": "5482",
+          "height": "4236",
+          "filesize": "69693936",
+          "filename": "1955.37.10_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132920,
+      "accession_number": "1955.37.1",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: Landscape after Ni Zan",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "Album leaf, ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.1",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.1/1955.37.1_web.jpg",
+          "width": "1263",
+          "height": "803",
+          "filesize": "817656",
+          "filename": "1955.37.1_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.1/1955.37.1_print.jpg",
+          "width": "3400",
+          "height": "2161",
+          "filesize": "6540637",
+          "filename": "1955.37.1_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.1/1955.37.1_full.tif",
+          "width": "5371",
+          "height": "3414",
+          "filesize": "55039732",
+          "filename": "1955.37.1_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132841,
+      "accession_number": "1955.302.8",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf H (previous leaf 8)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.8/1955.302.8_web.jpg",
+          "width": "677",
+          "height": "893",
+          "filesize": "450647",
+          "filename": "1955.302.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.8/1955.302.8_print.jpg",
+          "width": "2576",
+          "height": "3400",
+          "filesize": "6369108",
+          "filename": "1955.302.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.8/1955.302.8_full.tif",
+          "width": "3209",
+          "height": "4235",
+          "filesize": "40802284",
+          "filename": "1955.302.8_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 130361,
+      "accession_number": "1953.126",
+      "share_license_status": "CC0",
+      "title": "Streams and Mountains without End",
+      "creation_date": "1100–1150",
+      "culture": [
+        "China, late Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)"
+      ],
+      "technique": "handscroll; ink and slight color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1953.126",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.126/1953.126_web.jpg",
+          "width": "900",
+          "height": "139",
+          "filesize": "75890",
+          "filename": "1953.126_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.126/1953.126_print.jpg",
+          "width": "3400",
+          "height": "525",
+          "filesize": "584573",
+          "filename": "1953.126_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.126/1953.126_full.tif",
+          "width": "28075",
+          "height": "4336",
+          "filesize": "365233716",
+          "filename": "1953.126_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132840,
+      "accession_number": "1955.302.7",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf G (previous leaf 7)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.7",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.7/1955.302.7_web.jpg",
+          "width": "678",
+          "height": "893",
+          "filesize": "438462",
+          "filename": "1955.302.7_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.7/1955.302.7_print.jpg",
+          "width": "2583",
+          "height": "3400",
+          "filesize": "6419147",
+          "filename": "1955.302.7_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.7/1955.302.7_full.tif",
+          "width": "3232",
+          "height": "4254",
+          "filesize": "41279316",
+          "filename": "1955.302.7_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132838,
+      "accession_number": "1955.302.5",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf F (previous leaf 5)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.5",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.5/1955.302.5_web.jpg",
+          "width": "673",
+          "height": "893",
+          "filesize": "478196",
+          "filename": "1955.302.5_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.5/1955.302.5_print.jpg",
+          "width": "2563",
+          "height": "3400",
+          "filesize": "6563612",
+          "filename": "1955.302.5_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.5/1955.302.5_full.tif",
+          "width": "3215",
+          "height": "4264",
+          "filesize": "41160192",
+          "filename": "1955.302.5_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132922,
+      "accession_number": "1955.37.11",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: Snowy Landscape",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.11",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.11/1955.37.11_web.jpg",
+          "width": "1106",
+          "height": "893",
+          "filesize": "764364",
+          "filename": "1955.37.11_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.11/1955.37.11_print.jpg",
+          "width": "3400",
+          "height": "2744",
+          "filesize": "8127308",
+          "filename": "1955.37.11_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.11/1955.37.11_full.tif",
+          "width": "5500",
+          "height": "4440",
+          "filesize": "73290980",
+          "filename": "1955.37.11_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 148244,
+      "accession_number": "1975.22.9",
+      "share_license_status": "CC0",
+      "title": "Album of Miscellaneous Subjects, Leaf 9",
+      "creation_date": "early 1650s",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1975.22.9",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.9/1975.22.9_web.jpg",
+          "width": "1263",
+          "height": "662",
+          "filesize": "671932",
+          "filename": "1975.22.9_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.9/1975.22.9_print.jpg",
+          "width": "3400",
+          "height": "1782",
+          "filesize": "5696328",
+          "filename": "1975.22.9_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.22.9/1975.22.9_full.tif",
+          "width": "6389",
+          "height": "3349",
+          "filesize": "64220388",
+          "filename": "1975.22.9_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33538,
+          "description": "Fan Qi (Chinese, 1616–after 1694)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "樊圻",
+          "birth_year": "1616",
+          "death_year": "1694",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 147008,
+      "accession_number": "1972.41",
+      "share_license_status": "CC0",
+      "title": "Bodhidharma Meditating Facing a Cliff",
+      "creation_date": "late 1200s",
+      "culture": [
+        "China, Song dynasty (960-1279)"
+      ],
+      "technique": "Hanging scroll; ink on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1972.41",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1972.41/1972.41_web.jpg",
+          "width": "284",
+          "height": "900",
+          "filesize": "157489",
+          "filename": "1972.41_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1972.41/1972.41_print.jpg",
+          "width": "1073",
+          "height": "3400",
+          "filesize": "1336939",
+          "filename": "1972.41_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1972.41/1972.41_full.tif",
+          "width": "10114",
+          "height": "32043",
+          "filesize": "972273504",
+          "filename": "1972.41_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 151027,
+      "accession_number": "1982.68.11",
+      "share_license_status": "CC0",
+      "title": "Album of Landscape Paintings Illustrating Old Poems: Listening to the Qin",
+      "creation_date": "1745",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1982.68.11",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1982.68.11/1982.68.11_web.jpg",
+          "width": "1060",
+          "height": "893",
+          "filesize": "675320",
+          "filename": "1982.68.11_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1982.68.11/1982.68.11_print.jpg",
+          "width": "3400",
+          "height": "2863",
+          "filesize": "6278925",
+          "filename": "1982.68.11_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1982.68.11/1982.68.11_full.tif",
+          "width": "6299",
+          "height": "5304",
+          "filesize": "100250756",
+          "filename": "1982.68.11_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23570,
+          "description": "Hua Yan (Chinese, 1682–c. 1765)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "華喦",
+          "birth_year": "1682",
+          "death_year": "1756",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 95087,
+      "accession_number": "1915.621",
+      "share_license_status": "CC0",
+      "title": "Landscape in the Style of Juran",
+      "creation_date": "1368–1644",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "Hanging scroll mounted as a panel; ink and slight color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1915.621",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.621/1915.621_web.jpg",
+          "width": "516",
+          "height": "900",
+          "filesize": "116330",
+          "filename": "1915.621_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.621/1915.621_print.jpg",
+          "width": "1951",
+          "height": "3400",
+          "filesize": "1087267",
+          "filename": "1915.621_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.621/1915.621_full.tif",
+          "width": "8776",
+          "height": "15291",
+          "filesize": "402610500",
+          "filename": "1915.621_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23265,
+          "description": "Liu Du (Chinese, active c. 1628-after 1653)",
+          "extent": null,
+          "qualifier": "attributed to",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "劉度",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 143776,
+      "accession_number": "1968.213",
+      "share_license_status": "CC0",
+      "title": "Clouds and Waves at the Wu Gorge",
+      "creation_date": "c. 1547–67",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "hanging scroll; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1968.213",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1968.213/1968.213_web.jpg",
+          "width": "337",
+          "height": "893",
+          "filesize": "280023",
+          "filename": "1968.213_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1968.213/1968.213_print.jpg",
+          "width": "1283",
+          "height": "3400",
+          "filesize": "3380963",
+          "filename": "1968.213_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1968.213/1968.213_full.tif",
+          "width": "1887",
+          "height": "5000",
+          "filesize": "28315180",
+          "filename": "1968.213_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 22888,
+          "description": "Xie Shichen (Chinese, 1487–after 1567)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "謝時臣",
+          "birth_year": "1487",
+          "death_year": "1572",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 160139,
+      "accession_number": "1997.97",
+      "share_license_status": "CC0",
+      "title": "Landscape with Bamboo",
+      "creation_date": "1300s",
+      "culture": [
+        "China, Yuan dynasty (1271-1368)"
+      ],
+      "technique": "Handscroll; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1997.97",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.97/1997.97_web.jpg",
+          "width": "1263",
+          "height": "408",
+          "filesize": "399545",
+          "filename": "1997.97_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.97/1997.97_print.jpg",
+          "width": "1024",
+          "height": "162",
+          "filesize": "145296",
+          "filename": "1997.97_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1997.97/1997.97_full.tif",
+          "width": "5000",
+          "height": "793",
+          "filesize": "11915900",
+          "filename": "1997.97_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 11264,
+          "description": "Song Ke (Chinese, 1327–1387)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "宋克",
+          "birth_year": "1327",
+          "death_year": "1387",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 151024,
+      "accession_number": "1982.68",
+      "share_license_status": "CC0",
+      "title": "Album of Landscape Painting Illustrating Old Poems",
+      "creation_date": "1745",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "Album of twelve leaves; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1982.68",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1982.68/1982.68_web.jpg",
+          "width": "900",
+          "height": "765",
+          "filesize": "201996",
+          "filename": "1982.68_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1982.68/1982.68_print.jpg",
+          "width": "3400",
+          "height": "2891",
+          "filesize": "2059409",
+          "filename": "1982.68_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1982.68/1982.68_full.tif",
+          "width": "6435",
+          "height": "5472",
+          "filesize": "105661892",
+          "filename": "1982.68_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23570,
+          "description": "Hua Yan (Chinese, 1682–c. 1765)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "華喦",
+          "birth_year": "1682",
+          "death_year": "1756",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 135964,
+      "accession_number": "1959.46",
+      "share_license_status": "CC0",
+      "title": "River and Mountains on a Clear Autumn Day",
+      "creation_date": "c. 1624–27",
+      "culture": [
+        "China, Ming dynasty (1368–1644)"
+      ],
+      "technique": "Handscroll; ink on Korean paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1959.46",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.46/1959.46_web.jpg",
+          "width": "900",
+          "height": "125",
+          "filesize": "64039",
+          "filename": "1959.46_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.46/1959.46_print.jpg",
+          "width": "3400",
+          "height": "473",
+          "filesize": "583291",
+          "filename": "1959.46_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.46/1959.46_full.tif",
+          "width": "35860",
+          "height": "4992",
+          "filesize": "716075732",
+          "filename": "1959.46_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 22133,
+          "description": "Dong Qichang (Chinese, 1555–1636)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "董其昌",
+          "birth_year": "1555",
+          "death_year": "1636",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132833,
+      "accession_number": "1955.302",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "Album of eight leaves; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302/1955.302_web.jpg",
+          "width": "636",
+          "height": "893",
+          "filesize": "516091",
+          "filename": "1955.302_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302/1955.302_print.jpg",
+          "width": "2421",
+          "height": "3400",
+          "filesize": "8664132",
+          "filename": "1955.302_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302/1955.302_full.tif",
+          "width": "4002",
+          "height": "5620",
+          "filesize": "67508220",
+          "filename": "1955.302_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 142278,
+      "accession_number": "1966.115",
+      "share_license_status": "CC0",
+      "title": "Birds in a Grove in a Mountainous Winter Landscape",
+      "creation_date": "1100s",
+      "culture": [
+        "China, Jin dynasty (1115-1234)"
+      ],
+      "technique": "hanging scroll; ink and slight color on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1966.115",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.115/1966.115_web.jpg",
+          "width": "331",
+          "height": "900",
+          "filesize": "116008",
+          "filename": "1966.115_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.115/1966.115_print.jpg",
+          "width": "1250",
+          "height": "3400",
+          "filesize": "1295538",
+          "filename": "1966.115_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.115/1966.115_full.tif",
+          "width": "14181",
+          "height": "38581",
+          "filesize": "1641376108",
+          "filename": "1966.115_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 31186,
+          "description": "Gao Tao (Chinese, 1100s)",
+          "extent": null,
+          "qualifier": "possibly by",
+          "role": "artist",
+          "biography": "Gao Tao 高燾 was a twelfth-century northern artist from Mianzhou 沔州 (present-day Lueyang 略陽 county) in Shaanxi 陝西 province. He was recorded... as a \"reclusive gentleman\" (<em>yanxue shangshi</em> 巖穴上士) particularly known for paintings of intimate scenes that were \"pure and remote, tranquil and profound,\" and of themes such as \"sleeping ducks, floating geese, decaying willows and withered stalks.\"",
+          "name_in_original_language": "高燾",
+          "birth_year": "1100",
+          "death_year": "1199",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 146140,
+      "accession_number": "1971.40",
+      "share_license_status": "CC0",
+      "title": "Palace Landscape",
+      "creation_date": "1000s",
+      "culture": [
+        "China, Northern Song dynasty (960–1127)"
+      ],
+      "technique": "album leaf; ink, color, and gold on silk",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1971.40",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.40/1971.40_web.jpg",
+          "width": "1051",
+          "height": "893",
+          "filesize": "676151",
+          "filename": "1971.40_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.40/1971.40_print.jpg",
+          "width": "3400",
+          "height": "2888",
+          "filesize": "7102403",
+          "filename": "1971.40_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.40/1971.40_full.tif",
+          "width": "7072",
+          "height": "6008",
+          "filesize": "127486792",
+          "filename": "1971.40_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 130940,
+      "accession_number": "1953.629",
+      "share_license_status": "CC0",
+      "title": "Tall Bamboo and Distant Mountains, after Wang Meng",
+      "creation_date": "1694",
+      "culture": [
+        "China, Qing dynasty (1644–1911)"
+      ],
+      "technique": "Hanging scroll; ink on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1953.629",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.629/1953.629_web.jpg",
+          "width": "451",
+          "height": "893",
+          "filesize": "335146",
+          "filename": "1953.629_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.629/1953.629_print.jpg",
+          "width": "1718",
+          "height": "3400",
+          "filesize": "3939908",
+          "filename": "1953.629_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.629/1953.629_full.tif",
+          "width": "2527",
+          "height": "5000",
+          "filesize": "37918516",
+          "filename": "1953.629_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 6326,
+          "description": "Wang Hui (Chinese, 1632–1717)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "王翬",
+          "birth_year": "1632",
+          "death_year": "1717",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132836,
+      "accession_number": "1955.302.3",
+      "share_license_status": "CC0",
+      "title": "Album of Seasonal Landscapes, Leaf E (previous leaf 3)",
+      "creation_date": "1668",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf; ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.302.3",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.3/1955.302.3_web.jpg",
+          "width": "673",
+          "height": "893",
+          "filesize": "483699",
+          "filename": "1955.302.3_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.3/1955.302.3_print.jpg",
+          "width": "2562",
+          "height": "3400",
+          "filesize": "6784407",
+          "filename": "1955.302.3_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.302.3/1955.302.3_full.tif",
+          "width": "3220",
+          "height": "4272",
+          "filesize": "41301828",
+          "filename": "1955.302.3_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23575,
+          "description": "Xiao Yuncong (Chinese, 1596–1673)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "蕭雲從",
+          "birth_year": "1596",
+          "death_year": "1673",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132929,
+      "accession_number": "1955.37.7",
+      "share_license_status": "CC0",
+      "title": "Landscape Album in Various Styles: Landscape with Artist on a Bridge",
+      "creation_date": "1684",
+      "culture": [
+        "China, Qing dynasty (1644-1911)"
+      ],
+      "technique": "album leaf, ink and light color on paper",
+      "type": "Painting",
+      "url": "https://clevelandart.org/art/1955.37.7",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.7/1955.37.7_web.jpg",
+          "width": "1117",
+          "height": "893",
+          "filesize": "812524",
+          "filename": "1955.37.7_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.7/1955.37.7_print.jpg",
+          "width": "3400",
+          "height": "2718",
+          "filesize": "8369331",
+          "filename": "1955.37.7_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.37.7/1955.37.7_full.tif",
+          "width": "5464",
+          "height": "4368",
+          "filesize": "71632356",
+          "filename": "1955.37.7_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 23580,
+          "description": "Zha Shibiao (Chinese, 1615–1698)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": "查士標",
+          "birth_year": "1615",
+          "death_year": "1698",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    }
+  ]
+}

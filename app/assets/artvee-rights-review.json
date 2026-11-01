@@ -1,0 +1,165 @@
+{
+  "checked": "2026-11-01",
+  "scope": "The 11 bundled Artvee images in Shape & Colour; provider terms and Australian term assessment, not unrestricted worldwide clearance.",
+  "providerTerms": {
+    "url": "https://artvee.com/terms-of-service/",
+    "httpStatus": 200,
+    "sha256": "af607b855eb9cc42060d0f80d26c80a65f7e54c23243ee7942867e81d869eb9e",
+    "summary": "Artvee permits downloading, sharing and reusing these public-domain images without added usage restrictions, including commercial projects."
+  },
+  "australianTermSources": [
+    "https://www.legislation.gov.au/C1968A00063/2026-04-02/2026-04-02/text/original/epub/OEBPS/document_1/document_1.html",
+    "https://www.infrastructure.gov.au/sites/default/files/fact_sheet_copyright_terms_0.pdf"
+  ],
+  "prounPublicationSources": [
+    "https://www.nationalgalleries.org/art-and-artists/16234/1o-kestnermappe-proun-proun-1st-kestner-portfolio",
+    "https://www.moma.org/docs/press_archives/3405/releases/MOMA_1964_Reopening_0031_1964-05-27.pdf"
+  ],
+  "unitedStatesTermSource": "https://www.copyright.gov/title17/92chap3.html",
+  "worldwideStatus": "Not certified. Territory-specific terms and publication history can differ; provider permissions do not establish ownership of every possible underlying right.",
+  "images": [
+    {
+      "id": "artvee-1111609",
+      "title": "Green",
+      "artist": "Wassily Kandinsky",
+      "creationYear": "1924",
+      "artistDeathYearReportedByProvider": 1944,
+      "source": "https://artvee.com/dl/green-3/",
+      "imageUrlMatchesBundledProvenance": true,
+      "providerPermission": "Public domain; personal and commercial reuse permitted. Artvee qualifies status by country of origin and life-plus-70-or-shorter territories.",
+      "australiaAssessment": "Public-domain term assessment supported by the recorded death date; Proun portfolio publication corroborated as 1923.",
+      "unitedStatesAssessment": "Not individually cleared: creation date alone does not prove first publication date.",
+      "pageSha256": "9cfa7ed52d874351e65faa47086ae217da06d0800b311b0dbf5d0ed27c6d4fb0"
+    },
+    {
+      "id": "artvee-1012079",
+      "title": "Counter-Composition IV",
+      "artist": "Theo van Doesburg",
+      "creationYear": "1924",
+      "artistDeathYearReportedByProvider": 1931,
+      "source": "https://artvee.com/dl/contra-composition-iv/",
+      "imageUrlMatchesBundledProvenance": true,
+      "providerPermission": "Public domain; personal and commercial reuse permitted. Artvee qualifies status by country of origin and life-plus-70-or-shorter territories.",
+      "australiaAssessment": "Public-domain term assessment supported by the recorded death date; Proun portfolio publication corroborated as 1923.",
+      "unitedStatesAssessment": "Not individually cleared: creation date alone does not prove first publication date.",
+      "pageSha256": "fdcd70efbfb4c8d8c48227167c5e856b991574301d194c378aa99aa86469bb75"
+    },
+    {
+      "id": "artvee-1118854",
+      "title": "Black Accompaniment",
+      "artist": "Wassily Kandinsky",
+      "creationYear": "1923",
+      "artistDeathYearReportedByProvider": 1944,
+      "source": "https://artvee.com/dl/schwarze-begleitung/",
+      "imageUrlMatchesBundledProvenance": true,
+      "providerPermission": "Public domain; personal and commercial reuse permitted. Artvee qualifies status by country of origin and life-plus-70-or-shorter territories.",
+      "australiaAssessment": "Public-domain term assessment supported by the recorded death date; Proun portfolio publication corroborated as 1923.",
+      "unitedStatesAssessment": "Not individually cleared: creation date alone does not prove first publication date.",
+      "pageSha256": "b7d60d9d333bae9c7349572a91b78fc67409a79c25ad84901d3f8dc9c08e5a8b"
+    },
+    {
+      "id": "artvee-848339",
+      "title": "Composition XXI",
+      "artist": "Theo van Doesburg",
+      "creationYear": "1923",
+      "artistDeathYearReportedByProvider": 1931,
+      "source": "https://artvee.com/dl/composition-xxi/",
+      "imageUrlMatchesBundledProvenance": true,
+      "providerPermission": "Public domain; personal and commercial reuse permitted. Artvee qualifies status by country of origin and life-plus-70-or-shorter territories.",
+      "australiaAssessment": "Public-domain term assessment supported by the recorded death date; Proun portfolio publication corroborated as 1923.",
+      "unitedStatesAssessment": "Not individually cleared: creation date alone does not prove first publication date.",
+      "pageSha256": "e65703285409b1e8ce4502934727e0ff6568af93ddc389ee4691e7228a288a71"
+    },
+    {
+      "id": "artvee-367182",
+      "title": "Suprematism",
+      "artist": "Kazimir Malevich",
+      "creationYear": "1917",
+      "artistDeathYearReportedByProvider": 1935,
+      "source": "https://artvee.com/dl/suprematism-3/",
+      "imageUrlMatchesBundledProvenance": true,
+      "providerPermission": "Public domain; personal and commercial reuse permitted. Artvee qualifies status by country of origin and life-plus-70-or-shorter territories.",
+      "australiaAssessment": "Public-domain term assessment supported by the recorded death date; Proun portfolio publication corroborated as 1923.",
+      "unitedStatesAssessment": "Not individually cleared: creation date alone does not prove first publication date.",
+      "pageSha256": "6cec90b1be08b9348d13583b3ea28e1e5fe4f0580cafe38538a06c5cfaa5be21"
+    },
+    {
+      "id": "artvee-627241",
+      "title": "Composition with Blue, Red, Yellow and Black",
+      "artist": "Piet Mondrian",
+      "creationYear": "1922",
+      "artistDeathYearReportedByProvider": 1944,
+      "source": "https://artvee.com/dl/composition-with-blue-red-yellow-and-black/",
+      "imageUrlMatchesBundledProvenance": true,
+      "providerPermission": "Public domain; personal and commercial reuse permitted. Artvee qualifies status by country of origin and life-plus-70-or-shorter territories.",
+      "australiaAssessment": "Public-domain term assessment supported by the recorded death date; Proun portfolio publication corroborated as 1923.",
+      "unitedStatesAssessment": "Not individually cleared: creation date alone does not prove first publication date.",
+      "pageSha256": "4f4526af9106125a24e7adfd93287fcf1b08706bb3113c00fc94933ae3a77e45"
+    },
+    {
+      "id": "artvee-324188",
+      "title": "Variation on Composition XIII",
+      "artist": "Theo van Doesburg",
+      "creationYear": "1918",
+      "artistDeathYearReportedByProvider": 1931,
+      "source": "https://artvee.com/dl/variation-on-composition-xiii/",
+      "imageUrlMatchesBundledProvenance": true,
+      "providerPermission": "Public domain; personal and commercial reuse permitted. Artvee qualifies status by country of origin and life-plus-70-or-shorter territories.",
+      "australiaAssessment": "Public-domain term assessment supported by the recorded death date; Proun portfolio publication corroborated as 1923.",
+      "unitedStatesAssessment": "Not individually cleared: creation date alone does not prove first publication date.",
+      "pageSha256": "65bcc5ed78f4d7c2a56a18dac073e24827c6323447b1b73a57f974e1b4048173"
+    },
+    {
+      "id": "artvee-1118856",
+      "title": "Curved Points",
+      "artist": "Wassily Kandinsky",
+      "creationYear": "1927",
+      "artistDeathYearReportedByProvider": 1944,
+      "source": "https://artvee.com/dl/gebogene-spitzen/",
+      "imageUrlMatchesBundledProvenance": true,
+      "providerPermission": "Public domain; personal and commercial reuse permitted. Artvee qualifies status by country of origin and life-plus-70-or-shorter territories.",
+      "australiaAssessment": "Public-domain term assessment supported by the recorded death date; Proun portfolio publication corroborated as 1923.",
+      "unitedStatesAssessment": "Not individually cleared: creation date alone does not prove first publication date.",
+      "pageSha256": "0803036c083af2928064e2fbbd0acf4a48eb506712dfd894506a6b1c1afe9fc0"
+    },
+    {
+      "id": "artvee-1012073",
+      "title": "Eiffel Tower",
+      "artist": "Robert Delaunay",
+      "creationYear": "1924",
+      "artistDeathYearReportedByProvider": 1941,
+      "source": "https://artvee.com/dl/eiffel-tower-2/",
+      "imageUrlMatchesBundledProvenance": true,
+      "providerPermission": "Public domain; personal and commercial reuse permitted. Artvee qualifies status by country of origin and life-plus-70-or-shorter territories.",
+      "australiaAssessment": "Public-domain term assessment supported by the recorded death date; Proun portfolio publication corroborated as 1923.",
+      "unitedStatesAssessment": "Not individually cleared: creation date alone does not prove first publication date.",
+      "pageSha256": "647bde99c2bb9a40a9875aef3b4d60827c6df0f0704cdb6fffb1df7d3888fd54"
+    },
+    {
+      "id": "artvee-229920",
+      "title": "Proun IV",
+      "artist": "El Lissitzky",
+      "creationYear": "1923",
+      "artistDeathYearReportedByProvider": 1941,
+      "source": "https://artvee.com/dl/proun-iv-blatt-4-der-i-kestnermappe-proun/",
+      "imageUrlMatchesBundledProvenance": true,
+      "providerPermission": "Public domain; personal and commercial reuse permitted. Artvee qualifies status by country of origin and life-plus-70-or-shorter territories.",
+      "australiaAssessment": "Public-domain term assessment supported by the recorded death date; Proun portfolio publication corroborated as 1923.",
+      "unitedStatesAssessment": "Not individually cleared: creation date alone does not prove first publication date.",
+      "pageSha256": "e42bd404cefe5e7f66cf1d55282838be5f0a95bacd886263d1bb2af5bb851a07"
+    },
+    {
+      "id": "artvee-1099173",
+      "title": "Peaceful",
+      "artist": "Wassily Kandinsky",
+      "creationYear": "1930",
+      "artistDeathYearReportedByProvider": 1944,
+      "source": "https://artvee.com/dl/friedlich/",
+      "imageUrlMatchesBundledProvenance": true,
+      "providerPermission": "Public domain; personal and commercial reuse permitted. Artvee qualifies status by country of origin and life-plus-70-or-shorter territories.",
+      "australiaAssessment": "Public-domain term assessment supported by the recorded death date; Proun portfolio publication corroborated as 1923.",
+      "unitedStatesAssessment": "Not individually cleared: creation date alone does not prove first publication date.",
+      "pageSha256": "34de0dee29fdf58a7e837b664f0a2f3dd3fe6950ffd6b6de8961b51ebcaedd54"
+    }
+  ]
+}

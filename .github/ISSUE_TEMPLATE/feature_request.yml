@@ -1,0 +1,17 @@
+name: Feature request
+description: Suggest an improvement to the gallery.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would you like to do?
+      description: Describe the problem or task this would help with.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested behaviour
+      description: Include how it should work with a TV remote, if relevant.
+    validations:
+      required: true

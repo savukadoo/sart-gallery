@@ -1,0 +1,1923 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 30,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "81854942": {
+        "pageid": 81854942,
+        "ns": 6,
+        "title": "File:François Huot after Augustin de Saint-Aubin, Nicolas Delaunay, 1780, NGA 57092.jpg",
+        "index": 26,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10539627,
+            "width": 2811,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Fran%C3%A7ois_Huot_after_Augustin_de_Saint-Aubin%2C_Nicolas_Delaunay%2C_1780%2C_NGA_57092.jpg/330px-Fran%C3%A7ois_Huot_after_Augustin_de_Saint-Aubin%2C_Nicolas_Delaunay%2C_1780%2C_NGA_57092.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 295,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Fran%C3%A7ois_Huot_after_Augustin_de_Saint-Aubin%2C_Nicolas_Delaunay%2C_1780%2C_NGA_57092.jpg/960px-Fran%C3%A7ois_Huot_after_Augustin_de_Saint-Aubin%2C_Nicolas_Delaunay%2C_1780%2C_NGA_57092.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Fran%C3%A7ois_Huot_after_Augustin_de_Saint-Aubin%2C_Nicolas_Delaunay%2C_1780%2C_NGA_57092.jpg/330px-Fran%C3%A7ois_Huot_after_Augustin_de_Saint-Aubin%2C_Nicolas_Delaunay%2C_1780%2C_NGA_57092.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 295,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Fran%C3%A7ois_Huot_after_Augustin_de_Saint-Aubin%2C_Nicolas_Delaunay%2C_1780%2C_NGA_57092.jpg/960px-Fran%C3%A7ois_Huot_after_Augustin_de_Saint-Aubin%2C_Nicolas_Delaunay%2C_1780%2C_NGA_57092.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fran%C3%A7ois_Huot_after_Augustin_de_Saint-Aubin%2C_Nicolas_Delaunay%2C_1780%2C_NGA_57092.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Huot_after_Augustin_de_Saint-Aubin,_Nicolas_Delaunay,_1780,_NGA_57092.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81854942",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Nicolas Delaunay </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nFrançois Huot after Augustin de Saint-Aubin</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1780<div style=\"display: none;\">date QS:P571,+1780-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81910355": {
+        "pageid": 81910355,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Jean-Honoré Fragonard, L'Education fait tout, 1791, NGA 2957.jpg",
+        "index": 23,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12927450,
+            "width": 3861,
+            "height": 3433,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27Education_fait_tout%2C_1791%2C_NGA_2957.jpg/500px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27Education_fait_tout%2C_1791%2C_NGA_2957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 472,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27Education_fait_tout%2C_1791%2C_NGA_2957.jpg/960px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27Education_fait_tout%2C_1791%2C_NGA_2957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27Education_fait_tout%2C_1791%2C_NGA_2957.jpg/500px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27Education_fait_tout%2C_1791%2C_NGA_2957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 472,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27Education_fait_tout%2C_1791%2C_NGA_2957.jpg/960px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27Education_fait_tout%2C_1791%2C_NGA_2957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27Education_fait_tout%2C_1791%2C_NGA_2957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard,_L%27Education_fait_tout,_1791,_NGA_2957.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81910355",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>L'Education fait tout </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Jean-Honoré Fragonard</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1791<div style=\"display: none;\">date QS:P571,+1791-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81921893": {
+        "pageid": 81921893,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Jean-Honoré Fragonard, L'heureuse fécondité, 1777, NGA 2959.jpg",
+        "index": 12,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14372563,
+            "width": 3894,
+            "height": 3466,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_2959.jpg/500px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_2959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 472,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_2959.jpg/960px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_2959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_2959.jpg/500px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_2959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 472,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_2959.jpg/960px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_2959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_2959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard,_L%27heureuse_f%C3%A9condit%C3%A9,_1777,_NGA_2959.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81921893",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>L'heureuse fécondité </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Jean-Honoré Fragonard</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1777<div style=\"display: none;\">date QS:P571,+1777-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81921899": {
+        "pageid": 81921899,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Jean-Honoré Fragonard, L'heureuse fécondité, 1777, NGA 32677.jpg",
+        "index": 16,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13965012,
+            "width": 3883,
+            "height": 3455,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_32677.jpg/500px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_32677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 472,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_32677.jpg/960px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_32677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_32677.jpg/500px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_32677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 472,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_32677.jpg/960px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_32677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_32677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard,_L%27heureuse_f%C3%A9condit%C3%A9,_1777,_NGA_32677.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81921899",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>L'heureuse fécondité </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Jean-Honoré Fragonard</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1777<div style=\"display: none;\">date QS:P571,+1777-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81921905": {
+        "pageid": 81921905,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Jean-Honoré Fragonard, L'heureuse fécondité, 1777, NGA 49051.jpg",
+        "index": 8,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14986449,
+            "width": 3927,
+            "height": 3477,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_49051.jpg/500px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_49051.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 474,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_49051.jpg/960px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_49051.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_49051.jpg/500px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_49051.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 474,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_49051.jpg/960px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_49051.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_L%27heureuse_f%C3%A9condit%C3%A9%2C_1777%2C_NGA_49051.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard,_L%27heureuse_f%C3%A9condit%C3%A9,_1777,_NGA_49051.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81921905",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>L'heureuse fécondité </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Jean-Honoré Fragonard</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1777<div style=\"display: none;\">date QS:P571,+1777-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81921941": {
+        "pageid": 81921941,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Jean-Honoré Fragonard, Le Petit prédicateur, 1791, NGA 2953.jpg",
+        "index": 28,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 14531453,
+            "width": 3994,
+            "height": 3577,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Le_Petit_pr%C3%A9dicateur%2C_1791%2C_NGA_2953.jpg/500px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Le_Petit_pr%C3%A9dicateur%2C_1791%2C_NGA_2953.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 469,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Le_Petit_pr%C3%A9dicateur%2C_1791%2C_NGA_2953.jpg/960px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Le_Petit_pr%C3%A9dicateur%2C_1791%2C_NGA_2953.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Le_Petit_pr%C3%A9dicateur%2C_1791%2C_NGA_2953.jpg/500px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Le_Petit_pr%C3%A9dicateur%2C_1791%2C_NGA_2953.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 469,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Le_Petit_pr%C3%A9dicateur%2C_1791%2C_NGA_2953.jpg/960px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Le_Petit_pr%C3%A9dicateur%2C_1791%2C_NGA_2953.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Le_Petit_pr%C3%A9dicateur%2C_1791%2C_NGA_2953.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard,_Le_Petit_pr%C3%A9dicateur,_1791,_NGA_2953.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81921941",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Le Petit prédicateur </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Jean-Honoré Fragonard</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1791<div style=\"display: none;\">date QS:P571,+1791-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81921968": {
+        "pageid": 81921968,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Jean-Honoré Fragonard, Les Baignets, probably 1782, NGA 2956.jpg",
+        "index": 24,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13734580,
+            "width": 3900,
+            "height": 3465,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Les_Baignets%2C_probably_1782%2C_NGA_2956.jpg/500px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Les_Baignets%2C_probably_1782%2C_NGA_2956.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 473,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Les_Baignets%2C_probably_1782%2C_NGA_2956.jpg/960px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Les_Baignets%2C_probably_1782%2C_NGA_2956.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Les_Baignets%2C_probably_1782%2C_NGA_2956.jpg/500px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Les_Baignets%2C_probably_1782%2C_NGA_2956.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 473,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Les_Baignets%2C_probably_1782%2C_NGA_2956.jpg/960px-Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Les_Baignets%2C_probably_1782%2C_NGA_2956.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard%2C_Les_Baignets%2C_probably_1782%2C_NGA_2956.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Jean-Honor%C3%A9_Fragonard,_Les_Baignets,_probably_1782,_NGA_2956.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81921968",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Les Baignets </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Jean-Honoré Fragonard</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "probably 1782",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922059": {
+        "pageid": 81922059,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Jean-Michel Moreau, Mort de Julie, NGA 36972.jpg",
+        "index": 30,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8394217,
+            "width": 2996,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_36972.jpg/330px-Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_36972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 314,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_36972.jpg/960px-Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_36972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_36972.jpg/330px-Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_36972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 314,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_36972.jpg/960px-Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_36972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_36972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Jean-Michel_Moreau,_Mort_de_Julie,_NGA_36972.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922059",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Mort de Julie </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Jean-Michel Moreau</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922099": {
+        "pageid": 81922099,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Jean-Michel Moreau, Sophie remettez-vous, 1779, NGA 3135.jpg",
+        "index": 22,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8390531,
+            "width": 3024,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Sophie_remettez-vous%2C_1779%2C_NGA_3135.jpg/330px-Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Sophie_remettez-vous%2C_1779%2C_NGA_3135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 317,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Sophie_remettez-vous%2C_1779%2C_NGA_3135.jpg/960px-Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Sophie_remettez-vous%2C_1779%2C_NGA_3135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Sophie_remettez-vous%2C_1779%2C_NGA_3135.jpg/330px-Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Sophie_remettez-vous%2C_1779%2C_NGA_3135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 317,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Sophie_remettez-vous%2C_1779%2C_NGA_3135.jpg/960px-Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Sophie_remettez-vous%2C_1779%2C_NGA_3135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Nicolas_Delaunay_after_Jean-Michel_Moreau%2C_Sophie_remettez-vous%2C_1779%2C_NGA_3135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Jean-Michel_Moreau,_Sophie_remettez-vous,_1779,_NGA_3135.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922099",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Sophie remettez-vous </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Jean-Michel Moreau</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1779<div style=\"display: none;\">date QS:P571,+1779-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922125": {
+        "pageid": 81922125,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Nicolas Lavreince, L'heureux moment, 1777, NGA 3038.jpg",
+        "index": 11,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9850731,
+            "width": 2836,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3038.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3038.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 298,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3038.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3038.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3038.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3038.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 298,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3038.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3038.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3038.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Nicolas_Lavreince,_L%27heureux_moment,_1777,_NGA_3038.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922125",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>L'heureux moment </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Nicolas Lavreince</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1777<div style=\"display: none;\">date QS:P571,+1777-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922130": {
+        "pageid": 81922130,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Nicolas Lavreince, L'heureux moment, 1777, NGA 3039.jpg",
+        "index": 20,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11107566,
+            "width": 2808,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3039.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 295,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3039.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3039.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 295,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3039.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_L%27heureux_moment%2C_1777%2C_NGA_3039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Nicolas_Lavreince,_L%27heureux_moment,_1777,_NGA_3039.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922130",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>L'heureux moment </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Nicolas Lavreince</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1777<div style=\"display: none;\">date QS:P571,+1777-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922143": {
+        "pageid": 81922143,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Nicolas Lavreince, La Consolation de l'absence, 1785, NGA 2735.jpg",
+        "index": 25,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11572368,
+            "width": 2937,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_La_Consolation_de_l%27absence%2C_1785%2C_NGA_2735.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_La_Consolation_de_l%27absence%2C_1785%2C_NGA_2735.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 308,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_La_Consolation_de_l%27absence%2C_1785%2C_NGA_2735.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_La_Consolation_de_l%27absence%2C_1785%2C_NGA_2735.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_La_Consolation_de_l%27absence%2C_1785%2C_NGA_2735.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_La_Consolation_de_l%27absence%2C_1785%2C_NGA_2735.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 308,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_La_Consolation_de_l%27absence%2C_1785%2C_NGA_2735.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_La_Consolation_de_l%27absence%2C_1785%2C_NGA_2735.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_La_Consolation_de_l%27absence%2C_1785%2C_NGA_2735.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Nicolas_Lavreince,_La_Consolation_de_l%27absence,_1785,_NGA_2735.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922143",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>La Consolation de l'absence </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Nicolas Lavreince</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1785<div style=\"display: none;\">date QS:P571,+1785-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922154": {
+        "pageid": 81922154,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Nicolas Lavreince, Le Billet doux, 1778, NGA 3027.jpg",
+        "index": 7,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13230434,
+            "width": 3202,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3027.jpg/500px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 336,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3027.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3027.jpg/500px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 336,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3027.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Nicolas_Lavreince,_Le_Billet_doux,_1778,_NGA_3027.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922154",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Le Billet doux </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Nicolas Lavreince</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1778<div style=\"display: none;\">date QS:P571,+1778-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922161": {
+        "pageid": 81922161,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Nicolas Lavreince, Le Billet doux, 1778, NGA 3028.jpg",
+        "index": 19,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10791541,
+            "width": 2883,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3028.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 303,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3028.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3028.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 303,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3028.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Nicolas_Lavreince,_Le_Billet_doux,_1778,_NGA_3028.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922161",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Le Billet doux </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Nicolas Lavreince</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1778<div style=\"display: none;\">date QS:P571,+1778-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922168": {
+        "pageid": 81922168,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Nicolas Lavreince, Le Billet doux, 1778, NGA 3029.jpg",
+        "index": 15,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11201749,
+            "width": 3024,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3029.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 317,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3029.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3029.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 317,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3029.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Le_Billet_doux%2C_1778%2C_NGA_3029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Nicolas_Lavreince,_Le_Billet_doux,_1778,_NGA_3029.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922168",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Le Billet doux </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Nicolas Lavreince</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1778<div style=\"display: none;\">date QS:P571,+1778-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922177": {
+        "pageid": 81922177,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Nicolas Lavreince, Qu'en dit l'Abbé?, 1788, NGA 3030.jpg",
+        "index": 13,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10624245,
+            "width": 2932,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3030.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 308,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3030.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3030.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 308,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3030.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Nicolas_Lavreince,_Qu%27en_dit_l%27Abb%C3%A9%3F,_1788,_NGA_3030.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922177",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Qu'en dit l'Abbé? </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Nicolas Lavreince</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1788<div style=\"display: none;\">date QS:P571,+1788-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922181": {
+        "pageid": 81922181,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Nicolas Lavreince, Qu'en dit l'Abbé?, 1788, NGA 3031.jpg",
+        "index": 10,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10588448,
+            "width": 2998,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3031.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 315,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3031.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3031.jpg/330px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 315,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3031.jpg/960px-Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Nicolas_Delaunay_after_Nicolas_Lavreince%2C_Qu%27en_dit_l%27Abb%C3%A9%3F%2C_1788%2C_NGA_3031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Nicolas_Lavreince,_Qu%27en_dit_l%27Abb%C3%A9%3F,_1788,_NGA_3031.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922181",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Qu'en dit l'Abbé? </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Nicolas Lavreince</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1788<div style=\"display: none;\">date QS:P571,+1788-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922189": {
+        "pageid": 81922189,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Pierre-Antoine Baudouin, L'Epouse indiscrete, 1771, NGA 2829.jpg",
+        "index": 29,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11109129,
+            "width": 2772,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2829.jpg/330px-Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2829.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 291,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2829.jpg/960px-Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2829.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2829.jpg/330px-Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2829.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 291,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2829.jpg/960px-Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2829.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2829.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Pierre-Antoine_Baudouin,_L%27Epouse_indiscrete,_1771,_NGA_2829.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922189",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>L'Epouse indiscrete </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Pierre-Antoine Baudouin</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1771<div style=\"display: none;\">date QS:P571,+1771-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922408": {
+        "pageid": 81922408,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Pierre-Antoine Baudouin, L'Epouse indiscrete, 1771, NGA 2830.jpg",
+        "index": 17,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9586316,
+            "width": 2981,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2830.jpg/330px-Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 313,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2830.jpg/960px-Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2830.jpg/330px-Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 313,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2830.jpg/960px-Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_L%27Epouse_indiscrete%2C_1771%2C_NGA_2830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Pierre-Antoine_Baudouin,_L%27Epouse_indiscrete,_1771,_NGA_2830.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922408",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>L'Epouse indiscrete </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Pierre-Antoine Baudouin</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1771<div style=\"display: none;\">date QS:P571,+1771-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922437": {
+        "pageid": 81922437,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Pierre-Antoine Baudouin, Les Soins tardifs, 1775, NGA 2855.jpg",
+        "index": 27,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11495389,
+            "width": 2854,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_Les_Soins_tardifs%2C_1775%2C_NGA_2855.jpg/330px-Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_Les_Soins_tardifs%2C_1775%2C_NGA_2855.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 300,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_Les_Soins_tardifs%2C_1775%2C_NGA_2855.jpg/960px-Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_Les_Soins_tardifs%2C_1775%2C_NGA_2855.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_Les_Soins_tardifs%2C_1775%2C_NGA_2855.jpg/330px-Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_Les_Soins_tardifs%2C_1775%2C_NGA_2855.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 300,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_Les_Soins_tardifs%2C_1775%2C_NGA_2855.jpg/960px-Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_Les_Soins_tardifs%2C_1775%2C_NGA_2855.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Nicolas_Delaunay_after_Pierre-Antoine_Baudouin%2C_Les_Soins_tardifs%2C_1775%2C_NGA_2855.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Pierre-Antoine_Baudouin,_Les_Soins_tardifs,_1775,_NGA_2855.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922437",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Les Soins tardifs </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Pierre-Antoine Baudouin</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1775<div style=\"display: none;\">date QS:P571,+1775-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922445": {
+        "pageid": 81922445,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Sigmund Freudenberger, La Complaisance maternelle, 1776, NGA 2969.jpg",
+        "index": 18,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11183572,
+            "width": 2934,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_Complaisance_maternelle%2C_1776%2C_NGA_2969.jpg/330px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_Complaisance_maternelle%2C_1776%2C_NGA_2969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 308,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_Complaisance_maternelle%2C_1776%2C_NGA_2969.jpg/960px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_Complaisance_maternelle%2C_1776%2C_NGA_2969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_Complaisance_maternelle%2C_1776%2C_NGA_2969.jpg/330px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_Complaisance_maternelle%2C_1776%2C_NGA_2969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 308,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_Complaisance_maternelle%2C_1776%2C_NGA_2969.jpg/960px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_Complaisance_maternelle%2C_1776%2C_NGA_2969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_Complaisance_maternelle%2C_1776%2C_NGA_2969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Sigmund_Freudenberger,_La_Complaisance_maternelle,_1776,_NGA_2969.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922445",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>La Complaisance maternelle </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Sigmund Freudenberger</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1776<div style=\"display: none;\">date QS:P571,+1776-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922461": {
+        "pageid": 81922461,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Sigmund Freudenberger, La Félicité villageoise, 1784, NGA 2970.jpg",
+        "index": 14,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 13730314,
+            "width": 3872,
+            "height": 3478,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_F%C3%A9licit%C3%A9_villageoise%2C_1784%2C_NGA_2970.jpg/500px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_F%C3%A9licit%C3%A9_villageoise%2C_1784%2C_NGA_2970.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 468,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_F%C3%A9licit%C3%A9_villageoise%2C_1784%2C_NGA_2970.jpg/960px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_F%C3%A9licit%C3%A9_villageoise%2C_1784%2C_NGA_2970.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_F%C3%A9licit%C3%A9_villageoise%2C_1784%2C_NGA_2970.jpg/500px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_F%C3%A9licit%C3%A9_villageoise%2C_1784%2C_NGA_2970.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 468,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_F%C3%A9licit%C3%A9_villageoise%2C_1784%2C_NGA_2970.jpg/960px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_F%C3%A9licit%C3%A9_villageoise%2C_1784%2C_NGA_2970.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_La_F%C3%A9licit%C3%A9_villageoise%2C_1784%2C_NGA_2970.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Sigmund_Freudenberger,_La_F%C3%A9licit%C3%A9_villageoise,_1784,_NGA_2970.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922461",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>La Félicité villageoise </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Sigmund Freudenberger</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1784<div style=\"display: none;\">date QS:P571,+1784-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81687214": {
+        "pageid": 81687214,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Sigmund Freudenberger, Le Petit Jour, 1779, NGA 2972.jpg",
+        "index": 21,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12351030,
+            "width": 2912,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2972.jpg/330px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 306,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2972.jpg/960px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2972.jpg/330px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 306,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2972.jpg/960px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Sigmund_Freudenberger,_Le_Petit_Jour,_1779,_NGA_2972.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81687214",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Le Petit Jour </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Sigmund Freudenberger</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1779<div style=\"display: none;\">date QS:P571,+1779-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81922466": {
+        "pageid": 81922466,
+        "ns": 6,
+        "title": "File:Nicolas Delaunay after Sigmund Freudenberger, Le Petit Jour, 1779, NGA 2973.jpg",
+        "index": 9,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11868233,
+            "width": 2901,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2973.jpg/330px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 304,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2973.jpg/960px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2973.jpg/330px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 304,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2973.jpg/960px-Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Nicolas_Delaunay_after_Sigmund_Freudenberger%2C_Le_Petit_Jour%2C_1779%2C_NGA_2973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nicolas_Delaunay_after_Sigmund_Freudenberger,_Le_Petit_Jour,_1779,_NGA_2973.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81922466",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Le Petit Jour </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nNicolas Delaunay after Sigmund Freudenberger</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1779<div style=\"display: none;\">date QS:P571,+1779-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81331377": {
+        "pageid": 81331377,
+        "ns": 6,
+        "title": "File:Robert Delaunay, Political Drama, 1914, NGA 52397.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10525096,
+            "width": 3111,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Robert_Delaunay%2C_Political_Drama%2C_1914%2C_NGA_52397.jpg/330px-Robert_Delaunay%2C_Political_Drama%2C_1914%2C_NGA_52397.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 327,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Robert_Delaunay%2C_Political_Drama%2C_1914%2C_NGA_52397.jpg/960px-Robert_Delaunay%2C_Political_Drama%2C_1914%2C_NGA_52397.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Robert_Delaunay%2C_Political_Drama%2C_1914%2C_NGA_52397.jpg/330px-Robert_Delaunay%2C_Political_Drama%2C_1914%2C_NGA_52397.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 327,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Robert_Delaunay%2C_Political_Drama%2C_1914%2C_NGA_52397.jpg/960px-Robert_Delaunay%2C_Political_Drama%2C_1914%2C_NGA_52397.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Robert_Delaunay%2C_Political_Drama%2C_1914%2C_NGA_52397.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Robert_Delaunay,_Political_Drama,_1914,_NGA_52397.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81331377",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Political Drama </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nRobert Delaunay</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1914<div style=\"display: none;\">date QS:P571,+1914-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81926115": {
+        "pageid": 81926115,
+        "ns": 6,
+        "title": "File:Robert Delaunay after Jean-Michel Moreau, Iphis, 1779, NGA 3142.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7699682,
+            "width": 3033,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_3142.jpg/330px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_3142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 318,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_3142.jpg/960px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_3142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_3142.jpg/330px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_3142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 318,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_3142.jpg/960px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_3142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_3142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Robert_Delaunay_after_Jean-Michel_Moreau,_Iphis,_1779,_NGA_3142.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81926115",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Iphis </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nRobert Delaunay after Jean-Michel Moreau</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1779<div style=\"display: none;\">date QS:P571,+1779-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81926129": {
+        "pageid": 81926129,
+        "ns": 6,
+        "title": "File:Robert Delaunay after Jean-Michel Moreau, Iphis, 1779, NGA 36959.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7826425,
+            "width": 3019,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_36959.jpg/330px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_36959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 317,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_36959.jpg/960px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_36959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_36959.jpg/330px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_36959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 317,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_36959.jpg/960px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_36959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Iphis%2C_1779%2C_NGA_36959.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Robert_Delaunay_after_Jean-Michel_Moreau,_Iphis,_1779,_NGA_36959.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81926129",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Iphis </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nRobert Delaunay after Jean-Michel Moreau</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1779<div style=\"display: none;\">date QS:P571,+1779-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81926135": {
+        "pageid": 81926135,
+        "ns": 6,
+        "title": "File:Robert Delaunay after Jean-Michel Moreau, Les folâtres jeux sont les premiers cuisiniers du monde, 1778, NGA 3134.jpg",
+        "index": 6,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8337082,
+            "width": 3044,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_3134.jpg/330px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_3134.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 320,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_3134.jpg/960px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_3134.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_3134.jpg/330px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_3134.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 320,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_3134.jpg/960px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_3134.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_3134.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Robert_Delaunay_after_Jean-Michel_Moreau,_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde,_1778,_NGA_3134.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81926135",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Les folâtres jeux sont les premiers cuisiniers du monde </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nRobert Delaunay after Jean-Michel Moreau</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1778<div style=\"display: none;\">date QS:P571,+1778-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81926139": {
+        "pageid": 81926139,
+        "ns": 6,
+        "title": "File:Robert Delaunay after Jean-Michel Moreau, Les folâtres jeux sont les premiers cuisiniers du monde, 1778, NGA 36952.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8768952,
+            "width": 3064,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_36952.jpg/330px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_36952.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 322,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_36952.jpg/960px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_36952.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_36952.jpg/330px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_36952.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 322,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_36952.jpg/960px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_36952.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde%2C_1778%2C_NGA_36952.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Robert_Delaunay_after_Jean-Michel_Moreau,_Les_fol%C3%A2tres_jeux_sont_les_premiers_cuisiniers_du_monde,_1778,_NGA_36952.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81926139",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Les folâtres jeux sont les premiers cuisiniers du monde </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nRobert Delaunay after Jean-Michel Moreau</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1778<div style=\"display: none;\">date QS:P571,+1778-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      "81926152": {
+        "pageid": 81926152,
+        "ns": 6,
+        "title": "File:Robert Delaunay after Jean-Michel Moreau, Mort de Julie, NGA 3127.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8508845,
+            "width": 2982,
+            "height": 4000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_3127.jpg/330px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_3127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 313,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_3127.jpg/960px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_3127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_3127.jpg/330px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_3127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 313,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_3127.jpg/960px-Robert_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_3127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Robert_Delaunay_after_Jean-Michel_Moreau%2C_Mort_de_Julie%2C_NGA_3127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Robert_Delaunay_after_Jean-Michel_Moreau,_Mort_de_Julie,_NGA_3127.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81926152",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>Mort de Julie </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nRobert Delaunay after Jean-Michel Moreau</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

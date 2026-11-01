@@ -1,0 +1,81 @@
+SART Gallery — licensing and third-party notices
+===============================================
+
+SART's own source code, tests, build and installation tools, original
+documentation and original application UI assets are licensed under the
+GNU Affero General Public License, version 3 only (AGPL-3.0-only).
+The complete, unmodified licence text is in LICENSE.
+
+This grant does not replace any third-party copyright or licence notice.
+Third-party code keeps the permissions and notices below. Bundled artwork,
+catalogue records, downloaded images and user photos are separate from this
+grant; see ARTWORK-RIGHTS.md. Private keys, certificates, credentials,
+device diagnostics and user data are not granted a redistribution licence.
+
+TV application components
+-------------------------
+
+QR Code Generator for JavaScript — Kazuhiko Arase, copyright 2009.
+MIT; see LICENSES/QR-Code-Generator-MIT.txt and the header in app/qr-vendor.js.
+Source: https://github.com/kazuhikoarase/qrcode-generator
+
+Mbed TLS 3.6.7 — the Mbed TLS contributors.
+Used under the Apache-2.0 option of its Apache-2.0 OR GPL-2.0-or-later
+dual licence. The full upstream dual-licence notice is preserved in
+LICENSES/Mbed-TLS.txt, vendor/mbedtls/LICENSE.txt and app/tls-LICENSE.txt.
+SART's C adapters/configuration in tools/tls/ are AGPL-3.0-only; the
+unmodified upstream Mbed TLS source retains its own licence.
+Source: https://github.com/Mbed-TLS/mbedtls/releases/tag/mbedtls-3.6.7
+Build records: app/assets/tls-license.json and native-art-tls-license.json.
+
+WASI SDK 34.0 supplies the C runtime and compiler builtins linked into the
+two TLS WebAssembly files. SDK VERSION records wasi-libc revision
+2e6fb9d8ee0c and LLVM revision 895aa2c896ad (LLVM 23.1.0).
+WASI libc includes Apache-2.0 WITH LLVM-exception, Apache-2.0 and MIT
+terms, with separate BSD notices and CC0/public-domain allocator code.
+Compiler-rt retains its Apache/LLVM and included legacy notices.
+See LICENSES/WASI-*.txt and LICENSES/LLVM-compiler-rt-LICENSE.txt.
+These notices describe runtime components; no compiler or SDK is shipped
+in the TV widget. Exact upstream notice locations/hashes are recorded in
+LICENSES/provenance.json.
+Source: https://github.com/WebAssembly/wasi-libc/tree/2e6fb9d8ee0c
+Source: https://github.com/llvm/llvm-project/tree/895aa2c896ad/compiler-rt
+
+Desktop/build dependencies (not bundled as executable TV code)
+-------------------------------------------------------------
+
+AeroTizen — MIT, copyright 2026 Hamza El Alaoui.
+Vendored commit e23b6c669031bcc8763d31d6d841b3ff7f30b03f.
+See vendor/aerotizen/LICENSE, vendor/aerotizen/PROVENANCE.json and
+LICENSES/AeroTizen-MIT.txt. Upstream notices are unchanged.
+Source: https://github.com/helalaou/AeroTizen
+
+Acorn 8.19.0 — MIT. See LICENSES/Acorn-MIT.txt.
+Pillow 13.0.0 — MIT-CMU plus its bundled codec notices, all preserved
+verbatim in LICENSES/Pillow-LICENSE.txt.
+cryptography 50.0.2 — Apache-2.0 OR BSD-3-Clause; both texts and its
+dual-licence notice are preserved in LICENSES/Cryptography-*.txt.
+cffi 2.1.1 — MIT-0. See LICENSES/CFFI-MIT-0.txt.
+pycparser 3.11 — BSD-3-Clause. See LICENSES/Pycparser-BSD-3-Clause.txt.
+The dependency versions are pinned in package-lock.json/requirements.lock.
+Their copyright holders are identified in the preserved licence texts.
+Python wheels, node_modules, SDKs and their other dependencies are not
+redistributed by the SART development archive; obtain them through the
+documented package managers, preserving their accompanying notices.
+
+Distribution and source
+-----------------------
+
+Keep LICENSE, NOTICE, LICENSES/ and ARTWORK-RIGHTS.md with distributions.
+The package builders include these in both the widget and source archive.
+Source/build instructions and pinned TLS source downloads are in README.md.
+When sharing an executable, provide access to the corresponding SART source
+and required third-party source/build materials under AGPLv3 section 6.
+Modified versions supporting remote network interaction must also meet
+AGPLv3 section 13. No public source repository or network source URL has
+been created or asserted by these notices.
+
+Samsung's operating system, TV-provided Web APIs and socket runtime are
+platform components, not SART-owned software. No licence to Samsung
+firmware is granted here. This project does not imply endorsement by
+Samsung, museums or the third-party software authors.

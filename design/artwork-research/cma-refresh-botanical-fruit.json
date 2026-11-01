@@ -1,0 +1,2602 @@
+{
+  "info": {
+    "total": 46,
+    "parameters": {
+      "skip": 0,
+      "limit": 60,
+      "type": "Print",
+      "q": "fruit",
+      "cc0": "1",
+      "has_image": "1",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,department,collection",
+      "classification_type": "Print",
+      "search": "fruit"
+    }
+  },
+  "data": [
+    {
+      "id": 124249,
+      "accession_number": "1945.243",
+      "share_license_status": "CC0",
+      "title": "Twelve Months of Fruit:  August",
+      "creation_date": "1732",
+      "culture": [
+        "England, 18th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1945.243",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.243/1945.243_web.jpg",
+          "width": "713",
+          "height": "893",
+          "filesize": "548227",
+          "filename": "1945.243_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.243/1945.243_print.jpg",
+          "width": "2713",
+          "height": "3400",
+          "filesize": "8081614",
+          "filename": "1945.243_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.243/1945.243_full.tif",
+          "width": "4712",
+          "height": "5906",
+          "filesize": "83524364",
+          "filename": "1945.243_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27095,
+          "description": "Henry Fletcher (British, active 1715–38)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1738",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 127078,
+      "accession_number": "1949.410",
+      "share_license_status": "CC0",
+      "title": "Twelve Months of Fruit:  February",
+      "creation_date": "1732",
+      "culture": [
+        "England, 18th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1949.410",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.410/1949.410_web.jpg",
+          "width": "706",
+          "height": "893",
+          "filesize": "517336",
+          "filename": "1949.410_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.410/1949.410_print.jpg",
+          "width": "2688",
+          "height": "3400",
+          "filesize": "7466925",
+          "filename": "1949.410_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.410/1949.410_full.tif",
+          "width": "4862",
+          "height": "6150",
+          "filesize": "89740480",
+          "filename": "1949.410_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27095,
+          "description": "Henry Fletcher (British, active 1715–38)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1738",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 151979,
+      "accession_number": "1984.45.1.5",
+      "share_license_status": "CC0",
+      "title": "Ten Bamboo Studio Painting and Calligraphy Handbook (Shizhuzhai shuhua pu):  Fruit",
+      "creation_date": "1633",
+      "culture": [
+        "Southeast China, Jiangsu Province, Nanjing"
+      ],
+      "technique": "Woodblock-printed book; ink and colors on paper; first edition",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1984.45.1.5",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1984.45.1.5/1984.45.1.5_web.jpg",
+          "width": "599",
+          "height": "900",
+          "filesize": "156757",
+          "filename": "1984.45.1.5_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1984.45.1.5/1984.45.1.5_print.jpg",
+          "width": "2264",
+          "height": "3400",
+          "filesize": "2362431",
+          "filename": "1984.45.1.5_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1984.45.1.5/1984.45.1.5_full.tif",
+          "width": "5161",
+          "height": "7750",
+          "filesize": "120020768",
+          "filename": "1984.45.1.5_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 35805,
+          "description": "Hu Zhengyan (Chinese, c. 1584–1674)",
+          "extent": null,
+          "qualifier": null,
+          "role": "printed by",
+          "biography": null,
+          "name_in_original_language": "胡正言",
+          "birth_year": "1584",
+          "death_year": "1674",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 151980,
+      "accession_number": "1984.45.1.6",
+      "share_license_status": "CC0",
+      "title": "Ten Bamboo Studio Painting and Calligraphy Handbook (Shizhuzhai shuhua pu):  Fruit",
+      "creation_date": "1633",
+      "culture": [
+        "Southeast China, Jiangsu Province, Nanjing"
+      ],
+      "technique": "Woodblock-printed book; ink and colors on paper; first edition",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1984.45.1.6",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1984.45.1.6/1984.45.1.6_web.jpg",
+          "width": "603",
+          "height": "900",
+          "filesize": "156021",
+          "filename": "1984.45.1.6_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1984.45.1.6/1984.45.1.6_print.jpg",
+          "width": "2279",
+          "height": "3400",
+          "filesize": "2339848",
+          "filename": "1984.45.1.6_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1984.45.1.6/1984.45.1.6_full.tif",
+          "width": "5274",
+          "height": "7869",
+          "filesize": "124530972",
+          "filename": "1984.45.1.6_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 35805,
+          "description": "Hu Zhengyan (Chinese, c. 1584–1674)",
+          "extent": null,
+          "qualifier": null,
+          "role": "printed by",
+          "biography": null,
+          "name_in_original_language": "胡正言",
+          "birth_year": "1584",
+          "death_year": "1674",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132852,
+      "accession_number": "1955.312",
+      "share_license_status": "CC0",
+      "title": "Pomona Britannica:  No. 64 - Scarlet Flesh Romana Melon",
+      "creation_date": "1812",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "aquatint",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.312",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.312/1955.312_web.jpg",
+          "width": "753",
+          "height": "900",
+          "filesize": "192784",
+          "filename": "1955.312_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.312/1955.312_print.jpg",
+          "width": "2843",
+          "height": "3400",
+          "filesize": "2062284",
+          "filename": "1955.312_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.312/1955.312_full.tif",
+          "width": "4419",
+          "height": "5284",
+          "filesize": "70082900",
+          "filename": "1955.312_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 26985,
+          "description": "George Brookshaw (British, 1751–1823)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1751",
+          "death_year": "1823",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132850,
+      "accession_number": "1955.310",
+      "share_license_status": "CC0",
+      "title": "Pomona Britannica:  No. 17 - Plums",
+      "creation_date": "1806",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "aquatint",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.310",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.310/1955.310_web.jpg",
+          "width": "687",
+          "height": "893",
+          "filesize": "417409",
+          "filename": "1955.310_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.310/1955.310_print.jpg",
+          "width": "2614",
+          "height": "3400",
+          "filesize": "6660977",
+          "filename": "1955.310_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.310/1955.310_full.tif",
+          "width": "4088",
+          "height": "5318",
+          "filesize": "65254204",
+          "filename": "1955.310_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 26985,
+          "description": "George Brookshaw (British, 1751–1823)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1751",
+          "death_year": "1823",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 124247,
+      "accession_number": "1945.241",
+      "share_license_status": "CC0",
+      "title": "Twelve Months of Fruit:  June",
+      "creation_date": "1732",
+      "culture": [
+        "England, 18th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1945.241",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.241/1945.241_web.jpg",
+          "width": "703",
+          "height": "893",
+          "filesize": "570008",
+          "filename": "1945.241_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.241/1945.241_print.jpg",
+          "width": "2678",
+          "height": "3400",
+          "filesize": "7845094",
+          "filename": "1945.241_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.241/1945.241_full.tif",
+          "width": "4158",
+          "height": "5279",
+          "filesize": "65887596",
+          "filename": "1945.241_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27095,
+          "description": "Henry Fletcher (British, active 1715–38)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1738",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132853,
+      "accession_number": "1955.313",
+      "share_license_status": "CC0",
+      "title": "Pomona Britannica:  No. 82 - Pears",
+      "creation_date": "1807",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "aquatint",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.313",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.313/1955.313_web.jpg",
+          "width": "693",
+          "height": "893",
+          "filesize": "413021",
+          "filename": "1955.313_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.313/1955.313_print.jpg",
+          "width": "2637",
+          "height": "3400",
+          "filesize": "6725223",
+          "filename": "1955.313_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.313/1955.313_full.tif",
+          "width": "4093",
+          "height": "5277",
+          "filesize": "64829940",
+          "filename": "1955.313_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 26985,
+          "description": "George Brookshaw (British, 1751–1823)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1751",
+          "death_year": "1823",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 107161,
+      "accession_number": "1925.115",
+      "share_license_status": "CC0",
+      "title": "Adam and Eve in Paradise",
+      "creation_date": "1509",
+      "culture": [
+        "Germany"
+      ],
+      "technique": "woodcut",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1925.115",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1925.115/1925.115_web.jpg",
+          "width": "624",
+          "height": "893",
+          "filesize": "583593",
+          "filename": "1925.115_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1925.115/1925.115_print.jpg",
+          "width": "2376",
+          "height": "3400",
+          "filesize": "8012323",
+          "filename": "1925.115_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1925.115/1925.115_full.tif",
+          "width": "3834",
+          "height": "5486",
+          "filesize": "63136772",
+          "filename": "1925.115_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 2647,
+          "description": "Lucas Cranach (German, 1472–1553)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1472",
+          "death_year": "1553",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 123964,
+      "accession_number": "1944.473",
+      "share_license_status": "CC0",
+      "title": "Adam and Eve",
+      "creation_date": "1504",
+      "culture": [
+        "Germany, early 16th Century"
+      ],
+      "technique": "engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1944.473",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.473/1944.473_web.jpg",
+          "width": "696",
+          "height": "900",
+          "filesize": "411228",
+          "filename": "1944.473_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.473/1944.473_print.jpg",
+          "width": "2629",
+          "height": "3400",
+          "filesize": "5572005",
+          "filename": "1944.473_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.473/1944.473_full.tif",
+          "width": "9509",
+          "height": "12296",
+          "filesize": "350802384",
+          "filename": "1944.473_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 11617,
+          "description": "Albrecht Dürer (German, 1471–1528)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1471",
+          "death_year": "1528",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 124246,
+      "accession_number": "1945.240",
+      "share_license_status": "CC0",
+      "title": "Twelve Months of Fruit:  May",
+      "creation_date": "1732",
+      "culture": [
+        "England, 18th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1945.240",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.240/1945.240_web.jpg",
+          "width": "679",
+          "height": "893",
+          "filesize": "491127",
+          "filename": "1945.240_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.240/1945.240_print.jpg",
+          "width": "2585",
+          "height": "3400",
+          "filesize": "6964448",
+          "filename": "1945.240_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.240/1945.240_full.tif",
+          "width": "4770",
+          "height": "6274",
+          "filesize": "89816380",
+          "filename": "1945.240_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27095,
+          "description": "Henry Fletcher (British, active 1715–38)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1738",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 128288,
+      "accession_number": "1951.278",
+      "share_license_status": "CC0",
+      "title": "The Fall of Adam and Eve",
+      "creation_date": "1525, printed later",
+      "culture": [
+        "Germany"
+      ],
+      "technique": "woodcut on eight sheets of paper",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1951.278",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.278/1951.278_web.jpg",
+          "width": "627",
+          "height": "900",
+          "filesize": "444848",
+          "filename": "1951.278_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.278/1951.278_print.jpg",
+          "width": "2370",
+          "height": "3400",
+          "filesize": "5737354",
+          "filename": "1951.278_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.278/1951.278_full.tif",
+          "width": "7894",
+          "height": "11327",
+          "filesize": "268278324",
+          "filename": "1951.278_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 22920,
+          "description": "Hans Burgkmair (German, 1473–1531)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1473",
+          "death_year": "1531",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 104314,
+      "accession_number": "1922.451",
+      "share_license_status": "CC0",
+      "title": "Nash's Fruit Shop",
+      "creation_date": "1887",
+      "culture": [
+        "America"
+      ],
+      "technique": "etching",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1922.451",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1922.451/1922.451_web.jpg",
+          "width": "642",
+          "height": "893",
+          "filesize": "431635",
+          "filename": "1922.451_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1922.451/1922.451_print.jpg",
+          "width": "2444",
+          "height": "3400",
+          "filesize": "5610884",
+          "filename": "1922.451_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1922.451/1922.451_full.tif",
+          "width": "3521",
+          "height": "4899",
+          "filesize": "51769196",
+          "filename": "1922.451_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 3330,
+          "description": "James McNeill Whistler (American, 1834–1903)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1903",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 380083,
+      "accession_number": "2020.165",
+      "share_license_status": "CC0",
+      "title": "Pomona Britannica: No. 74 - Figs",
+      "creation_date": "1807, published 1812",
+      "culture": [
+        "England"
+      ],
+      "technique": "aquatint and stipple engraving printed in color and hand colored on thick wove paper",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2020.165",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.165/2020.165_web.jpg",
+          "width": "687",
+          "height": "900",
+          "filesize": "292029",
+          "filename": "2020.165_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.165/2020.165_print.jpg",
+          "width": "2595",
+          "height": "3400",
+          "filesize": "4375950",
+          "filename": "2020.165_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.165/2020.165_full.tif",
+          "width": "6295",
+          "height": "8249",
+          "filesize": "155811336",
+          "filename": "2020.165_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 380747,
+          "description": "Richard Brookshaw (British, 1736–1810)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British engraver and draftsman, 1736-ca. 1804",
+          "name_in_original_language": null,
+          "birth_year": "1736",
+          "death_year": "1810",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 380085,
+      "accession_number": "2020.167",
+      "share_license_status": "CC0",
+      "title": "Pomona Britannica: No. 72 - Amicua (Melon)",
+      "creation_date": "published 1812",
+      "culture": [
+        "England"
+      ],
+      "technique": "aquatint and stipple engraving printed in color and hand colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2020.167",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.167/2020.167_web.jpg",
+          "width": "700",
+          "height": "900",
+          "filesize": "286490",
+          "filename": "2020.167_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.167/2020.167_print.jpg",
+          "width": "2644",
+          "height": "3400",
+          "filesize": "3412229",
+          "filename": "2020.167_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.167/2020.167_full.tif",
+          "width": "6606",
+          "height": "8496",
+          "filesize": "168404820",
+          "filename": "2020.167_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 26985,
+          "description": "George Brookshaw (British, 1751–1823)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1751",
+          "death_year": "1823",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 380086,
+      "accession_number": "2020.168",
+      "share_license_status": "CC0",
+      "title": "Pomona Britannica: No. 10 - Cherries",
+      "creation_date": "1805, published 1812",
+      "culture": [
+        "England"
+      ],
+      "technique": "aquatint and stipple engraving printed in color and hand colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2020.168",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.168/2020.168_web.jpg",
+          "width": "691",
+          "height": "900",
+          "filesize": "282459",
+          "filename": "2020.168_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.168/2020.168_print.jpg",
+          "width": "2611",
+          "height": "3400",
+          "filesize": "3584534",
+          "filename": "2020.168_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.168/2020.168_full.tif",
+          "width": "6328",
+          "height": "8239",
+          "filesize": "156439820",
+          "filename": "2020.168_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 26985,
+          "description": "George Brookshaw (British, 1751–1823)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1751",
+          "death_year": "1823",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 104633,
+      "accession_number": "1923.10",
+      "share_license_status": "CC0",
+      "title": "The Fruit Stall",
+      "creation_date": "1879–80",
+      "culture": [
+        "America"
+      ],
+      "technique": "etching",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1923.10",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1923.10/1923.10_web.jpg",
+          "width": "604",
+          "height": "893",
+          "filesize": "429705",
+          "filename": "1923.10_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1923.10/1923.10_print.jpg",
+          "width": "2300",
+          "height": "3400",
+          "filesize": "5722082",
+          "filename": "1923.10_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1923.10/1923.10_full.tif",
+          "width": "3383",
+          "height": "5000",
+          "filesize": "50765884",
+          "filename": "1923.10_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 3330,
+          "description": "James McNeill Whistler (American, 1834–1903)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1903",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 124244,
+      "accession_number": "1945.239",
+      "share_license_status": "CC0",
+      "title": "A Fruit Piece",
+      "creation_date": "1781",
+      "culture": [
+        "England, 18th century"
+      ],
+      "technique": "mezzotint",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1945.239",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.239/1945.239_web.jpg",
+          "width": "680",
+          "height": "900",
+          "filesize": "256094",
+          "filename": "1945.239_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.239/1945.239_print.jpg",
+          "width": "2570",
+          "height": "3400",
+          "filesize": "2802441",
+          "filename": "1945.239_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.239/1945.239_full.tif",
+          "width": "4883",
+          "height": "6459",
+          "filesize": "94652588",
+          "filename": "1945.239_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27058,
+          "description": "Richard Earlom (British, 1743–1822)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1743",
+          "death_year": "1822",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 21914,
+          "description": "Jan van Huysum (Dutch, 1682–1749)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1682",
+          "death_year": "1749",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 118173,
+      "accession_number": "1939.279",
+      "share_license_status": "CC0",
+      "title": "Apple with Leaf and Fruit Blossom",
+      "creation_date": "1768",
+      "culture": [
+        "France"
+      ],
+      "technique": "etching and engraving, hand colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1939.279",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.279/1939.279_web.jpg",
+          "width": "729",
+          "height": "893",
+          "filesize": "498390",
+          "filename": "1939.279_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.279/1939.279_print.jpg",
+          "width": "2776",
+          "height": "3400",
+          "filesize": "6470665",
+          "filename": "1939.279_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.279/1939.279_full.tif",
+          "width": "3570",
+          "height": "4372",
+          "filesize": "46856184",
+          "filename": "1939.279_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 29313,
+          "description": "Henri Louis Duhamel du Monceau (French, 1700–1782)",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1700",
+          "death_year": "1782",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 124248,
+      "accession_number": "1945.242",
+      "share_license_status": "CC0",
+      "title": "Twelve Months of Fruit:  July",
+      "creation_date": "1732",
+      "culture": [
+        "England, 18th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1945.242",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.242/1945.242_web.jpg",
+          "width": "703",
+          "height": "893",
+          "filesize": "549160",
+          "filename": "1945.242_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.242/1945.242_print.jpg",
+          "width": "2677",
+          "height": "3400",
+          "filesize": "7664324",
+          "filename": "1945.242_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.242/1945.242_full.tif",
+          "width": "4122",
+          "height": "5236",
+          "filesize": "64785584",
+          "filename": "1945.242_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27095,
+          "description": "Henry Fletcher (British, active 1715–38)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1738",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 380084,
+      "accession_number": "2020.166",
+      "share_license_status": "CC0",
+      "title": "Pomona Britannica: No. 33 - Peaches",
+      "creation_date": "1805, published 1812",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "aquatint and stipple engraving printed in color and hand colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2020.166",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.166/2020.166_web.jpg",
+          "width": "685",
+          "height": "900",
+          "filesize": "292929",
+          "filename": "2020.166_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.166/2020.166_print.jpg",
+          "width": "2588",
+          "height": "3400",
+          "filesize": "3882469",
+          "filename": "2020.166_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.166/2020.166_full.tif",
+          "width": "6151",
+          "height": "8081",
+          "filesize": "149148980",
+          "filename": "2020.166_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 26985,
+          "description": "George Brookshaw (British, 1751–1823)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1751",
+          "death_year": "1823",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 129981,
+      "accession_number": "1952.40.b",
+      "share_license_status": "CC0",
+      "title": "The Fall and Redemption of Man:  Adam and Eve Eating the Forbidden Fruit",
+      "creation_date": "c. 1513",
+      "culture": [
+        "Germany"
+      ],
+      "technique": "woodcut",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1952.40.b",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.40.b/1952.40.b_web.jpg",
+          "width": "640",
+          "height": "893",
+          "filesize": "549433",
+          "filename": "1952.40.b_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.40.b/1952.40.b_print.jpg",
+          "width": "1514",
+          "height": "2114",
+          "filesize": "3007336",
+          "filename": "1952.40.b_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.40.b/1952.40.b_full.tif",
+          "width": "1514",
+          "height": "2114",
+          "filesize": "9640756",
+          "filename": "1952.40.b_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 11620,
+          "description": "Albrecht Altdorfer (German, c. 1480–1538)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1480",
+          "death_year": "1538",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 125906,
+      "accession_number": "1948.146",
+      "share_license_status": "CC0",
+      "title": "The Four Markets:  The Fruit Market",
+      "creation_date": "1775",
+      "culture": [
+        "England, 18th century"
+      ],
+      "technique": "mezzotint",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1948.146",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.146/1948.146_web.jpg",
+          "width": "900",
+          "height": "671",
+          "filesize": "222810",
+          "filename": "1948.146_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.146/1948.146_print.jpg",
+          "width": "3400",
+          "height": "2533",
+          "filesize": "2501519",
+          "filename": "1948.146_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.146/1948.146_full.tif",
+          "width": "7019",
+          "height": "5230",
+          "filesize": "110161484",
+          "filename": "1948.146_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27058,
+          "description": "Richard Earlom (British, 1743–1822)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1743",
+          "death_year": "1822",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 21977,
+          "description": "Frans Snyders (Flemish, 1579–1657)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1579",
+          "death_year": "1657",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 124692,
+      "accession_number": "1946.177",
+      "share_license_status": "CC0",
+      "title": "Nurnbergische Hesperides:  No. 185 - Aranzo Striato dolce.  Palazzo del N. H. Fonte in Noventa",
+      "creation_date": "c. 1708",
+      "culture": [
+        "Hungary"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1946.177",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1946.177/1946.177_web.jpg",
+          "width": "566",
+          "height": "900",
+          "filesize": "263739",
+          "filename": "1946.177_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1946.177/1946.177_print.jpg",
+          "width": "2138",
+          "height": "3400",
+          "filesize": "3285661",
+          "filename": "1946.177_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1946.177/1946.177_full.tif",
+          "width": "4192",
+          "height": "6665",
+          "filesize": "83852344",
+          "filename": "1946.177_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27942,
+          "description": "Joseph de Montalegre (Hungarian)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 25986,
+          "description": "Johoann Christoph Volckamer (German)",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 124693,
+      "accession_number": "1946.178",
+      "share_license_status": "CC0",
+      "title": "Nurnbergische Hesperides:  No. 125 - Limon Ponzino da Neapoli.  Palazzo del N. H. Cornaro à Fiesso",
+      "creation_date": "c. 1708",
+      "culture": [
+        "Hungary"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1946.178",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1946.178/1946.178_web.jpg",
+          "width": "589",
+          "height": "893",
+          "filesize": "424760",
+          "filename": "1946.178_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1946.178/1946.178_print.jpg",
+          "width": "2242",
+          "height": "3400",
+          "filesize": "5199702",
+          "filename": "1946.178_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1946.178/1946.178_full.tif",
+          "width": "3079",
+          "height": "4670",
+          "filesize": "43168916",
+          "filename": "1946.178_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27942,
+          "description": "Joseph de Montalegre (Hungarian)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 25986,
+          "description": "Johoann Christoph Volckamer (German)",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 118969,
+      "accession_number": "1940.1161",
+      "share_license_status": "CC0",
+      "title": "Fruit Vendor",
+      "creation_date": "early 1800s",
+      "culture": [
+        "Italy, 19th century"
+      ],
+      "technique": "lithograph",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1940.1161",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.1161/1940.1161_web.jpg",
+          "width": "900",
+          "height": "679",
+          "filesize": "344659",
+          "filename": "1940.1161_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.1161/1940.1161_print.jpg",
+          "width": "3400",
+          "height": "2564",
+          "filesize": "3238702",
+          "filename": "1940.1161_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.1161/1940.1161_full.tif",
+          "width": "4429",
+          "height": "3340",
+          "filesize": "44403052",
+          "filename": "1940.1161_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 24302,
+          "description": "Bartolomeo Pinelli (Italian, 1781–1835)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1781",
+          "death_year": "1835",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 126713,
+      "accession_number": "1949.146",
+      "share_license_status": "CC0",
+      "title": "Fruit Shop",
+      "creation_date": "1886",
+      "culture": [
+        "America"
+      ],
+      "technique": "etching and drypoint",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1949.146",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.146/1949.146_web.jpg",
+          "width": "1195",
+          "height": "893",
+          "filesize": "823027",
+          "filename": "1949.146_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.146/1949.146_print.jpg",
+          "width": "3400",
+          "height": "2541",
+          "filesize": "6200813",
+          "filename": "1949.146_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.146/1949.146_full.tif",
+          "width": "4772",
+          "height": "3566",
+          "filesize": "51071936",
+          "filename": "1949.146_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 3330,
+          "description": "James McNeill Whistler (American, 1834–1903)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1903",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 124243,
+      "accession_number": "1945.238",
+      "share_license_status": "CC0",
+      "title": "A Fruit Piece",
+      "creation_date": "1776",
+      "culture": [
+        "England, 18th century"
+      ],
+      "technique": "mezzotint",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1945.238",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.238/1945.238_web.jpg",
+          "width": "900",
+          "height": "789",
+          "filesize": "203454",
+          "filename": "1945.238_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.238/1945.238_print.jpg",
+          "width": "3400",
+          "height": "2979",
+          "filesize": "2586576",
+          "filename": "1945.238_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1945.238/1945.238_full.tif",
+          "width": "4986",
+          "height": "4368",
+          "filesize": "65368836",
+          "filename": "1945.238_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27058,
+          "description": "Richard Earlom (British, 1743–1822)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1743",
+          "death_year": "1822",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 441114,
+          "description": "Joseph Farington (British (modern), 1747–1821)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": "British painter, 1747-1821",
+          "name_in_original_language": null,
+          "birth_year": "1747",
+          "death_year": "1821",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 441118,
+          "description": "Michelangelo di Campidoglio (Italian, 1610–1670)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 3
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 130634,
+      "accession_number": "1953.354",
+      "share_license_status": "CC0",
+      "title": "Adam and Eve",
+      "creation_date": "c. 1514",
+      "culture": [
+        "Germany"
+      ],
+      "technique": "woodcut",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1953.354",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.354/1953.354_web.jpg",
+          "width": "620",
+          "height": "893",
+          "filesize": "566182",
+          "filename": "1953.354_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.354/1953.354_print.jpg",
+          "width": "2360",
+          "height": "3400",
+          "filesize": "7241315",
+          "filename": "1953.354_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1953.354/1953.354_full.tif",
+          "width": "3564",
+          "height": "5134",
+          "filesize": "54927804",
+          "filename": "1953.354_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 2644,
+          "description": "Hans Baldung (German, 1484/85–1545)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1484",
+          "death_year": "1545",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 113149,
+      "accession_number": "1932.161.2",
+      "share_license_status": "CC0",
+      "title": "Paris:  The Little Fruit Shop",
+      "creation_date": "1910",
+      "culture": [
+        "America"
+      ],
+      "technique": "etching",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1932.161.2",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1932.161.2/1932.161.2_web.jpg",
+          "width": "617",
+          "height": "893",
+          "filesize": "442116",
+          "filename": "1932.161.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1932.161.2/1932.161.2_print.jpg",
+          "width": "2351",
+          "height": "3400",
+          "filesize": "5531268",
+          "filename": "1932.161.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1932.161.2/1932.161.2_full.tif",
+          "width": "3642",
+          "height": "5268",
+          "filesize": "57575160",
+          "filename": "1932.161.2_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 14563,
+          "description": "Ernest Haskell (American, 1876–1925)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1876",
+          "death_year": "1925",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 105041,
+      "accession_number": "1923.265",
+      "share_license_status": "CC0",
+      "title": "Boy with Fruit Basket",
+      "creation_date": "1500s or 1600s",
+      "culture": [
+        "Italy"
+      ],
+      "technique": "engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1923.265",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1923.265/1923.265_web.jpg",
+          "width": "613",
+          "height": "893",
+          "filesize": "500477",
+          "filename": "1923.265_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1923.265/1923.265_print.jpg",
+          "width": "2334",
+          "height": "3400",
+          "filesize": "5746750",
+          "filename": "1923.265_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1923.265/1923.265_full.tif",
+          "width": "2442",
+          "height": "3558",
+          "filesize": "26100280",
+          "filename": "1923.265_full.tif"
+        }
+      },
+      "creators": [],
+      "has_conservation_images": false
+    },
+    {
+      "id": 123548,
+      "accession_number": "1944.14",
+      "share_license_status": "CC0",
+      "title": "Flowers and Vegetables",
+      "creation_date": "1800s",
+      "culture": [
+        "America"
+      ],
+      "technique": "Color lithograph",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1944.14",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.14/1944.14_web.jpg",
+          "width": "692",
+          "height": "900",
+          "filesize": "195361",
+          "filename": "1944.14_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.14/1944.14_print.jpg",
+          "width": "2613",
+          "height": "3400",
+          "filesize": "2158270",
+          "filename": "1944.14_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.14/1944.14_full.tif",
+          "width": "4464",
+          "height": "5809",
+          "filesize": "77826224",
+          "filename": "1944.14_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 37126,
+          "description": "Anton Carl Rahn (American, born Germany, 1842–1907)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Anton Carl Rahn, born Worms, Rheinland-Pfalz (Rhineland-Palatinate), Germany May 23, 1842. Father: Johann Heinrich Rahn; Mother: Elixabetha Friedrica Rüdel; Wife: Emma B. Rahn (1844-1915); 3 children: Arthur (1868-1932), Emma, and Anton. Anton Carl Rahn and his wife and son, Arthur, are buried in the Mt. Hope Cemetery, Rochester, NY.",
+          "name_in_original_language": null,
+          "birth_year": "1842",
+          "death_year": "1907",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 125929,
+      "accession_number": "1948.156.8",
+      "share_license_status": "CC0",
+      "title": "The Costermonger",
+      "creation_date": "1899",
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "lithograph",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1948.156.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.156.8/1948.156.8_web.jpg",
+          "width": "1023",
+          "height": "893",
+          "filesize": "637553",
+          "filename": "1948.156.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.156.8/1948.156.8_print.jpg",
+          "width": "3400",
+          "height": "2967",
+          "filesize": "7154339",
+          "filename": "1948.156.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.156.8/1948.156.8_full.tif",
+          "width": "4236",
+          "height": "3697",
+          "filesize": "47015136",
+          "filename": "1948.156.8_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 1733,
+          "description": "Pierre Bonnard (French, 1867–1947)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Pierre Bonnard was a law student when he began his artistic training in 1887 at the Académie Julian in Paris, where he met Paul Sérusier (1864-1927) and the theorist and painter Maurice Denis (1870-1943). Both would be influential in his artistic career and become Bonnard's lifelong friends. In 1889, the year he obtained his law degree, he saw the exhibition at Café Volpini (see Gauguin, Woman in the Waves, no. 100) and was particularly impressed with Gauguin's work. Sérusier, after having returned from studying with Gauguin in Pont-Aven, decided to form his own artistic group called the Nabis (Hebrew: prophets). The founding members of the Nabis included Denis, who wrote the manifesto for the group, \"Définition du néo-traditionnisme\" (published in May 1890 in Art et critique), Bonnard, Paul Ranson (1864-1909), and Henri-Gabriel Ibels (1867-1936). Their first exhibition occurred in 1891, and they were later joined by Ker-Xavier Roussel (1867-1944) and Vuillard (q.v.). Based loosely on the synthetist goals established by Gauguin and Émile Bernard, the movement was created from Sérusier's vision of an artistic brotherhood dedicated to symbolism whereby a universal language could be expressed through symbols. The Nabis were opposed to the naturalism taught at academies by artists such as Bouguereau (q.v.) and wanted to move away from didactic and moral paintings toward a more decorative style characterized by simplified drawing, flat patches of color, and heavy set contours. Bonnard's works of the 1890s were influenced by the innovations of Gauguin as well as Japanese prints, which were easily accessible in nineteenth-century Paris. His paintings took on a decorative quality, mirroring his artistic expressions in other media such as stained glass, furniture, pottery, and painted screens. Bonnard's and Vuillard's domestic interior paintings of the 1890s were often described using the term intimisme. In 1891 Bonnard also experimented with other media, including poster designs and lithographs, which inspired his friend Henri de Toulouse-Lautrec (1864-1901), whom he had met through La revue blanche, a magazine that published the Nabis' work. Around 1900 the members of the Nabis began to drift apart. Between 1905 and 1910 Bonnard and Vuillard traveled to England, Belgium, Holland, Spain, and Italy, visiting many museums. Bonnard's art began to gravitate toward impressionism, but his colors were more expressive and his compositions more overtly structured; elements of the painted interiors such as doors, windows or pieces of furniture often provided a strong compositional framework. He also worked extensively with photographs. His late works were acclaimed by fellow Parisians like Henri Matisse (1869-1954) and Paul Signac (1863-1935). After 1920 Bonnard exhibited extensively and became an internationally renowned artist, receiving much recognition in the United States, where he traveled in 1926.",
+          "name_in_original_language": null,
+          "birth_year": "1867",
+          "death_year": "1947",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 69023,
+          "description": "Published by Ambroise Vollard; Printed by Auguste Clot",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 118172,
+      "accession_number": "1939.278",
+      "share_license_status": "CC0",
+      "title": "Marigolds, single Anemone, Jasmine. . . .",
+      "creation_date": "c. 1680–95",
+      "culture": [
+        "France"
+      ],
+      "technique": "etching and engraving, hand colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1939.278",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.278/1939.278_web.jpg",
+          "width": "676",
+          "height": "893",
+          "filesize": "547514",
+          "filename": "1939.278_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.278/1939.278_print.jpg",
+          "width": "2574",
+          "height": "3400",
+          "filesize": "7990900",
+          "filename": "1939.278_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.278/1939.278_full.tif",
+          "width": "4446",
+          "height": "5873",
+          "filesize": "78371836",
+          "filename": "1939.278_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 29542,
+          "description": "Jean-Baptiste I Monnoyer (French, c. 1636–1699)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1636",
+          "death_year": "1699",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 113322,
+      "accession_number": "1932.330.1",
+      "share_license_status": "CC0",
+      "title": "The Fall and Redemption of Man:  Adam and Eve Eating the Forbidden Fruit",
+      "creation_date": "c. 1515",
+      "culture": [
+        "Germany"
+      ],
+      "technique": "woodcut",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1932.330.1",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1932.330.1/1932.330.1_web.jpg",
+          "width": "622",
+          "height": "893",
+          "filesize": "573044",
+          "filename": "1932.330.1_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1932.330.1/1932.330.1_print.jpg",
+          "width": "2367",
+          "height": "3400",
+          "filesize": "7031409",
+          "filename": "1932.330.1_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1932.330.1/1932.330.1_full.tif",
+          "width": "3082",
+          "height": "4427",
+          "filesize": "40967432",
+          "filename": "1932.330.1_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 11620,
+          "description": "Albrecht Altdorfer (German, c. 1480–1538)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1480",
+          "death_year": "1538",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 153799,
+      "accession_number": "1987.90",
+      "share_license_status": "CC0",
+      "title": "Vertumnus and Pomona",
+      "creation_date": "c. 1776",
+      "culture": [
+        "France"
+      ],
+      "technique": "Color wash-manner etching and engraving with applied gold leaf",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1987.90",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.90/1987.90_web.jpg",
+          "width": "714",
+          "height": "893",
+          "filesize": "560694",
+          "filename": "1987.90_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.90/1987.90_print.jpg",
+          "width": "2720",
+          "height": "3400",
+          "filesize": "8029478",
+          "filename": "1987.90_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.90/1987.90_full.tif",
+          "width": "4410",
+          "height": "5512",
+          "filesize": "72959860",
+          "filename": "1987.90_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 28452,
+          "description": "Jean François Janinet (French, 1752–1814)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1752",
+          "death_year": "1814",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 38850,
+          "description": "Antoine Coypel (French, 1661–1722)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1661",
+          "death_year": "1722",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 135067,
+      "accession_number": "1958.111",
+      "share_license_status": "CC0",
+      "title": "Adam and Eve",
+      "creation_date": "1504",
+      "culture": [
+        "Germany, early 16th Century"
+      ],
+      "technique": "engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1958.111",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.111/1958.111_web.jpg",
+          "width": "694",
+          "height": "893",
+          "filesize": "543448",
+          "filename": "1958.111_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.111/1958.111_print.jpg",
+          "width": "2644",
+          "height": "3400",
+          "filesize": "7480293",
+          "filename": "1958.111_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.111/1958.111_full.tif",
+          "width": "3802",
+          "height": "4890",
+          "filesize": "55810040",
+          "filename": "1958.111_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 11617,
+          "description": "Albrecht Dürer (German, 1471–1528)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1471",
+          "death_year": "1528",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 128484,
+      "accession_number": "1951.419",
+      "share_license_status": "CC0",
+      "title": "Collection of Flowers and Fruits Painted after Nature:  Bouquet of Foxglove, Clematis, Pansy, Peony, Poppy, and Yellow Day Lily",
+      "creation_date": "1805",
+      "culture": [
+        "France, late 18th-early 19th Century"
+      ],
+      "technique": "color stipple with watercolor added by hand",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1951.419",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.419/1951.419_web.jpg",
+          "width": "614",
+          "height": "893",
+          "filesize": "394271",
+          "filename": "1951.419_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.419/1951.419_print.jpg",
+          "width": "2337",
+          "height": "3400",
+          "filesize": "5672629",
+          "filename": "1951.419_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.419/1951.419_full.tif",
+          "width": "3912",
+          "height": "5691",
+          "filesize": "66823820",
+          "filename": "1951.419_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 41031,
+          "description": "Louis Charles Ruotte (French, 1754–1806)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1754",
+          "death_year": "1806",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 68354,
+          "description": "Jean Louis Prévost",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 68354,
+          "description": "Jean Louis Prévost",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 131670,
+      "accession_number": "1954.260",
+      "share_license_status": "CC0",
+      "title": "The Flight into Egypt",
+      "creation_date": "1470–74",
+      "culture": [
+        "Germany"
+      ],
+      "technique": "engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1954.260",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1954.260/1954.260_web.jpg",
+          "width": "590",
+          "height": "893",
+          "filesize": "509640",
+          "filename": "1954.260_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1954.260/1954.260_print.jpg",
+          "width": "2248",
+          "height": "3400",
+          "filesize": "7074125",
+          "filename": "1954.260_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1954.260/1954.260_full.tif",
+          "width": "3306",
+          "height": "5000",
+          "filesize": "49626168",
+          "filename": "1954.260_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 12292,
+          "description": "Martin Schongauer (German, c. 1450–1491)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Martin Schongauer (ca. 1450-53, Colmar - 2 February 1491, Breisach) was one of the most skilled and influential graphic artists of Europe in the last quarter of the 15h century. Trained both as an engraver and as a painter, Schongauer started his apprenticeship under his father Caspar Schongauer, a goldsmith from Augsburg. In 1465, he matriculated at the University of Leipzig. After one year, he left his studies, and came back to Colmar. There, he was trained under the painter Caspar Isenmann, between 1466 and 1469. Schongauer later traveled down to the Rhine, Cologne, Burgundy, the Netherlands, and he likely visited Spain. In 1489, he became a citizen of Breisach, where he died probably of the plague in 1491. Only a few of Schongauer's paintings survive. Among these is the <em>Madonna in the Rose Garden</em> for the Church of Saint Martin in Colmar (1473), which betrays Schongauer's admiration for the works by the Netherlandish painter Roger Van der Weyden. The bulk of Schongauer's engravings is more conspicuous: 116 prints, none of them dated, but all marked by his monogram M+S. Characterized by exquisite cross-hatching and impeccable craftsmanship, Schongauer's engravings were widely imitated by the German printmakers Ishrael van Meckenem and Albrecht Durer, as well as by Italian artists, such as Cristoforo Robetta and Nicoletto da Modena.",
+          "name_in_original_language": null,
+          "birth_year": "1450",
+          "death_year": "1491",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 135793,
+      "accession_number": "1959.317.3",
+      "share_license_status": "CC0",
+      "title": "The Seasons:  Autumn",
+      "creation_date": "1643–44",
+      "culture": [
+        "Bohemia"
+      ],
+      "technique": "etching",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1959.317.3",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.317.3/1959.317.3_web.jpg",
+          "width": "611",
+          "height": "893",
+          "filesize": "439531",
+          "filename": "1959.317.3_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.317.3/1959.317.3_print.jpg",
+          "width": "2325",
+          "height": "3400",
+          "filesize": "5697400",
+          "filename": "1959.317.3_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.317.3/1959.317.3_full.tif",
+          "width": "3727",
+          "height": "5451",
+          "filesize": "60978852",
+          "filename": "1959.317.3_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 24509,
+          "description": "Wenceslaus Hollar (Bohemian, 1607–1677)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1607",
+          "death_year": "1677",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132873,
+      "accession_number": "1955.331",
+      "share_license_status": "CC0",
+      "title": "Choix des plus belles fleurs...plus beaux fruits:  Grenade",
+      "creation_date": "1827",
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "stipple and line engraving, with hand coloring",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.331",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.331/1955.331_web.jpg",
+          "width": "655",
+          "height": "893",
+          "filesize": "367261",
+          "filename": "1955.331_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.331/1955.331_print.jpg",
+          "width": "2494",
+          "height": "3400",
+          "filesize": "4816473",
+          "filename": "1955.331_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.331/1955.331_full.tif",
+          "width": "2974",
+          "height": "4055",
+          "filesize": "36209284",
+          "filename": "1955.331_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 13989,
+          "description": "Henri Joseph Redouté (French, 1766–1853)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1766",
+          "death_year": "1853",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 133051,
+      "accession_number": "1955.474",
+      "share_license_status": "CC0",
+      "title": "Choix des plus belles fleurs...plus beaux fruits:  Passiflore ailee",
+      "creation_date": "1827",
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "stipple and line engraving, with hand coloring",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.474",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.474/1955.474_web.jpg",
+          "width": "687",
+          "height": "893",
+          "filesize": "371837",
+          "filename": "1955.474_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.474/1955.474_print.jpg",
+          "width": "2617",
+          "height": "3400",
+          "filesize": "4789679",
+          "filename": "1955.474_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.474/1955.474_full.tif",
+          "width": "3168",
+          "height": "4116",
+          "filesize": "39149192",
+          "filename": "1955.474_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 13989,
+          "description": "Henri Joseph Redouté (French, 1766–1853)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1766",
+          "death_year": "1853",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132872,
+      "accession_number": "1955.330",
+      "share_license_status": "CC0",
+      "title": "Choix des plus belles fleurs...plus beaux fruits:  Figue Violette",
+      "creation_date": "1827",
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "stipple and line engraving, with hand coloring",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.330",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.330/1955.330_web.jpg",
+          "width": "694",
+          "height": "893",
+          "filesize": "378219",
+          "filename": "1955.330_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.330/1955.330_print.jpg",
+          "width": "2641",
+          "height": "3400",
+          "filesize": "4909019",
+          "filename": "1955.330_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.330/1955.330_full.tif",
+          "width": "3038",
+          "height": "3911",
+          "filesize": "35675192",
+          "filename": "1955.330_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 13989,
+          "description": "Henri Joseph Redouté (French, 1766–1853)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1766",
+          "death_year": "1853",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132862,
+      "accession_number": "1955.321",
+      "share_license_status": "CC0",
+      "title": "Collection des fleurs et des fruits:  Branches de rousselet, pêche, prune et raisin",
+      "creation_date": "1805",
+      "culture": [
+        "France, early 19th Century"
+      ],
+      "technique": "stipple engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.321",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.321/1955.321_web.jpg",
+          "width": "615",
+          "height": "893",
+          "filesize": "350018",
+          "filename": "1955.321_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.321/1955.321_print.jpg",
+          "width": "2340",
+          "height": "3400",
+          "filesize": "5440046",
+          "filename": "1955.321_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.321/1955.321_full.tif",
+          "width": "3900",
+          "height": "5667",
+          "filesize": "66337032",
+          "filename": "1955.321_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 68354,
+          "description": "Jean Louis Prévost",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 126021,
+      "accession_number": "1948.240",
+      "share_license_status": "CC0",
+      "title": "Flore Pittoresque ou Recueil de Fruits et de Fleurs",
+      "creation_date": "1825",
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "stipple engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1948.240",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.240/1948.240_web.jpg",
+          "width": "646",
+          "height": "893",
+          "filesize": "443524",
+          "filename": "1948.240_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.240/1948.240_print.jpg",
+          "width": "2460",
+          "height": "3400",
+          "filesize": "5983193",
+          "filename": "1948.240_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1948.240/1948.240_full.tif",
+          "width": "3578",
+          "height": "4945",
+          "filesize": "53110848",
+          "filename": "1948.240_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 28922,
+          "description": "Antoine Chazal (French, 1793–1854)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1793",
+          "death_year": "1854",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 134669,
+      "accession_number": "1957.190",
+      "share_license_status": "CC0",
+      "title": "Collection des fleurs et des fruits:  Branches de Cérises précoce",
+      "creation_date": "1805",
+      "culture": [
+        "France, early 19th Century"
+      ],
+      "technique": "stipple engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1957.190",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1957.190/1957.190_web.jpg",
+          "width": "595",
+          "height": "893",
+          "filesize": "342219",
+          "filename": "1957.190_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1957.190/1957.190_print.jpg",
+          "width": "2267",
+          "height": "3400",
+          "filesize": "5347351",
+          "filename": "1957.190_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1957.190/1957.190_full.tif",
+          "width": "4012",
+          "height": "6017",
+          "filesize": "72454744",
+          "filename": "1957.190_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 68354,
+          "description": "Jean Louis Prévost",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    }
+  ]
+}

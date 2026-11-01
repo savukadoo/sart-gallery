@@ -1,0 +1,1475 @@
+{
+  "preference": null,
+  "pagination": {
+    "total": 133169,
+    "limit": 100,
+    "offset": 0,
+    "total_pages": 1332,
+    "current_page": 1
+  },
+  "data": [
+    {
+      "_score": 1142.6802,
+      "id": 202057,
+      "title": "Untitled (Flower Still-Life)",
+      "date_display": "n.d.",
+      "artist_display": "Sylvia Shaw Judson\nAmerican, 1897-1978",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Drawing and Watercolor",
+      "artist_title": "Sylvia Shaw Judson",
+      "image_id": "e4d2a2ea-1ed8-d5dc-23b8-75cf8d1ff885",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 953.3924,
+      "id": 66149,
+      "title": "Still Life (Flowers)",
+      "date_display": "n.d.",
+      "artist_display": "Louis Valtat\nFrench, 1869-1952",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "artist_title": "Louis Valtat",
+      "image_id": "101be232-0ec8-c69c-f2de-c15bf46d6bb9",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 160.53743,
+      "id": 66042,
+      "title": "Trompe-l'Oeil Still Life with a Flower Garland and a Curtain",
+      "date_display": "1658",
+      "artist_display": "Adriaen van der Spelt (Dutch, 1630–1673)\nFrans van Mieris (Dutch, 1635–1681)",
+      "place_of_origin": "Netherlands",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Adriaen van der Spelt",
+      "style_titles": [
+        "17th Century"
+      ],
+      "image_id": "4a04138f-43d8-cd9f-5ac4-478cd8828210"
+    },
+    {
+      "_score": 147.84625,
+      "id": 100226,
+      "title": "Daisies",
+      "date_display": "1939",
+      "artist_display": "Henri Matisse\nFrench, 1869–1954",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "artist_title": "Henri Matisse",
+      "image_id": "1693f1ff-40a4-e0e2-16cd-3d8d055dc266",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 140.9763,
+      "id": 83905,
+      "title": "That Which I Should Have Done I Did Not Do (The Door)",
+      "date_display": "1931–41",
+      "artist_display": "Ivan Albright (American, 1897–1983)",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "artist_title": "Ivan Albright",
+      "style_titles": [
+        "Surrealism",
+        "Modernism"
+      ],
+      "image_id": "0ecc7b1a-70b3-7ac6-1a46-3401d0963aa6",
+      "is_public_domain": false
+    },
+    {
+      "_score": 137.52707,
+      "id": 100829,
+      "title": "Magnolias on Light Blue Velvet Cloth",
+      "date_display": "1885–95",
+      "artist_display": "Martin Johnson Heade (American, 1819–1904)",
+      "place_of_origin": "Florida",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Martin Johnson Heade",
+      "image_id": "0729fbba-51e3-a2d7-6d4d-61c2be62af3f",
+      "style_titles": []
+    },
+    {
+      "_score": 137.2694,
+      "id": 66031,
+      "title": "Still Life (Centrifugal Expansion of Colors)",
+      "date_display": "1916",
+      "artist_display": "Gino Severini\nItalian, 1883–1966",
+      "place_of_origin": "Italy",
+      "artwork_type_title": "Painting",
+      "artist_title": "Gino Severini",
+      "image_id": "e13264d2-c031-47f4-d2ac-7e56665c93d8",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 125.51539,
+      "id": 110982,
+      "title": "Still Life with Flowers",
+      "date_display": "1905",
+      "artist_display": "Odilon Redon (French, 1840–1916)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Odilon Redon",
+      "style_titles": [
+        "Post-Impressionism",
+        "20th Century"
+      ],
+      "image_id": "bdb9f780-83be-dd12-191d-54a77c5444ab"
+    },
+    {
+      "_score": 123.89035,
+      "id": 27936,
+      "title": "Still Life",
+      "date_display": "1920/24",
+      "artist_display": "André Dunoyer de Segonzac\nFrench, 1884-1974",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "artist_title": "André Dunoyer de Segonzac",
+      "image_id": "afa38424-ea2d-87ea-1b98-97afb17bec1b",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 122.74637,
+      "id": 111377,
+      "title": "For Sunday's Dinner",
+      "date_display": "1888",
+      "artist_display": "William Michael Harnett (American, born Ireland, 1848–1892)",
+      "place_of_origin": "United States",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "William Michael Harnett",
+      "style_titles": [
+        "Realism"
+      ],
+      "image_id": "3cea045a-92d6-36cf-1508-2c99ea740218"
+    },
+    {
+      "_score": 122.54283,
+      "id": 15569,
+      "title": "PH-246",
+      "date_display": "1951/52",
+      "artist_display": "Clyfford Still\nAmerican, 1904-80",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "artist_title": "Clyfford Still",
+      "image_id": "fe68289b-d212-899e-86dd-c8c485ec77c6",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 121.73917,
+      "id": 28548,
+      "title": "Figure and Flowers",
+      "date_display": "c. 1915",
+      "artist_display": "Emil Nolde\nGerman, 1867–1956",
+      "place_of_origin": "Germany",
+      "artwork_type_title": "Painting",
+      "artist_title": "Emil Nolde",
+      "image_id": "28834991-650e-202c-d5e1-51f4236e9cef",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 120.71598,
+      "id": 181777,
+      "title": "The Irish Question",
+      "date_display": "1880s",
+      "artist_display": "De Scott Evans\nAmerican, 1847–1898",
+      "place_of_origin": "United States",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "De Scott Evans",
+      "style_titles": [
+        "Realism"
+      ],
+      "image_id": "6754947f-4ccf-b3ff-41ee-45b738534769"
+    },
+    {
+      "_score": 120.460106,
+      "id": 146991,
+      "title": "PH-774",
+      "date_display": "1958",
+      "artist_display": "Clyfford Still\nAmerican, 1904-1980",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "artist_title": "Clyfford Still",
+      "style_titles": [
+        "contemporary"
+      ],
+      "image_id": "ba0756fd-837e-224d-1711-f6486ed2335d",
+      "is_public_domain": false
+    },
+    {
+      "_score": 119.397095,
+      "id": 16617,
+      "title": "Chrysanthemums",
+      "date_display": "1881–82",
+      "artist_display": "Pierre-Auguste Renoir (French, 1841–1919)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Pierre-Auguste Renoir",
+      "style_titles": [
+        "Impressionism",
+        "nineteenth century",
+        "19th century"
+      ],
+      "image_id": "479aff61-784e-e833-fd82-50ba8c819514"
+    },
+    {
+      "_score": 117.960175,
+      "id": 72180,
+      "title": "Still Life with Flowers",
+      "date_display": "1881",
+      "artist_display": "Henri Fantin-Latour (French, 1836–1904)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Henri Fantin-Latour",
+      "style_titles": [
+        "Impressionism",
+        "19th century",
+        "nineteenth century"
+      ],
+      "image_id": "94245750-c169-eb03-673e-cd03f718f885"
+    },
+    {
+      "_score": 117.58688,
+      "id": 183292,
+      "title": "Still Life in Interior",
+      "date_display": "1920–22",
+      "artist_display": "Preston Dickinson (American, 1889–1930)",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "artist_title": "Preston Dickinson",
+      "style_titles": [
+        "Modernism",
+        "Cubism"
+      ],
+      "image_id": "16d2efa0-6896-5c54-b024-de9b152f4195",
+      "is_public_domain": false
+    },
+    {
+      "_score": 115.70973,
+      "id": 62042,
+      "title": "Still Life with Dead Game, Fruits, and Vegetables in a Market",
+      "date_display": "1614",
+      "artist_display": "Frans Snyders (Flemish, 1579-1657)",
+      "place_of_origin": "Flanders",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Frans Snyders",
+      "style_titles": [
+        "Baroque",
+        "17th Century"
+      ],
+      "image_id": "d9bde524-38b2-4262-3338-e4d06a50746d"
+    },
+    {
+      "_score": 115.09586,
+      "id": 9018,
+      "title": "Still Life with Queen",
+      "date_display": "1912",
+      "artist_display": "Gabriele Münter\nGerman, 1877–1962",
+      "place_of_origin": "Germany",
+      "artwork_type_title": "Painting",
+      "artist_title": "Gabriele Münter",
+      "image_id": "6b5916ab-baa7-caa0-fcc2-314f6ec268bc",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 113.97445,
+      "id": 93812,
+      "title": "Poor Room—There Is No Time, No End, No Today, No Yesterday, No Tomorrow, Only the Forever, and Forever, and Forever without End",
+      "date_display": "1942–43, 1948–55, 1957–63",
+      "artist_display": "Ivan Albright (American, 1897–1983)",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "artist_title": "Ivan Albright",
+      "style_titles": [
+        "Surrealism",
+        "Modernism"
+      ],
+      "image_id": "577e1fb9-0542-07c7-ba31-4260e6ebecf4",
+      "is_public_domain": false
+    },
+    {
+      "_score": 113.67608,
+      "id": 94126,
+      "title": "Still Life with Monkey, Fruits, and Flowers",
+      "date_display": "1724",
+      "artist_display": "Jean Baptiste Oudry (French, 1686–1755)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Jean-Baptiste Oudry",
+      "style_titles": [
+        "18th Century",
+        "Rococo"
+      ],
+      "image_id": "293ab61e-5536-c2d3-936a-4116f027260c"
+    },
+    {
+      "_score": 113.20117,
+      "id": 44065,
+      "title": "Just Dessert",
+      "date_display": "1891",
+      "artist_display": "William Michael Harnett (American, born Ireland, 1848–1892)",
+      "place_of_origin": "United States",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "William Michael Harnett",
+      "style_titles": [
+        "Realism"
+      ],
+      "image_id": "e49ad195-1f62-2fd4-f4df-61f0f0f4951f"
+    },
+    {
+      "_score": 112.06828,
+      "id": 44892,
+      "title": "Fish (Still Life)",
+      "date_display": "1864",
+      "artist_display": "Édouard Manet (French, 1832–1883)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Édouard Manet",
+      "style_titles": [
+        "19th century",
+        "nineteenth century",
+        "Impressionism"
+      ],
+      "image_id": "0cbe27e8-2fec-3445-bc48-ce40a8f2dc25"
+    },
+    {
+      "_score": 111.785805,
+      "id": 16549,
+      "title": "Apples and Grapes",
+      "date_display": "1880",
+      "artist_display": "Claude Monet (French, 1840–1926)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Claude Monet",
+      "style_titles": [
+        "Impressionism",
+        "nineteenth century",
+        "19th century"
+      ],
+      "image_id": "c12058f4-188f-c6ed-f0fe-52b32acfb296"
+    },
+    {
+      "_score": 110.87642,
+      "id": 182381,
+      "title": "An Abundance of Fruit",
+      "date_display": "c. 1860",
+      "artist_display": "Severin Roesen\nAmerican, born Germany, 1815/17–1872",
+      "place_of_origin": "Germany",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Severin Roesen",
+      "image_id": "12f32e59-cba2-0a32-972e-cf4d7856560c",
+      "style_titles": []
+    },
+    {
+      "_score": 110.591324,
+      "id": 21682,
+      "title": "Still Life",
+      "date_display": "c. 1625",
+      "artist_display": "Pieter Claesz (Dutch, 1596/97–1660)",
+      "place_of_origin": "Netherlands",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Pieter Claesz",
+      "style_titles": [
+        "17th Century"
+      ],
+      "image_id": "574695d5-6bf3-fe58-a1d5-e6cbb5e10c77"
+    },
+    {
+      "_score": 110.494095,
+      "id": 145807,
+      "title": "Thistles",
+      "date_display": "1883–89",
+      "artist_display": "John Singer Sargent (American, 1856–1925)",
+      "place_of_origin": "England",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "John Singer Sargent",
+      "style_titles": [
+        "Impressionism",
+        "Modernism"
+      ],
+      "image_id": "79b94ddd-e208-1993-01ab-98f75174fe88"
+    },
+    {
+      "_score": 110.19153,
+      "id": 93803,
+      "title": "Pray for These Little Ones (Perforce They Live Together)",
+      "date_display": "1973–74",
+      "artist_display": "Ivan Albright (American, 1897–1983)",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "artist_title": "Ivan Albright",
+      "style_titles": [
+        "Modernism"
+      ],
+      "image_id": "bbbedb77-ff47-4c12-d1c2-e94499bb6ae2",
+      "is_public_domain": false
+    },
+    {
+      "_score": 110.07239,
+      "id": 64001,
+      "title": "Apples",
+      "date_display": "1916",
+      "artist_display": "Henri Matisse\nFrench, 1869–1954",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Henri Matisse",
+      "image_id": "b2bc0fc2-8d17-1fcd-8cae-8626421c11ef",
+      "style_titles": []
+    },
+    {
+      "_score": 109.36504,
+      "id": 14700,
+      "title": "Still Life: Apples and Green Glass",
+      "date_display": "1925",
+      "artist_display": "Charles Demuth\nAmerican, 1883-1935",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Drawing and Watercolor",
+      "artist_title": "Charles Demuth",
+      "image_id": "1f61e421-a68a-5b01-af11-1596e268b532",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 107.713936,
+      "id": 20534,
+      "title": "Roses in a Bowl",
+      "date_display": "1881",
+      "artist_display": "Henri Fantin-Latour (French, 1836–1904)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Henri Fantin-Latour",
+      "style_titles": [
+        "Impressionism",
+        "19th century",
+        "nineteenth century"
+      ],
+      "image_id": "7abbfd97-fb03-2366-cfe5-b53738a3d93e"
+    },
+    {
+      "_score": 106.91798,
+      "id": 131407,
+      "title": "Wine, Cheese, and Fruit",
+      "date_display": "1857",
+      "artist_display": "John F. Francis\nAmerican, 1808–1886",
+      "place_of_origin": "Pennsylvania",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "John F. Francis",
+      "image_id": "a2f4085a-6715-212a-c5fa-aa88a4692df0",
+      "style_titles": []
+    },
+    {
+      "_score": 106.23982,
+      "id": 154291,
+      "title": "Medusa Marinara",
+      "date_display": "1997",
+      "artist_display": "Vik Muniz\nBrazilian, born 1961",
+      "place_of_origin": "Brazil",
+      "artwork_type_title": "Photograph",
+      "artist_title": "Vik Muniz",
+      "image_id": "05e069fd-179b-ad1e-f9ff-23044ccd55aa",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 106.21855,
+      "id": 2156,
+      "title": "Lights of Other Days",
+      "date_display": "1906",
+      "artist_display": "John Frederick Peto (American, 1854–1907)",
+      "place_of_origin": "United States",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "John Frederick Peto",
+      "style_titles": [
+        "Realism"
+      ],
+      "image_id": "438fbefa-e576-bd5f-983f-1c9626cd4a60"
+    },
+    {
+      "_score": 105.91622,
+      "id": 185778,
+      "title": "Untitled (Still Life with Lobster)",
+      "date_display": "c. 1930",
+      "artist_display": "Jan Matulka\nAmerican, 1890–1972",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "artist_title": "Jan Matulka",
+      "style_titles": [
+        "Modernism"
+      ],
+      "image_id": "91833784-463a-9fea-fbc6-3b485a2c5fdb",
+      "is_public_domain": false
+    },
+    {
+      "_score": 105.32298,
+      "id": 144764,
+      "title": "3 Steel Blocks, New York",
+      "date_display": "April 1980, printed March 1981",
+      "artist_display": "Irving Penn\nAmerican, 1917–2009",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Photograph",
+      "artist_title": "Irving Penn",
+      "image_id": "31512950-a727-d5ab-3475-12d351eb9bd5",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 104.70877,
+      "id": 64957,
+      "title": "Grapes, Lemons, Pears, and Apples",
+      "date_display": "1887",
+      "artist_display": "Vincent van Gogh (Dutch, 1853–1890)",
+      "place_of_origin": "Paris",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Vincent van Gogh",
+      "style_titles": [
+        "Post-Impressionism",
+        "19th century",
+        "nineteenth century"
+      ],
+      "image_id": "f11bd233-6cc3-4221-59eb-f7363be4119e"
+    },
+    {
+      "_score": 102.51178,
+      "id": 93800,
+      "title": "Wherefore Now Ariseth the Illusion of a Third Dimension",
+      "date_display": "1931",
+      "artist_display": "Ivan Albright (American, 1897–1983)",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "artist_title": "Ivan Albright",
+      "style_titles": [
+        "Modernism"
+      ],
+      "image_id": "a2c1636a-6d3a-f3d6-71fa-740e55e48653",
+      "is_public_domain": false
+    },
+    {
+      "_score": 102.06448,
+      "id": 69533,
+      "title": "Bird's Nest and Ferns",
+      "date_display": "1863",
+      "artist_display": "Fidelia Bridges\nAmerican, 1834–1923",
+      "place_of_origin": "United States",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Fidelia Bridges",
+      "style_titles": [
+        "Realism"
+      ],
+      "image_id": "ea1e120f-2a56-99a8-99d8-ea824d466d65"
+    },
+    {
+      "_score": 101.02514,
+      "id": 153703,
+      "title": "Lemons on a Pewter Plate",
+      "date_display": "1926",
+      "artist_display": "Henri Matisse\nFrench, 1869–1954",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "artist_title": "Henri Matisse",
+      "image_id": "79f1c666-1e19-af39-f7e0-f22989835eb2",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 100.96519,
+      "id": 79072,
+      "title": "Still Life",
+      "date_display": "February 4, 1922",
+      "artist_display": "Pablo Picasso\nSpanish, active France, 1881–1973",
+      "place_of_origin": "Spain",
+      "artwork_type_title": "Painting",
+      "artist_title": "Pablo Picasso",
+      "style_titles": [
+        "Cubism"
+      ],
+      "image_id": "8a6e5b5b-7880-1b25-4bf7-621f4dae8505",
+      "is_public_domain": false
+    },
+    {
+      "_score": 100.888695,
+      "id": 84709,
+      "title": "Still Life with Game Fowl",
+      "date_display": "c. 1600–3",
+      "artist_display": "Juan Sánchez Cotán (Spanish, 1560–1627)",
+      "place_of_origin": "Spain",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Juan Sánchez Cotán",
+      "style_titles": [
+        "Renaissance",
+        "17th Century"
+      ],
+      "image_id": "f2021182-1302-f76f-97f1-4e7850030e3b"
+    },
+    {
+      "_score": 100.868286,
+      "id": 58625,
+      "title": "Head of a Woman",
+      "date_display": "summer 1909",
+      "artist_display": "Pablo Picasso\nSpanish, active France, 1881–1973",
+      "place_of_origin": "Spain",
+      "artwork_type_title": "Painting",
+      "artist_title": "Pablo Picasso",
+      "style_titles": [
+        "Cubism",
+        "Analytical Cubism"
+      ],
+      "image_id": "a18f060c-6693-6246-0fe9-abc512841002",
+      "is_public_domain": false
+    },
+    {
+      "_score": 100.74209,
+      "id": 75507,
+      "title": "Still Life: Corner of a Table",
+      "date_display": "1873",
+      "artist_display": "Henri Fantin-Latour (French, 1836–1904)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Henri Fantin-Latour",
+      "style_titles": [
+        "Impressionism",
+        "19th century"
+      ],
+      "image_id": "85d05bad-1205-6de5-e75c-ec9113a626ab"
+    },
+    {
+      "_score": 100.66121,
+      "id": 14310,
+      "title": "Still-Life with a Green Flower Vase",
+      "date_display": "c. 1902",
+      "artist_display": "Paula Modersohn-Becker\nGerman, 1876-1907",
+      "place_of_origin": "Germany",
+      "is_public_domain": true,
+      "artwork_type_title": "Drawing and Watercolor",
+      "artist_title": "Paula Modersohn-Becker",
+      "image_id": "9678901a-7c1e-a9ed-aa9a-5b208fe9a80e",
+      "style_titles": []
+    },
+    {
+      "_score": 99.359856,
+      "id": 16629,
+      "title": "Fruits of the Midi",
+      "date_display": "1881",
+      "artist_display": "Pierre-Auguste Renoir (French, 1841–1919)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Pierre-Auguste Renoir",
+      "style_titles": [
+        "Impressionism",
+        "nineteenth century",
+        "19th century"
+      ],
+      "image_id": "3e005f8a-d37f-871b-15bb-89756f1ed2e9"
+    },
+    {
+      "_score": 98.98742,
+      "id": 87045,
+      "title": "Still Life with Geranium",
+      "date_display": "1906",
+      "artist_display": "Henri Matisse\nFrench, 1869–1954",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Henri Matisse",
+      "image_id": "d0049e0b-bd55-020e-aa8c-b137d06ae7df",
+      "style_titles": []
+    },
+    {
+      "_score": 98.87009,
+      "id": 156596,
+      "title": "Fruit Piece",
+      "date_display": "1860",
+      "artist_display": "Hannah Brown Skeele (American, 1829–1901)",
+      "place_of_origin": "Saint Louis",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Hannah Brown Skeele",
+      "image_id": "998674f9-207f-6b56-8ece-79a6a5039a2a",
+      "style_titles": []
+    },
+    {
+      "_score": 98.72545,
+      "id": 19333,
+      "title": "Kitchen Still Life",
+      "date_display": "c. 1640",
+      "artist_display": "Attributed to Paolo Antonio Barbieri (Italian, 1603–1649)",
+      "place_of_origin": "Italy",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Paolo Antonio Barbieri",
+      "style_titles": [
+        "17th Century",
+        "Baroque"
+      ],
+      "image_id": "29163982-8310-36bb-3530-2b5000ce7290"
+    },
+    {
+      "_score": 98.60665,
+      "id": 111059,
+      "title": "Flowers and Fruit in a Porcelain Bowl",
+      "date_display": "c. 1645",
+      "artist_display": "Juan de Zurbarán (Spanish, 1620–1649)",
+      "place_of_origin": "Spain",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Juan de Zurbarán",
+      "style_titles": [
+        "17th Century"
+      ],
+      "image_id": "9e4bfbcc-176f-3dac-4529-f67c9a98065c"
+    },
+    {
+      "_score": 98.44687,
+      "id": 14561,
+      "title": "The Vase of Tulips",
+      "date_display": "c. 1890",
+      "artist_display": "Paul Cezanne (French, 1839–1906)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Paul Cezanne",
+      "style_titles": [
+        "Post-Impressionism",
+        "19th century"
+      ],
+      "image_id": "96f23681-9701-a668-5c3f-6ffa951f7ecc"
+    },
+    {
+      "_score": 97.70207,
+      "id": 120154,
+      "title": "Still Life—Strawberries, Nuts, &c.",
+      "date_display": "1822",
+      "artist_display": "Raphaelle Peale (American, 1774–1825)",
+      "place_of_origin": "Philadelphia",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Raphaelle Peale",
+      "style_titles": [
+        "Realism"
+      ],
+      "image_id": "1cddae1c-99d5-462f-4aa6-128c0732ac11"
+    },
+    {
+      "_score": 97.216965,
+      "id": 154496,
+      "title": "Rack Picture for Dr. Nones",
+      "date_display": "1879",
+      "artist_display": "Attributed to William A. Mitchell\nAmerican, 1828–1890",
+      "place_of_origin": "Philadelphia",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "William A. Mitchell",
+      "style_titles": [
+        "Realism"
+      ],
+      "image_id": "22609746-bd4b-c9b6-8293-dfd393f00c20"
+    },
+    {
+      "_score": 97.003845,
+      "id": 73643,
+      "title": "Still Life with Glass, Dice, Newspaper and Playing Card",
+      "date_display": "1913",
+      "artist_display": "Georges Braque\nFrench, 1882-1963",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "artist_title": "Georges Braque",
+      "image_id": "cc61574d-2479-40e4-7049-cc6cd6984428",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 96.947624,
+      "id": 144765,
+      "title": "Still Life with Shoe, New York",
+      "date_display": "February 1980, printed September 1981",
+      "artist_display": "Irving Penn\nAmerican, 1917–2009",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Photograph",
+      "artist_title": "Irving Penn",
+      "image_id": "a69ea9a6-468a-f59e-1e5f-72d11cd3b981",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 96.22673,
+      "id": 73644,
+      "title": "Glass and Playing Cards",
+      "date_display": "1915",
+      "artist_display": "Juan Gris\nSpanish, 1887-1927",
+      "place_of_origin": "Spain",
+      "artwork_type_title": "Painting",
+      "artist_title": "Juan Gris",
+      "style_titles": [
+        "Cubism"
+      ],
+      "image_id": "7036097d-1d05-1548-a981-bc5177f9da4e",
+      "is_public_domain": false
+    },
+    {
+      "_score": 95.01499,
+      "id": 59445,
+      "title": "Still Life",
+      "date_display": "1938",
+      "artist_display": "Pierre Roy\nFrench, 1880–1959",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "artist_title": "Pierre Roy",
+      "image_id": "62c97df6-5d26-e9f8-764e-602961915a39",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 94.85325,
+      "id": 144771,
+      "title": "The Poor Lovers, New York",
+      "date_display": "December 19, 1979, printed October 1980",
+      "artist_display": "Irving Penn\nAmerican, 1917–2009",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Photograph",
+      "artist_title": "Irving Penn",
+      "image_id": "1a5b967a-6f53-58b1-d8dc-dc059dfb4177",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 94.81831,
+      "id": 65930,
+      "title": "Still Life No. 15",
+      "date_display": "c. 1917",
+      "artist_display": "Marsden Hartley (American, 1877–1943)",
+      "place_of_origin": "United States",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Marsden Hartley",
+      "style_titles": [
+        "Modernism"
+      ],
+      "image_id": "2a328b12-cb68-19e8-3843-b2160f007813"
+    },
+    {
+      "_score": 94.37571,
+      "id": 157082,
+      "title": "Musical Instruments, Italy",
+      "date_display": "1948, printed December 1998",
+      "artist_display": "Irving Penn\nAmerican, 1917–2009",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Photograph",
+      "artist_title": "Irving Penn",
+      "image_id": "777ff25c-4228-8e1d-c428-1f939347df94",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 94.367615,
+      "id": 157157,
+      "title": "Still Life",
+      "date_display": "1955",
+      "artist_display": "Giorgio Morandi\nItalian, 1890-1964",
+      "place_of_origin": "Italy",
+      "artwork_type_title": "Painting",
+      "artist_title": "Giorgio Morandi",
+      "image_id": "5bfc7cef-3c8c-4239-65ac-826c735643f5",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 94.33656,
+      "id": 144766,
+      "title": "Collapse, New York",
+      "date_display": "January 1980, printed December 1981",
+      "artist_display": "Irving Penn\nAmerican, 1917–2009",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Photograph",
+      "artist_title": "Irving Penn",
+      "image_id": "bbae1bbd-8182-312c-35c6-97c84377d22a",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 93.89069,
+      "id": 73649,
+      "title": "Still Life",
+      "date_display": "n.d.",
+      "artist_display": "Claude Venard\nFrench, 1913-1999",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "artist_title": "Claude Venard",
+      "image_id": "6361da9e-9179-dd0f-cf51-68e56db9b865",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 92.505356,
+      "id": 210386,
+      "title": "Still Life",
+      "date_display": "1911",
+      "artist_display": "Max Weber (American, born Białystok, Russian Empire, now Poland, 1881–1961)",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "artist_title": "Max Weber",
+      "style_titles": [
+        "Modernism",
+        "Cubism"
+      ],
+      "image_id": "9b978986-b3c3-18b1-539e-7df8d0949fab",
+      "is_public_domain": false
+    },
+    {
+      "_score": 92.42272,
+      "id": 84096,
+      "title": "Dead Birds and Shot Bags",
+      "date_display": "c. 1660",
+      "artist_display": "Attributed to Pieter Boel (Flemish, 1622-1674)",
+      "place_of_origin": "Flanders",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Pieter Boel",
+      "style_titles": [
+        "17th Century"
+      ],
+      "image_id": "add1be75-4581-568d-0751-ae2fbb61ebf3"
+    },
+    {
+      "_score": 91.94585,
+      "id": 14647,
+      "title": "Young Woman Sewing",
+      "date_display": "1879",
+      "artist_display": "Pierre-Auguste Renoir (French, 1841–1919)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Pierre-Auguste Renoir",
+      "style_titles": [
+        "Impressionism",
+        "nineteenth century",
+        "19th century"
+      ],
+      "image_id": "147e3ce7-1c08-fa84-57f7-f59d4ec90d3c"
+    },
+    {
+      "_score": 91.36098,
+      "id": 93801,
+      "title": "Showcase Doll",
+      "date_display": "1931–32",
+      "artist_display": "Ivan Albright (American, 1897–1983)",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "artist_title": "Ivan Albright",
+      "style_titles": [
+        "Surrealism",
+        "Modernism"
+      ],
+      "image_id": "6e5c632f-6481-5dfa-b70d-a6510786b4c6",
+      "is_public_domain": false
+    },
+    {
+      "_score": 91.30978,
+      "id": 153797,
+      "title": "Still Life: Wood Tankard and Metal Pitcher",
+      "date_display": "1880",
+      "artist_display": "Paul Gauguin (French, 1848–1903)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Paul Gauguin",
+      "style_titles": [
+        "Post-Impressionism",
+        "19th century",
+        "nineteenth century"
+      ],
+      "image_id": "9964135a-b3df-8af6-5af9-9e6eac7a041d"
+    },
+    {
+      "_score": 90.98516,
+      "id": 144774,
+      "title": "Wide Skull (A), New York",
+      "date_display": "1993, printed February/September 1994",
+      "artist_display": "Irving Penn\nAmerican, 1917–2009",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Photograph",
+      "artist_title": "Irving Penn",
+      "image_id": "55b4acd5-1545-9ac7-a712-f185449c33c6",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 90.613,
+      "id": 185764,
+      "title": "Still Life Filled with Space",
+      "date_display": "1924",
+      "artist_display": "Le Corbusier (Charles-Édouard Jeanneret)\nFrench, born Switzerland, 1887–1965",
+      "artwork_type_title": "Painting",
+      "artist_title": "Le Corbusier (Charles-Édouard Jeanneret)",
+      "image_id": "798bb27f-379a-f910-2aa1-65555e70749b",
+      "is_public_domain": false,
+      "style_titles": [],
+      "place_of_origin": null
+    },
+    {
+      "_score": 90.00537,
+      "id": 65940,
+      "title": "Still Life No. 3",
+      "date_display": "1923",
+      "artist_display": "Marsden Hartley (American, 1877–1943)",
+      "place_of_origin": "United States",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Marsden Hartley",
+      "style_titles": [
+        "Modernism",
+        "Cubism"
+      ],
+      "image_id": "77b96ea2-dbe8-49a1-6a50-507c477fa456"
+    },
+    {
+      "_score": 89.10887,
+      "id": 73645,
+      "title": "Still Life",
+      "date_display": "1930",
+      "artist_display": "Jean Lurçat\nFrench, 1892-1966",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "artist_title": "Jean Lurçat",
+      "image_id": "0bbd74cc-32ab-ca1b-737f-16359e9f2ed7",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 88.96937,
+      "id": 62450,
+      "title": "Still Life with a Basket of Fruit and a Bunch of Asparagus",
+      "date_display": "1630",
+      "artist_display": "Louise Moillon (French, 1610–1696)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Louise Moillon",
+      "style_titles": [
+        "17th Century"
+      ],
+      "image_id": "87d426ca-4537-1386-50bf-6c2d5a5d7d17"
+    },
+    {
+      "_score": 88.73284,
+      "id": 111436,
+      "title": "The Basket of Apples",
+      "date_display": "c. 1893",
+      "artist_display": "Paul Cezanne (French, 1839–1906)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Paul Cezanne",
+      "style_titles": [
+        "Post-Impressionism",
+        "19th century"
+      ],
+      "image_id": "52ac8996-3460-cf71-cb42-5c4d0aa29b74"
+    },
+    {
+      "_score": 88.57829,
+      "id": 11326,
+      "title": "Still Life",
+      "date_display": "1931",
+      "artist_display": "Glenn O. Coleman\nAmerican, 1887-1932",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Print",
+      "artist_title": "Glenn O. Coleman",
+      "image_id": "c1e3e25e-1d78-69ef-280f-dae56df44fef",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 87.497055,
+      "id": 64029,
+      "title": "Bouquet of Flowers in an Earthenware Vase",
+      "date_display": "c. 1610",
+      "artist_display": "Attributed to Jan Brueghel the Elder (Flemish, 1568–1625)",
+      "place_of_origin": "Flanders",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Jan Brueghel, the elder",
+      "style_titles": [
+        "17th Century"
+      ],
+      "image_id": "599e0546-ed58-0224-a623-39a8e3b51ef8"
+    },
+    {
+      "_score": 87.36573,
+      "id": 104894,
+      "title": "Seven Metal, Seven Bone, New York",
+      "date_display": "February 1980, printed September 1981",
+      "artist_display": "Irving Penn\nAmerican, 1917–2009",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Photograph",
+      "artist_title": "Irving Penn",
+      "image_id": "a91256ac-8945-bc11-29fa-bee593b2e92b",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 86.5136,
+      "id": 79781,
+      "title": "Still Life",
+      "date_display": "1928",
+      "artist_display": "Fernand Léger\nFrench, 1881–1955",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "artist_title": "Fernand Léger",
+      "image_id": "ff5d2e96-91df-6929-8947-a9d41be61cfa",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 86.30333,
+      "id": 61878,
+      "title": "Still Life",
+      "date_display": "1914",
+      "artist_display": "Georges Braque\nFrench, 1882-1963",
+      "place_of_origin": "France",
+      "artwork_type_title": "Drawing and Watercolor",
+      "artist_title": "Georges Braque",
+      "image_id": "ad9f6106-ea49-8b84-ec55-5862f6dce6c6",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 85.59989,
+      "id": 198905,
+      "title": "Still Life with Ostrich Egg Cup and the Whitfield Heirlooms",
+      "date_display": "c. 1670",
+      "artist_display": "Pieter Gerritsz. van Roestraeten (Dutch, 1630–1700)",
+      "place_of_origin": "Netherlands",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Pieter Gerritsz. van Roestraeten",
+      "style_titles": [
+        "17th Century"
+      ],
+      "image_id": "a3bfd218-9b88-f59b-5ade-f39b45f3ec4f"
+    },
+    {
+      "_score": 85.51658,
+      "id": 94240,
+      "title": "Flowers: Poppies and Daisies",
+      "date_display": "c. 1867",
+      "artist_display": "Odilon Redon (French, 1840–1916)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Odilon Redon",
+      "style_titles": [
+        "nineteenth century",
+        "19th century"
+      ],
+      "image_id": "d424c734-f5c1-5f89-3bb8-d83e4e0287e3"
+    },
+    {
+      "_score": 85.258194,
+      "id": 17589,
+      "title": "Still Life with Flowers",
+      "date_display": "1914",
+      "artist_display": "Le Corbusier\nFrench, born Switzerland, 1887-1965",
+      "place_of_origin": "France",
+      "artwork_type_title": "Drawing and Watercolor",
+      "artist_title": "Le Corbusier (Charles-Édouard Jeanneret)",
+      "image_id": "637474d4-4467-ccb4-5259-ff243b65f012",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 85.2372,
+      "id": 72183,
+      "title": "Still Life with Fruit and Wine Jug",
+      "date_display": "1874",
+      "artist_display": "Adolphe Monticelli (French, 1824–1886)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Adolphe Joseph Thomas Monticelli",
+      "style_titles": [
+        "nineteenth century",
+        "19th century"
+      ],
+      "image_id": "3c61e694-6a53-c3ad-8a1e-a2c5d3f25080"
+    },
+    {
+      "_score": 84.36695,
+      "id": 157924,
+      "title": "Still Life with Currency",
+      "date_display": "1895",
+      "artist_display": "Charles Alfred Meurer\nAmerican, born Germany, 1865–1955",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "artist_title": "Charles Alfred Meurer",
+      "style_titles": [
+        "Realism"
+      ],
+      "image_id": "64106540-36d7-23eb-0556-c07306075745",
+      "is_public_domain": false
+    },
+    {
+      "_score": 83.63003,
+      "id": 152855,
+      "title": "Still Life with Flowers and Mirror",
+      "date_display": "1983",
+      "artist_display": "James Valerio\nAmerican, born 1938",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Drawing and Watercolor",
+      "artist_title": "James Valerio",
+      "image_id": "721795dd-58ae-898c-a56a-0e500f31d53c",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 83.5814,
+      "id": 153702,
+      "title": "Still Life",
+      "date_display": "1926",
+      "artist_display": "Fernand Léger\nFrench, 1881–1955",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "artist_title": "Fernand Léger",
+      "image_id": "cd277f61-c27e-f8d5-766a-96e81fa9c061",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 83.022804,
+      "id": 144769,
+      "title": "Onion, Plum, and Garlic, New York",
+      "date_display": "1993, printed April/June 1994",
+      "artist_display": "Irving Penn\nAmerican, 1917–2009",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Photograph",
+      "artist_title": "Irving Penn",
+      "image_id": "88b54c65-5434-fe5c-761a-80d780fd5fce",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 82.44093,
+      "id": 8460,
+      "title": "Plate with Still Life",
+      "date_display": "1922–23",
+      "artist_display": "Henry Varnum Poor (American, 1888–1970)\nNew City, New York",
+      "place_of_origin": "New City",
+      "artwork_type_title": "Ceramics",
+      "artist_title": "Henry Varnum Poor",
+      "style_titles": [
+        "Modernism",
+        "20th Century",
+        "Cubism"
+      ],
+      "image_id": "db5b0453-b732-979a-6c3a-6a861e104fc4",
+      "is_public_domain": false
+    },
+    {
+      "_score": 82.39489,
+      "id": 27930,
+      "title": "Grapes",
+      "date_display": "early 1920s",
+      "artist_display": "André Derain\nFrench, 1880-1954",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "artist_title": "André Derain",
+      "image_id": "50b2dee2-6011-fe79-58bc-b9d9ae140d0c",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 81.874565,
+      "id": 154121,
+      "title": "Calf's Head and Ox Tongue",
+      "date_display": "c. 1882",
+      "artist_display": "Gustave Caillebotte (French, 1848–1894)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Gustave Caillebotte",
+      "style_titles": [
+        "Impressionism",
+        "19th century"
+      ],
+      "image_id": "0274aa9e-95d1-2a8e-12e3-2b09d7749b4f"
+    },
+    {
+      "_score": 81.29441,
+      "id": 58999,
+      "title": "Still Life with Fruit",
+      "date_display": "1890",
+      "artist_display": "Émile Bernard (French, 1868–1941)",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "artist_title": "Émile Bernard",
+      "style_titles": [
+        "Post-Impressionism",
+        "19th century"
+      ],
+      "image_id": "d349a360-3690-bbc4-5883-22f4cd8bac84",
+      "is_public_domain": false
+    },
+    {
+      "_score": 81.15037,
+      "id": 23083,
+      "title": "Large Still-Life",
+      "date_display": "1928",
+      "artist_display": "Giorgio Morandi\nItalian, 1890-1964",
+      "place_of_origin": "Italy",
+      "artwork_type_title": "Print",
+      "artist_title": "Giorgio Morandi",
+      "image_id": "a028368b-8293-dcde-992c-a7e539c4b341",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 80.19662,
+      "id": 8672,
+      "title": "Still Life",
+      "date_display": "1923",
+      "artist_display": "Georges Braque\nFrench, 1882-1963",
+      "place_of_origin": "France",
+      "artwork_type_title": "Drawing and Watercolor",
+      "artist_title": "Georges Braque",
+      "image_id": "f23b8f3e-46cb-06f3-014c-a66e480aaa2d",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 79.79791,
+      "id": 52146,
+      "title": "Still Life with Fish and Shells",
+      "date_display": "1898",
+      "artist_display": "James Ensor (Belgian, 1860–1949)",
+      "place_of_origin": "Belgium",
+      "artwork_type_title": "Painting",
+      "artist_title": "James Ensor",
+      "style_titles": [
+        "Post-Impressionism",
+        "19th century",
+        "nineteenth century"
+      ],
+      "image_id": "47a66ae9-b3b8-82c9-beca-ad8cfd9c6a2a",
+      "is_public_domain": false
+    },
+    {
+      "_score": 79.72402,
+      "id": 23098,
+      "title": "Still Life, Clown",
+      "date_display": "1930",
+      "artist_display": "Pavel Tchelitchew\nAmerican, born Russia, 1898-1957",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "artist_title": "Pavel Tchelitchew",
+      "image_id": "372b0cbf-023d-1719-a7f5-6a11d853aff7",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 79.70175,
+      "id": 84235,
+      "title": "Still Life: Barbera",
+      "date_display": "1918",
+      "artist_display": "Gino Severini\nItalian, 1883–1966",
+      "place_of_origin": "Italy",
+      "artwork_type_title": "Painting",
+      "artist_title": "Gino Severini",
+      "image_id": "f858c002-6cc0-a82c-f7b6-2a319d18f133",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 79.58511,
+      "id": 65811,
+      "title": "The Plate of Apples",
+      "date_display": "c. 1877",
+      "artist_display": "Paul Cezanne (French, 1839–1906)",
+      "place_of_origin": "France",
+      "is_public_domain": true,
+      "artwork_type_title": "Painting",
+      "artist_title": "Paul Cezanne",
+      "style_titles": [
+        "Post-Impressionism",
+        "19th century"
+      ],
+      "image_id": "2e6d6a89-61bd-5098-59d3-b41d14bf7973"
+    },
+    {
+      "_score": 79.54959,
+      "id": 110966,
+      "title": "Still Life with Fruits and Stringed Instrument",
+      "date_display": "1938",
+      "artist_display": "Georges Braque\nFrench, 1882–1963",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "artist_title": "Georges Braque",
+      "image_id": "9620b92e-5e0a-cd3b-f71d-76364f8b70de",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 79.28733,
+      "id": 93346,
+      "title": "Still Life #41",
+      "date_display": "1964",
+      "artist_display": "Tom Wesselmann\nAmerican, 1931–2004",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "artist_title": "Tom Wesselmann",
+      "image_id": "257c9769-4e28-2a35-8fdb-b8d354c9ef7b",
+      "is_public_domain": false,
+      "style_titles": []
+    },
+    {
+      "_score": 79.21432,
+      "id": 144749,
+      "title": "New York Still Life",
+      "date_display": "1947, printed August/September 1978",
+      "artist_display": "Irving Penn\nAmerican, 1917–2009",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Photograph",
+      "artist_title": "Irving Penn",
+      "image_id": "f4dec308-101f-c3e5-50f0-ad5d4111e87e",
+      "is_public_domain": false,
+      "style_titles": []
+    }
+  ],
+  "info": {
+    "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+    "license_links": [
+      "https://creativecommons.org/publicdomain/zero/1.0/",
+      "https://www.artic.edu/terms"
+    ],
+    "version": "1.16"
+  },
+  "config": {
+    "iiif_url": "https://www.artic.edu/iiif/2",
+    "website_url": "https://www.artic.edu"
+  }
+}

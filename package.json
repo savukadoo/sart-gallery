@@ -1,0 +1,25 @@
+{
+  "name": "sart-gallery",
+  "version": "0.20.5",
+  "license": "AGPL-3.0-only",
+  "private": true,
+  "type": "module",
+  "description": "A local art gallery for Samsung Tizen televisions",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "check": "node tools/check.mjs",
+    "build": "python3 tools/package_app.py"
+  },
+  "devDependencies": {
+    "acorn": "^8.19.0",
+    "playwright": "1.64.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/savukadoo/sart-gallery.git"
+  },
+  "homepage": "https://github.com/savukadoo/sart-gallery#readme",
+  "bugs": {
+    "url": "https://github.com/savukadoo/sart-gallery/issues"
+  }
+}

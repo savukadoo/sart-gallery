@@ -1,0 +1,71 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "82032539": {
+        "pageid": 82032539,
+        "ns": 6,
+        "title": "File:Kazimir Severinovich Malevich, A Peasant Woman Goes for Water, 1913, NGA 93945.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11819961,
+            "width": 3554,
+            "height": 3945,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kazimir_Severinovich_Malevich%2C_A_Peasant_Woman_Goes_for_Water%2C_1913%2C_NGA_93945.jpg/500px-Kazimir_Severinovich_Malevich%2C_A_Peasant_Woman_Goes_for_Water%2C_1913%2C_NGA_93945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 378,
+            "thumbheight": 420,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kazimir_Severinovich_Malevich%2C_A_Peasant_Woman_Goes_for_Water%2C_1913%2C_NGA_93945.jpg/960px-Kazimir_Severinovich_Malevich%2C_A_Peasant_Woman_Goes_for_Water%2C_1913%2C_NGA_93945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kazimir_Severinovich_Malevich%2C_A_Peasant_Woman_Goes_for_Water%2C_1913%2C_NGA_93945.jpg/500px-Kazimir_Severinovich_Malevich%2C_A_Peasant_Woman_Goes_for_Water%2C_1913%2C_NGA_93945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 378,
+              "height": 420,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kazimir_Severinovich_Malevich%2C_A_Peasant_Woman_Goes_for_Water%2C_1913%2C_NGA_93945.jpg/960px-Kazimir_Severinovich_Malevich%2C_A_Peasant_Woman_Goes_for_Water%2C_1913%2C_NGA_93945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kazimir_Severinovich_Malevich%2C_A_Peasant_Woman_Goes_for_Water%2C_1913%2C_NGA_93945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kazimir_Severinovich_Malevich,_A_Peasant_Woman_Goes_for_Water,_1913,_NGA_93945.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82032539",
+            "extmetadata": {
+              "ObjectName": {
+                "value": "<div class=\"fn\">\n<i>A Peasant Woman Goes for Water </i></div>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nKazimir Severinovich Malevich</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1913<div style=\"display: none;\">date QS:P571,+1913-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:NGA\" title=\"Commons:NGA\">National Gallery of Art</a>. Please see the Gallery's <a rel=\"nofollow\" class=\"external text\" href=\"https://images.nga.gov/en/page/openaccess.html\">Open Access Policy</a>.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    }
+  }
+}

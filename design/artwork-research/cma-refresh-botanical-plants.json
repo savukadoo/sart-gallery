@@ -1,0 +1,2593 @@
+{
+  "info": {
+    "total": 40,
+    "parameters": {
+      "skip": 0,
+      "limit": 60,
+      "type": "Print",
+      "q": "botanical",
+      "cc0": "1",
+      "has_image": "1",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,classification_type,collection,gallery,department",
+      "classification_type": "Print",
+      "search": "botanical"
+    }
+  },
+  "data": [
+    {
+      "id": 132618,
+      "accession_number": "1955.142",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed:  White Cape - Coast Lily",
+      "creation_date": "1806",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.142",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.142/1955.142_web.jpg",
+          "width": "1103",
+          "height": "893",
+          "filesize": "672117",
+          "filename": "1955.142_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.142/1955.142_print.jpg",
+          "width": "3400",
+          "height": "2753",
+          "filesize": "5545477",
+          "filename": "1955.142_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.142/1955.142_full.tif",
+          "width": "4750",
+          "height": "3846",
+          "filesize": "54836992",
+          "filename": "1955.142_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 53340,
+          "description": "Sydenham Edwards (British, 1768–1819)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1819",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        },
+        {
+          "id": 69437,
+          "description": "Thomas Curtis (British, 1846–1920)",
+          "extent": null,
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1846",
+          "death_year": "1920",
+          "use_in_caption": false,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132620,
+      "accession_number": "1955.144",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed:  Umbel-Flowering Bulb-Bearing Orange-Lily",
+      "creation_date": "1807",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.144",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.144/1955.144_web.jpg",
+          "width": "1067",
+          "height": "893",
+          "filesize": "736704",
+          "filename": "1955.144_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.144/1955.144_print.jpg",
+          "width": "3400",
+          "height": "2845",
+          "filesize": "6376983",
+          "filename": "1955.144_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.144/1955.144_full.tif",
+          "width": "4008",
+          "height": "3354",
+          "filesize": "40361724",
+          "filename": "1955.144_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 69437,
+          "description": "Thomas Curtis (British, 1846–1920)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1846",
+          "death_year": "1920",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132850,
+      "accession_number": "1955.310",
+      "share_license_status": "CC0",
+      "title": "Pomona Britannica:  No. 17 - Plums",
+      "creation_date": "1806",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "aquatint",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.310",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.310/1955.310_web.jpg",
+          "width": "687",
+          "height": "893",
+          "filesize": "417409",
+          "filename": "1955.310_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.310/1955.310_print.jpg",
+          "width": "2614",
+          "height": "3400",
+          "filesize": "6660977",
+          "filename": "1955.310_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.310/1955.310_full.tif",
+          "width": "4088",
+          "height": "5318",
+          "filesize": "65254204",
+          "filename": "1955.310_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 26985,
+          "description": "George Brookshaw (British, 1751–1823)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1751",
+          "death_year": "1823",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 140339,
+      "accession_number": "1964.29",
+      "share_license_status": "CC0",
+      "title": "The Virgin and Child with a Monkey",
+      "creation_date": "c. 1498",
+      "culture": [
+        "Germany, late 15th Century-early 16th Century"
+      ],
+      "technique": "engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1964.29",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.29/1964.29_web.jpg",
+          "width": "594",
+          "height": "893",
+          "filesize": "486670",
+          "filename": "1964.29_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.29/1964.29_print.jpg",
+          "width": "2263",
+          "height": "3400",
+          "filesize": "6489794",
+          "filename": "1964.29_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.29/1964.29_full.tif",
+          "width": "3610",
+          "height": "5424",
+          "filesize": "58776240",
+          "filename": "1964.29_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 11617,
+          "description": "Albrecht Dürer (German, 1471–1528)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1471",
+          "death_year": "1528",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 380082,
+      "accession_number": "2020.164",
+      "share_license_status": "CC0",
+      "title": "Lillium Pomponium (Turban Lily), plate 7 from Les Liliacées",
+      "creation_date": "1802–16",
+      "culture": [
+        "France"
+      ],
+      "technique": "stipple engraving with hand coloring",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2020.164",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.164/2020.164_web.jpg",
+          "width": "618",
+          "height": "900",
+          "filesize": "202359",
+          "filename": "2020.164_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.164/2020.164_print.jpg",
+          "width": "2336",
+          "height": "3400",
+          "filesize": "2224430",
+          "filename": "2020.164_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.164/2020.164_full.tif",
+          "width": "8515",
+          "height": "12395",
+          "filesize": "316658152",
+          "filename": "2020.164_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 380591,
+          "description": "De Gouy (French, 1670–1830)",
+          "extent": null,
+          "qualifier": null,
+          "role": null,
+          "biography": "French engraver, active 18th century",
+          "name_in_original_language": null,
+          "birth_year": "1670",
+          "death_year": "1830",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        },
+        {
+          "id": 68798,
+          "description": "Pierre-Joseph Redouté (French, 1759–1840)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 370563,
+      "accession_number": "2019.243",
+      "share_license_status": "CC0",
+      "title": "Youth Playing a Lyre to a Maiden by a Fountain",
+      "creation_date": "1803",
+      "culture": [
+        "Germany, 19th century"
+      ],
+      "technique": "etching on heavy wove paper",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2019.243",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.243/2019.243_web.jpg",
+          "width": "900",
+          "height": "693",
+          "filesize": "371783",
+          "filename": "2019.243_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.243/2019.243_print.jpg",
+          "width": "3400",
+          "height": "2619",
+          "filesize": "5036976",
+          "filename": "2019.243_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2019.243/2019.243_full.tif",
+          "width": "12823",
+          "height": "9877",
+          "filesize": "379988468",
+          "filename": "2019.243_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 26313,
+          "description": "Carl Wilhelm I Kolbe (German, 1757–1835)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1757",
+          "death_year": "1835",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 135760,
+      "accession_number": "1959.294",
+      "share_license_status": "CC0",
+      "title": "Eruption of Mount Vesuvius in 1769",
+      "creation_date": "1808",
+      "culture": [
+        "England, 18th century"
+      ],
+      "technique": "aquatint with engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1959.294",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.294/1959.294_web.jpg",
+          "width": "900",
+          "height": "714",
+          "filesize": "219443",
+          "filename": "1959.294_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.294/1959.294_print.jpg",
+          "width": "3400",
+          "height": "2698",
+          "filesize": "3753462",
+          "filename": "1959.294_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.294/1959.294_full.tif",
+          "width": "7212",
+          "height": "5723",
+          "filesize": "123854668",
+          "filename": "1959.294_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27179,
+          "description": "Thomas Sutherland (British, 1785–1838)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1785",
+          "death_year": "1838",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 674489,
+          "description": "Berardo Galiani (Italian, 1724–1774)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1724",
+          "death_year": "1774",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        },
+        {
+          "id": 27182,
+          "description": "Robert John Thornton (British, 1768–1837)",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1837",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 135761,
+      "accession_number": "1959.295",
+      "share_license_status": "CC0",
+      "title": "Eruption of Mount Aetna in 1669",
+      "creation_date": "1809",
+      "culture": [
+        "England, 18th century"
+      ],
+      "technique": "aquatint with engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1959.295",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.295/1959.295_web.jpg",
+          "width": "668",
+          "height": "900",
+          "filesize": "262383",
+          "filename": "1959.295_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.295/1959.295_print.jpg",
+          "width": "2524",
+          "height": "3400",
+          "filesize": "4427487",
+          "filename": "1959.295_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.295/1959.295_full.tif",
+          "width": "4543",
+          "height": "6120",
+          "filesize": "83441676",
+          "filename": "1959.295_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27179,
+          "description": "Thomas Sutherland (British, 1785–1838)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1785",
+          "death_year": "1838",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 674490,
+          "description": "Romagni (Italian?, 17th century?)",
+          "extent": "designed by",
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 27182,
+          "description": "Robert John Thornton (British, 1768–1837)",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1837",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 118189,
+      "accession_number": "1939.293",
+      "share_license_status": "CC0",
+      "title": "The Blue Passion-flower",
+      "creation_date": "1799–1807",
+      "culture": [
+        "England, late 18th-early 19th Century"
+      ],
+      "technique": "aquatint, stipple, line engraving, etching and roulette",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1939.293",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.293/1939.293_web.jpg",
+          "width": "672",
+          "height": "900",
+          "filesize": "217765",
+          "filename": "1939.293_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.293/1939.293_print.jpg",
+          "width": "2540",
+          "height": "3400",
+          "filesize": "2560586",
+          "filename": "1939.293_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.293/1939.293_full.tif",
+          "width": "4247",
+          "height": "5684",
+          "filesize": "72453600",
+          "filename": "1939.293_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27182,
+          "description": "Robert John Thornton (British, 1768–1837)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1837",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 127083,
+      "accession_number": "1949.415",
+      "share_license_status": "CC0",
+      "title": "The Temple of Flora, or Garden of Nature:  A Group of Auriculas",
+      "creation_date": "1803",
+      "culture": [
+        "England, late 18th-early 19th Century"
+      ],
+      "technique": "aquatint, stipple, and etching with watercolor added by hand",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1949.415",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.415/1949.415_web.jpg",
+          "width": "637",
+          "height": "900",
+          "filesize": "204827",
+          "filename": "1949.415_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.415/1949.415_print.jpg",
+          "width": "2407",
+          "height": "3400",
+          "filesize": "2771143",
+          "filename": "1949.415_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.415/1949.415_full.tif",
+          "width": "4128",
+          "height": "5832",
+          "filesize": "72255888",
+          "filename": "1949.415_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27182,
+          "description": "Robert John Thornton (British, 1768–1837)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1837",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 118187,
+      "accession_number": "1939.291",
+      "share_license_status": "CC0",
+      "title": "The Dragon Arum, Black Calla or Solomon's Lily",
+      "creation_date": "1799–1807",
+      "culture": [
+        "England, late 18th-early 19th Century"
+      ],
+      "technique": "mezzotint",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1939.291",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.291/1939.291_web.jpg",
+          "width": "696",
+          "height": "900",
+          "filesize": "170880",
+          "filename": "1939.291_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.291/1939.291_print.jpg",
+          "width": "2628",
+          "height": "3400",
+          "filesize": "2441713",
+          "filename": "1939.291_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.291/1939.291_full.tif",
+          "width": "4085",
+          "height": "5286",
+          "filesize": "64809936",
+          "filename": "1939.291_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27182,
+          "description": "Robert John Thornton (British, 1768–1837)",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1837",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 27704,
+          "description": "William Ward (British, 1776–1826)",
+          "extent": null,
+          "qualifier": null,
+          "role": "engraved by",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1776",
+          "death_year": "1826",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 127082,
+      "accession_number": "1949.414",
+      "share_license_status": "CC0",
+      "title": "Plantae et Papiliones rariores:  Martynia",
+      "creation_date": "1748",
+      "culture": [
+        "Germany, 18th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1949.414",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.414/1949.414_web.jpg",
+          "width": "607",
+          "height": "893",
+          "filesize": "423790",
+          "filename": "1949.414_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.414/1949.414_print.jpg",
+          "width": "2311",
+          "height": "3400",
+          "filesize": "6375469",
+          "filename": "1949.414_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.414/1949.414_full.tif",
+          "width": "4428",
+          "height": "6514",
+          "filesize": "86566912",
+          "filename": "1949.414_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 1310,
+          "description": "Georg Dionysius Ehret (German, 1708–1770)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1708",
+          "death_year": "1770",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 95294,
+      "accession_number": "1916.1066",
+      "share_license_status": "CC0",
+      "title": "The Dance ",
+      "creation_date": "1799",
+      "culture": [
+        "Germany, 18th-19th century"
+      ],
+      "technique": "engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1916.1066",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1916.1066/1916.1066_web.jpg",
+          "width": "900",
+          "height": "771",
+          "filesize": "339077",
+          "filename": "1916.1066_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1916.1066/1916.1066_print.jpg",
+          "width": "3400",
+          "height": "2912",
+          "filesize": "4374262",
+          "filename": "1916.1066_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1916.1066/1916.1066_full.tif",
+          "width": "5872",
+          "height": "5030",
+          "filesize": "88643560",
+          "filename": "1916.1066_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 26313,
+          "description": "Carl Wilhelm I Kolbe (German, 1757–1835)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1757",
+          "death_year": "1835",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 162915,
+      "accession_number": "2003.392",
+      "share_license_status": "CC0",
+      "title": "Thirty-Six Views of the Eiffel Tower: From Behind Frémiet's Elk (Trocadero)",
+      "creation_date": "1902",
+      "culture": [
+        "France, early 20th century"
+      ],
+      "technique": "color lithograph",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2003.392",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2003.392/2003.392_web.jpg",
+          "width": "694",
+          "height": "893",
+          "filesize": "502162",
+          "filename": "2003.392_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2003.392/2003.392_print.jpg",
+          "width": "2642",
+          "height": "3400",
+          "filesize": "5398001",
+          "filename": "2003.392_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2003.392/2003.392_full.tif",
+          "width": "2727",
+          "height": "3510",
+          "filesize": "28749480",
+          "filename": "2003.392_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 9922,
+          "description": "Henri Rivière (French, 1864–1951)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1864",
+          "death_year": "1951",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 68930,
+          "description": "Printed by Verneau",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 128284,
+      "accession_number": "1951.276",
+      "share_license_status": "CC0",
+      "title": "The Temple of Flora, or Garden of Nature:  The Pontic Rhododendron",
+      "creation_date": "1799–1807",
+      "culture": [
+        "England, late 18th-early 19th Century"
+      ],
+      "technique": "aquatint, stipple and line engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1951.276",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.276/1951.276_web.jpg",
+          "width": "670",
+          "height": "900",
+          "filesize": "177917",
+          "filename": "1951.276_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.276/1951.276_print.jpg",
+          "width": "2532",
+          "height": "3400",
+          "filesize": "2553775",
+          "filename": "1951.276_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.276/1951.276_full.tif",
+          "width": "4171",
+          "height": "5600",
+          "filesize": "70103380",
+          "filename": "1951.276_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27182,
+          "description": "Robert John Thornton (British, 1768–1837)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1837",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 133036,
+      "accession_number": "1955.460",
+      "share_license_status": "CC0",
+      "title": "A Collection of Flowers Drawn from Nature:  Large Double China Aster",
+      "creation_date": "1798",
+      "culture": [
+        "England, late 18th-early 19th Century"
+      ],
+      "technique": "etching, hand colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.460",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.460/1955.460_web.jpg",
+          "width": "650",
+          "height": "893",
+          "filesize": "386063",
+          "filename": "1955.460_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.460/1955.460_print.jpg",
+          "width": "2473",
+          "height": "3400",
+          "filesize": "5871316",
+          "filename": "1955.460_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.460/1955.460_full.tif",
+          "width": "4542",
+          "height": "6244",
+          "filesize": "85114580",
+          "filename": "1955.460_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 27061,
+          "description": "John Edwards (British)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 118172,
+      "accession_number": "1939.278",
+      "share_license_status": "CC0",
+      "title": "Marigolds, single Anemone, Jasmine. . . .",
+      "creation_date": "c. 1680–95",
+      "culture": [
+        "France"
+      ],
+      "technique": "etching and engraving, hand colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1939.278",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.278/1939.278_web.jpg",
+          "width": "676",
+          "height": "893",
+          "filesize": "547514",
+          "filename": "1939.278_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.278/1939.278_print.jpg",
+          "width": "2574",
+          "height": "3400",
+          "filesize": "7990900",
+          "filename": "1939.278_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1939.278/1939.278_full.tif",
+          "width": "4446",
+          "height": "5873",
+          "filesize": "78371836",
+          "filename": "1939.278_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 29542,
+          "description": "Jean-Baptiste I Monnoyer (French, c. 1636–1699)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1636",
+          "death_year": "1699",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 122875,
+      "accession_number": "1943.138",
+      "share_license_status": "CC0",
+      "title": "The Roses: China or Bengal Rose",
+      "creation_date": "1817–24",
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "color stipple with watercolor added by hand",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1943.138",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.138/1943.138_web.jpg",
+          "width": "660",
+          "height": "893",
+          "filesize": "408535",
+          "filename": "1943.138_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.138/1943.138_print.jpg",
+          "width": "2513",
+          "height": "3400",
+          "filesize": "6161221",
+          "filename": "1943.138_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.138/1943.138_full.tif",
+          "width": "4482",
+          "height": "6064",
+          "filesize": "81570988",
+          "filename": "1943.138_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 13989,
+          "description": "Henri Joseph Redouté (French, 1766–1853)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1766",
+          "death_year": "1853",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 41016,
+          "description": "Bessin (French)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 68795,
+          "description": "Pierre-Joseph Redouté",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 133043,
+      "accession_number": "1955.467",
+      "share_license_status": "CC0",
+      "title": "Bouquet",
+      "creation_date": "c. 1680–95",
+      "culture": [
+        "France"
+      ],
+      "technique": "etching and engraving, hand colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.467",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.467/1955.467_web.jpg",
+          "width": "690",
+          "height": "893",
+          "filesize": "529772",
+          "filename": "1955.467_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.467/1955.467_print.jpg",
+          "width": "2628",
+          "height": "3400",
+          "filesize": "7939082",
+          "filename": "1955.467_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.467/1955.467_full.tif",
+          "width": "4674",
+          "height": "6047",
+          "filesize": "84827664",
+          "filename": "1955.467_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 29542,
+          "description": "Jean-Baptiste I Monnoyer (French, c. 1636–1699)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1636",
+          "death_year": "1699",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132623,
+      "accession_number": "1955.147",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed:  Stately Crinum",
+      "creation_date": "1823",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.147",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.147/1955.147_web.jpg",
+          "width": "1103",
+          "height": "893",
+          "filesize": "701813",
+          "filename": "1955.147_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.147/1955.147_print.jpg",
+          "width": "3400",
+          "height": "2753",
+          "filesize": "5963582",
+          "filename": "1955.147_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.147/1955.147_full.tif",
+          "width": "4592",
+          "height": "3718",
+          "filesize": "51251292",
+          "filename": "1955.147_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33868,
+          "description": "S. Curtis (British)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 128484,
+      "accession_number": "1951.419",
+      "share_license_status": "CC0",
+      "title": "Collection of Flowers and Fruits Painted after Nature:  Bouquet of Foxglove, Clematis, Pansy, Peony, Poppy, and Yellow Day Lily",
+      "creation_date": "1805",
+      "culture": [
+        "France, late 18th-early 19th Century"
+      ],
+      "technique": "color stipple with watercolor added by hand",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1951.419",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.419/1951.419_web.jpg",
+          "width": "614",
+          "height": "893",
+          "filesize": "394271",
+          "filename": "1951.419_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.419/1951.419_print.jpg",
+          "width": "2337",
+          "height": "3400",
+          "filesize": "5672629",
+          "filename": "1951.419_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.419/1951.419_full.tif",
+          "width": "3912",
+          "height": "5691",
+          "filesize": "66823820",
+          "filename": "1951.419_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 41031,
+          "description": "Louis Charles Ruotte (French, 1754–1806)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1754",
+          "death_year": "1806",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 68354,
+          "description": "Jean Louis Prévost",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 68354,
+          "description": "Jean Louis Prévost",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 133056,
+      "accession_number": "1955.479",
+      "share_license_status": "CC0",
+      "title": "Large Flowering Sensitive Plant, Plate 16",
+      "creation_date": "1799",
+      "culture": [
+        "England, late 18th-early 19th Century"
+      ],
+      "technique": "Etching with printed and hand-applied color, aquatint, stipple, and engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.479",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.479/1955.479_web.jpg",
+          "width": "692",
+          "height": "900",
+          "filesize": "208490",
+          "filename": "1955.479_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.479/1955.479_print.jpg",
+          "width": "2615",
+          "height": "3400",
+          "filesize": "2472244",
+          "filename": "1955.479_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.479/1955.479_full.tif",
+          "width": "4118",
+          "height": "5355",
+          "filesize": "66187256",
+          "filename": "1955.479_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 47615,
+          "description": "Joseph Constantine Stadler (German, active 1780–1822)",
+          "extent": "engraved by",
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 48456,
+          "description": "Philip Reinagle (British, 1749–1833)",
+          "extent": "designed by",
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1749",
+          "death_year": "1833",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 27182,
+          "description": "Robert John Thornton (British, 1768–1837)",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1837",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132617,
+      "accession_number": "1955.141",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed:  Star of Bethlehem",
+      "creation_date": "1794",
+      "culture": [
+        "England, 18th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.141",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.141/1955.141_web.jpg",
+          "width": "1263",
+          "height": "741",
+          "filesize": "609005",
+          "filename": "1955.141_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.141/1955.141_print.jpg",
+          "width": "3400",
+          "height": "1994",
+          "filesize": "4052850",
+          "filename": "1955.141_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.141/1955.141_full.tif",
+          "width": "4685",
+          "height": "2747",
+          "filesize": "38638212",
+          "filename": "1955.141_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33862,
+          "description": "William Curtis (British, 1746–1799)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1746",
+          "death_year": "1799",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132619,
+      "accession_number": "1955.143",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed:  Garden Hyacinth",
+      "creation_date": "1806",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.143",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.143/1955.143_web.jpg",
+          "width": "573",
+          "height": "893",
+          "filesize": "352942",
+          "filename": "1955.143_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.143/1955.143_print.jpg",
+          "width": "2182",
+          "height": "3400",
+          "filesize": "4510612",
+          "filename": "1955.143_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.143/1955.143_full.tif",
+          "width": "2992",
+          "height": "4663",
+          "filesize": "41885288",
+          "filename": "1955.143_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 69437,
+          "description": "Thomas Curtis (British, 1846–1920)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1846",
+          "death_year": "1920",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 134670,
+      "accession_number": "1957.191",
+      "share_license_status": "CC0",
+      "title": "Plantae Selectae:  No. 5 - Anona",
+      "creation_date": "published 1750–73",
+      "culture": [
+        "Germany, 18th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1957.191",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1957.191/1957.191_web.jpg",
+          "width": "647",
+          "height": "893",
+          "filesize": "409254",
+          "filename": "1957.191_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1957.191/1957.191_print.jpg",
+          "width": "2463",
+          "height": "3400",
+          "filesize": "6395432",
+          "filename": "1957.191_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1957.191/1957.191_full.tif",
+          "width": "4014",
+          "height": "5542",
+          "filesize": "66770552",
+          "filename": "1957.191_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 1310,
+          "description": "Georg Dionysius Ehret (German, 1708–1770)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1708",
+          "death_year": "1770",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 25967,
+          "description": "Christopher Jacob Trew (German, 1695–1769)",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1695",
+          "death_year": "1769",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 134671,
+      "accession_number": "1957.192",
+      "share_license_status": "CC0",
+      "title": "Plantae Selectae:  No. 37 - Yucca",
+      "creation_date": "published 1750–73",
+      "culture": [
+        "Germany, 18th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1957.192",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1957.192/1957.192_web.jpg",
+          "width": "601",
+          "height": "893",
+          "filesize": "403169",
+          "filename": "1957.192_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1957.192/1957.192_print.jpg",
+          "width": "2287",
+          "height": "3400",
+          "filesize": "6218583",
+          "filename": "1957.192_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1957.192/1957.192_full.tif",
+          "width": "4200",
+          "height": "6244",
+          "filesize": "78708364",
+          "filename": "1957.192_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 1310,
+          "description": "Georg Dionysius Ehret (German, 1708–1770)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1708",
+          "death_year": "1770",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 25967,
+          "description": "Christopher Jacob Trew (German, 1695–1769)",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1695",
+          "death_year": "1769",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 129376,
+      "accession_number": "1952.213",
+      "share_license_status": "CC0",
+      "title": "The American Cowslip, Plate 26",
+      "creation_date": "1801",
+      "culture": [
+        "England, late 18th-early 19th Century"
+      ],
+      "technique": "Etching with printed and hand-applied color, aquatint, stipple, and engraving",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1952.213",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.213/1952.213_web.jpg",
+          "width": "682",
+          "height": "900",
+          "filesize": "209599",
+          "filename": "1952.213_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.213/1952.213_print.jpg",
+          "width": "2578",
+          "height": "3400",
+          "filesize": "2627576",
+          "filename": "1952.213_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.213/1952.213_full.tif",
+          "width": "4089",
+          "height": "5392",
+          "filesize": "66173852",
+          "filename": "1952.213_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 674094,
+          "description": "Thomas Warner (English, active 1790–1828)",
+          "extent": "engraved by",
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 674090,
+          "description": "Peter Charles Henderson (British, 1771–1829)",
+          "extent": "designed by",
+          "qualifier": "after",
+          "role": "artist",
+          "biography": "British painter, active 1799, died 1829",
+          "name_in_original_language": null,
+          "birth_year": "1771",
+          "death_year": "1829",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 27182,
+          "description": "Robert John Thornton (British, 1768–1837)",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1837",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132622,
+      "accession_number": "1955.146",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed:  The Mountain Lake Lily",
+      "creation_date": "1827",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.146",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.146/1955.146_web.jpg",
+          "width": "651",
+          "height": "893",
+          "filesize": "435238",
+          "filename": "1955.146_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.146/1955.146_print.jpg",
+          "width": "2479",
+          "height": "3400",
+          "filesize": "5632452",
+          "filename": "1955.146_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.146/1955.146_full.tif",
+          "width": "3558",
+          "height": "4879",
+          "filesize": "52110252",
+          "filename": "1955.146_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33868,
+          "description": "S. Curtis (British)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163993,
+      "accession_number": "2005.335",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed: Plate 931, Phytolacca Decandra. Virginian Poke. [Phytolaca Americana] ",
+      "creation_date": "1806",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "engraving with hand coloring",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2005.335",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.335/2005.335_web.jpg",
+          "width": "579",
+          "height": "900",
+          "filesize": "264658",
+          "filename": "2005.335_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.335/2005.335_print.jpg",
+          "width": "2187",
+          "height": "3400",
+          "filesize": "3080536",
+          "filename": "2005.335_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.335/2005.335_full.tif",
+          "width": "8558",
+          "height": "13304",
+          "filesize": "341595088",
+          "filename": "2005.335_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 53337,
+          "description": "Francis Sansom (British, 1815)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1815",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 69437,
+          "description": "Thomas Curtis (British, 1846–1920)",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1846",
+          "death_year": "1920",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 53340,
+          "description": "Sydenham Edwards (British, 1768–1819)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1819",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 380083,
+      "accession_number": "2020.165",
+      "share_license_status": "CC0",
+      "title": "Pomona Britannica: No. 74 - Figs",
+      "creation_date": "1807, published 1812",
+      "culture": [
+        "England"
+      ],
+      "technique": "aquatint and stipple engraving printed in color and hand colored on thick wove paper",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2020.165",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.165/2020.165_web.jpg",
+          "width": "687",
+          "height": "900",
+          "filesize": "292029",
+          "filename": "2020.165_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.165/2020.165_print.jpg",
+          "width": "2595",
+          "height": "3400",
+          "filesize": "4375950",
+          "filename": "2020.165_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.165/2020.165_full.tif",
+          "width": "6295",
+          "height": "8249",
+          "filesize": "155811336",
+          "filename": "2020.165_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 380747,
+          "description": "Richard Brookshaw (British, 1736–1810)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "British engraver and draftsman, 1736-ca. 1804",
+          "name_in_original_language": null,
+          "birth_year": "1736",
+          "death_year": "1810",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 380085,
+      "accession_number": "2020.167",
+      "share_license_status": "CC0",
+      "title": "Pomona Britannica: No. 72 - Amicua (Melon)",
+      "creation_date": "published 1812",
+      "culture": [
+        "England"
+      ],
+      "technique": "aquatint and stipple engraving printed in color and hand colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2020.167",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.167/2020.167_web.jpg",
+          "width": "700",
+          "height": "900",
+          "filesize": "286490",
+          "filename": "2020.167_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.167/2020.167_print.jpg",
+          "width": "2644",
+          "height": "3400",
+          "filesize": "3412229",
+          "filename": "2020.167_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.167/2020.167_full.tif",
+          "width": "6606",
+          "height": "8496",
+          "filesize": "168404820",
+          "filename": "2020.167_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 26985,
+          "description": "George Brookshaw (British, 1751–1823)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1751",
+          "death_year": "1823",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 380084,
+      "accession_number": "2020.166",
+      "share_license_status": "CC0",
+      "title": "Pomona Britannica: No. 33 - Peaches",
+      "creation_date": "1805, published 1812",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "aquatint and stipple engraving printed in color and hand colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2020.166",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.166/2020.166_web.jpg",
+          "width": "685",
+          "height": "900",
+          "filesize": "292929",
+          "filename": "2020.166_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.166/2020.166_print.jpg",
+          "width": "2588",
+          "height": "3400",
+          "filesize": "3882469",
+          "filename": "2020.166_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.166/2020.166_full.tif",
+          "width": "6151",
+          "height": "8081",
+          "filesize": "149148980",
+          "filename": "2020.166_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 26985,
+          "description": "George Brookshaw (British, 1751–1823)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1751",
+          "death_year": "1823",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163990,
+      "accession_number": "2005.332",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed: Plate 883, Euphorbia Petiolaris. Long -Stalked Spurge ",
+      "creation_date": "1805",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "engraving with hand coloring",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2005.332",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.332/2005.332_web.jpg",
+          "width": "579",
+          "height": "900",
+          "filesize": "223747",
+          "filename": "2005.332_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.332/2005.332_print.jpg",
+          "width": "2187",
+          "height": "3400",
+          "filesize": "2712531",
+          "filename": "2005.332_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.332/2005.332_full.tif",
+          "width": "8558",
+          "height": "13304",
+          "filesize": "341593916",
+          "filename": "2005.332_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 53337,
+          "description": "Francis Sansom (British, 1815)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1815",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 69437,
+          "description": "Thomas Curtis (British, 1846–1920)",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1846",
+          "death_year": "1920",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 53340,
+          "description": "Sydenham Edwards (British, 1768–1819)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1819",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 132621,
+      "accession_number": "1955.145",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed:  Smooth-stalked Martagon, Turk's Cap Lily",
+      "creation_date": "1814",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "engraving, hand-colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/1955.145",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.145/1955.145_web.jpg",
+          "width": "543",
+          "height": "893",
+          "filesize": "358782",
+          "filename": "1955.145_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.145/1955.145_print.jpg",
+          "width": "2069",
+          "height": "3400",
+          "filesize": "4552916",
+          "filename": "1955.145_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.145/1955.145_full.tif",
+          "width": "2891",
+          "height": "4750",
+          "filesize": "41227652",
+          "filename": "1955.145_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 33868,
+          "description": "S. Curtis (British)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163992,
+      "accession_number": "2005.334",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed: Plate 929, Symphyum Asperrim. Prickley Comfrey. [Symphytum asperum] ",
+      "creation_date": "1806",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "engraving with hand coloring ",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2005.334",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.334/2005.334_web.jpg",
+          "width": "579",
+          "height": "900",
+          "filesize": "238008",
+          "filename": "2005.334_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.334/2005.334_print.jpg",
+          "width": "2187",
+          "height": "3400",
+          "filesize": "2807181",
+          "filename": "2005.334_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.334/2005.334_full.tif",
+          "width": "8558",
+          "height": "13304",
+          "filesize": "341594636",
+          "filename": "2005.334_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 53337,
+          "description": "Francis Sansom (British, 1815)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1815",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 69437,
+          "description": "Thomas Curtis (British, 1846–1920)",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1846",
+          "death_year": "1920",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 53340,
+          "description": "Sydenham Edwards (British, 1768–1819)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1819",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163994,
+      "accession_number": "2005.336",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed: Plate 933, Protea mucronifolia. Dagger-Leaved Protea. [Protea odorata] ",
+      "creation_date": "1806",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "engraving with hand coloring",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2005.336",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.336/2005.336_web.jpg",
+          "width": "579",
+          "height": "900",
+          "filesize": "255257",
+          "filename": "2005.336_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.336/2005.336_print.jpg",
+          "width": "2187",
+          "height": "3400",
+          "filesize": "2789344",
+          "filename": "2005.336_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.336/2005.336_full.tif",
+          "width": "8558",
+          "height": "13304",
+          "filesize": "341594720",
+          "filename": "2005.336_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 53337,
+          "description": "Francis Sansom (British, 1815)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1815",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 69437,
+          "description": "Thomas Curtis (British, 1846–1920)",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1846",
+          "death_year": "1920",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 53340,
+          "description": "Sydenham Edwards (British, 1768–1819)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1819",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 380086,
+      "accession_number": "2020.168",
+      "share_license_status": "CC0",
+      "title": "Pomona Britannica: No. 10 - Cherries",
+      "creation_date": "1805, published 1812",
+      "culture": [
+        "England"
+      ],
+      "technique": "aquatint and stipple engraving printed in color and hand colored",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2020.168",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.168/2020.168_web.jpg",
+          "width": "691",
+          "height": "900",
+          "filesize": "282459",
+          "filename": "2020.168_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.168/2020.168_print.jpg",
+          "width": "2611",
+          "height": "3400",
+          "filesize": "3584534",
+          "filename": "2020.168_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.168/2020.168_full.tif",
+          "width": "6328",
+          "height": "8239",
+          "filesize": "156439820",
+          "filename": "2020.168_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 26985,
+          "description": "George Brookshaw (British, 1751–1823)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1751",
+          "death_year": "1823",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 0
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163991,
+      "accession_number": "2005.333",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed: Plate 892, Althaea Flexuosa. Seringapatam A Hollyhock . [Althea rosea] ",
+      "creation_date": "1805",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "engraving with hand coloring",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2005.333",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.333/2005.333_web.jpg",
+          "width": "579",
+          "height": "900",
+          "filesize": "241292",
+          "filename": "2005.333_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.333/2005.333_print.jpg",
+          "width": "2187",
+          "height": "3400",
+          "filesize": "2955236",
+          "filename": "2005.333_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.333/2005.333_full.tif",
+          "width": "8558",
+          "height": "13304",
+          "filesize": "341594060",
+          "filename": "2005.333_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 53337,
+          "description": "Francis Sansom (British, 1815)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1815",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 69437,
+          "description": "Thomas Curtis (British, 1846–1920)",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1846",
+          "death_year": "1920",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 53340,
+          "description": "Sydenham Edwards (British, 1768–1819)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1819",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163996,
+      "accession_number": "2005.338",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed: Plate 966, Erica Elegans. Elegant Heath [Erica glauca]",
+      "creation_date": "1806",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "engraving with hand coloring",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2005.338",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.338/2005.338_web.jpg",
+          "width": "579",
+          "height": "900",
+          "filesize": "238716",
+          "filename": "2005.338_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.338/2005.338_print.jpg",
+          "width": "2187",
+          "height": "3400",
+          "filesize": "2800823",
+          "filename": "2005.338_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.338/2005.338_full.tif",
+          "width": "8558",
+          "height": "13304",
+          "filesize": "341593456",
+          "filename": "2005.338_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 53337,
+          "description": "Francis Sansom (British, 1815)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1815",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 69437,
+          "description": "Thomas Curtis (British, 1846–1920)",
+          "extent": null,
+          "qualifier": null,
+          "role": "published by",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1846",
+          "death_year": "1920",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 53340,
+          "description": "Sydenham Edwards (British, 1768–1819)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1819",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "has_conservation_images": false
+    },
+    {
+      "id": 163995,
+      "accession_number": "2005.337",
+      "share_license_status": "CC0",
+      "title": "The Botanical Magazine or Flower Garden Displayed: Plate 944, Dillwynia Glaberrima. Smooth-Leaved Dillwynnia. [Dillwynia ericifolia gaberrima] ",
+      "creation_date": "1806",
+      "culture": [
+        "England, 19th century"
+      ],
+      "technique": "engraving with hand coloring ",
+      "type": "Print",
+      "url": "https://clevelandart.org/art/2005.337",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.337/2005.337_web.jpg",
+          "width": "579",
+          "height": "900",
+          "filesize": "225221",
+          "filename": "2005.337_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.337/2005.337_print.jpg",
+          "width": "2187",
+          "height": "3400",
+          "filesize": "2631893",
+          "filename": "2005.337_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2005.337/2005.337_full.tif",
+          "width": "8558",
+          "height": "13304",
+          "filesize": "341593352",
+          "filename": "2005.337_full.tif"
+        }
+      },
+      "creators": [
+        {
+          "id": 53337,
+          "description": "Francis Sansom (British, 1815)",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1815",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 1
+        },
+        {
+          "id": 53340,
+          "description": "Sydenham Edwards (British, 1768–1819)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1768",
+          "death_year": "1819",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        },
+        {
+          "id": 69437,
+          "description": "Thomas Curtis (British, 1846–1920)",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1846",
+          "death_year": "1920",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "has_conservation_images": false
+    }
+  ]
+}

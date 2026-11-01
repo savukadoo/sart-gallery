@@ -1,0 +1,23 @@
+.local/
+.venv/
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.env
+.env.*
+*.p12
+*.pem
+*.key
+*.mobileconfig
+*.sqlite3
+*.db
+*.wgt
+
+# Local hardware inventories, report generators and per-device QA are private.
+/tools/render_engineering_handover.py
+/tools/render_publication_audit.py
+/tools/render_security_remediation.py
+/tools/discover_frame.py
+/tests/tv-*.mjs
