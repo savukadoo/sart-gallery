@@ -6,7 +6,15 @@
     "__init__.py": "d30c0fbe9194d2c1faf6e42930046e06fab152bcbb98f64cfb21c0b170a5a16e",
     "sdb.py": "03d116d9c15b1104b4988ee56b806b9c867d558384ab86ee762768507e4fabc0",
     "signer.py": "02cc15a0a7ea97de3efc7c7aa6afe272f41f197921a5de7a631dbea920fc78de",
-    "certs.py": "a72e7321f2d19192ffdf6f14849ef788a980b74bca85119c1aed98a4a903c631",
+    "certs.py": "a6822b4603549db2ff131fac47980cb61bea4674279136d0e91726566b5a1e13",
     "catalog.py": "8c6fee24f05550ba651f1d0e0c712e816c7bd1165566a6d2b519af798851199c"
-  }
+  },
+  "modifications": [
+    {
+      "file": "certs.py",
+      "upstreamSha256": "a72e7321f2d19192ffdf6f14849ef788a980b74bca85119c1aed98a4a903c631",
+      "reference": "https://github.com/helalaou/AeroTizen/blob/a7686296298b682a6c226c50a4fae50430826c3e/cli/src/aerotizen/certs.py",
+      "changes": "Backport resilient sign-in callbacks with fresh state, bounded requests and validated token fields. Keep resumable sign-in through an explicit state parameter and bound each request by the session deadline."
+    }
+  ]
 }

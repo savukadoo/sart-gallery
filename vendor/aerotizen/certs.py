@@ -4,13 +4,16 @@ Samsung TVs only run sideloaded apps signed with certificates issued by Samsung'
 developer CA. This does what Tizen Studio's Certificate Manager does: sign in to a
 Samsung account in the browser, send two CSRs, and package the results as .p12.
 Flow and endpoints follow the MIT-licensed Apps2Samsung project.
+SART patches the local callback handling; see PROVENANCE.json.
 """
 
 import http.server
 import json
 import os
 import secrets
+import socket
 import threading
+import time
 import urllib.parse
 import urllib.request
 import uuid
@@ -24,56 +27,106 @@ from cryptography.x509.oid import NameOID
 
 SIGNIN_GATE = "https://account.samsung.com/accounts/be1dce529476c1a6d407c4c7578c31bd/signInGate"
 CLIENT_ID = "v285zxnl3h"
-STATE = "accountcheckdogeneratedstatetext"
 CALLBACK_PORT = 4794
 CALLBACK_PATH = "/signin/callback"
+SIGN_IN_TIMEOUT_SECONDS = 300
+CALLBACK_READ_TIMEOUT_SECONDS = 5
+MAX_CALLBACK_BYTES = 64 * 1024
 AUTHOR_URL = "https://svdca.samsungqbe.com/apis/v3/authors"
 DIST_V1_URL = "https://svdca.samsungqbe.com/apis/v1/distributors"
 DIST_V3_URL = "https://svdca.samsungqbe.com/apis/v3/distributors"
 CA_DIR = os.path.join(os.path.dirname(__file__), "ca")
 
 
-def samsung_login(timeout=300):
+def samsung_login(timeout=SIGN_IN_TIMEOUT_SECONDS, *, state=None):
     """Open Samsung's sign-in page and wait for the browser to post the token back."""
     result = {}
+    state = secrets.token_urlsafe(32) if state is None else state
+    deadline = time.monotonic() + timeout
 
     class Handler(http.server.BaseHTTPRequestHandler):
+        def setup(self):
+            super().setup()
+            remaining = max(0.01, deadline - time.monotonic())
+            budget = min(CALLBACK_READ_TIMEOUT_SECONDS, remaining)
+            self.connection.settimeout(budget)
+            self.read_timer = threading.Timer(budget, self.close_slow_client)
+            self.read_timer.daemon = True
+            self.read_timer.start()
+
+        def close_slow_client(self):
+            try:
+                self.connection.shutdown(socket.SHUT_RDWR)
+            except OSError:
+                pass
+
+        def finish(self):
+            try:
+                super().finish()
+            finally:
+                self.read_timer.cancel()
+
         def do_POST(self):
             if self.path != CALLBACK_PATH:
                 self.send_error(404)
                 return
-            body = self.rfile.read(int(self.headers.get("Content-Length", 0))).decode()
-            form = urllib.parse.parse_qs(body)
-            ok = form.get("state", [""])[0] == STATE and "code" in form
+            try:
+                lengths = self.headers.get_all("Content-Length", [])
+                if len(lengths) != 1 or not lengths[0].isdigit() or self.headers.get("Transfer-Encoding"):
+                    raise ValueError("Invalid callback framing")
+                length = int(lengths[0])
+                if not 0 < length <= MAX_CALLBACK_BYTES:
+                    raise ValueError("Invalid callback size")
+                body = self.rfile.read(length)
+                if len(body) != length:
+                    raise ValueError("Incomplete callback")
+                form = urllib.parse.parse_qs(body.decode(), max_num_fields=32)
+                states, codes = form.get("state", []), form.get("code", [])
+                if len(states) != 1 or len(codes) != 1:
+                    raise ValueError("Invalid callback fields")
+                auth = json.loads(codes[0])
+                ok = (
+                    secrets.compare_digest(states[0], state)
+                    and isinstance(auth, dict)
+                    and all(
+                        isinstance(auth.get(key), str) and bool(auth[key].strip())
+                        for key in ("access_token", "userId")
+                    )
+                )
+            except (OSError, ValueError, KeyError, TypeError, RecursionError):
+                ok = False
             if ok:
-                result.update(json.loads(form["code"][0]))
-            self.send_response(200 if ok else 400)
-            self.send_header("Content-Type", "text/html; charset=utf-8")
-            self.end_headers()
-            self.wfile.write(
-                (
-                    "<h2 style='font-family:sans-serif'>Signed in. You can close this tab.</h2>"
-                    if ok
-                    else "Sign-in failed. Close this tab and try again."
-                ).encode()
-            )
+                result.update(auth)
+            response = (
+                "<h2 style='font-family:sans-serif'>Signed in. You can close this tab.</h2>"
+                if ok
+                else "Sign-in failed. Close this tab and try again."
+            ).encode()
+            try:
+                self.send_response(200 if ok else 400)
+                self.send_header("Content-Type", "text/html; charset=utf-8")
+                self.send_header("Content-Length", str(len(response)))
+                self.send_header("Cache-Control", "no-store")
+                self.end_headers()
+                self.wfile.write(response)
+            except OSError:
+                pass
 
         def log_message(self, *args):
             pass
 
-    server = http.server.HTTPServer(("localhost", CALLBACK_PORT), Handler)
-    redirect = f"http://localhost:{CALLBACK_PORT}{CALLBACK_PATH}"
-    url = (
-        f"{SIGNIN_GATE}?locale=&clientId={CLIENT_ID}&redirect_uri={urllib.parse.quote(redirect, safe='')}"
-        f"&state={STATE}&tokenType=TOKEN"
-    )
-    server.timeout = timeout
-    print("Opening Samsung sign-in in your browser...\n  " + url)
-    webbrowser.open(url)
-    thread = threading.Thread(target=server.handle_request)
-    thread.start()
-    thread.join(timeout)
-    server.server_close()
+    with http.server.HTTPServer(("localhost", CALLBACK_PORT), Handler) as server:
+        redirect = f"http://localhost:{server.server_address[1]}{CALLBACK_PATH}"
+        url = (
+            f"{SIGNIN_GATE}?locale=&clientId={CLIENT_ID}&redirect_uri={urllib.parse.quote(redirect, safe='')}"
+            f"&state={state}&tokenType=TOKEN"
+        )
+        print("Opening Samsung sign-in in your browser...\n  " + url)
+        if not webbrowser.open(url):
+            raise SystemExit("Could not open Samsung sign-in in your browser.")
+        while not result and time.monotonic() < deadline:
+            server.timeout = min(1, max(0, deadline - time.monotonic()))
+            server.handle_request()
     if not result.get("access_token"):
         raise SystemExit("Samsung sign-in did not complete.")
     return result

@@ -18,7 +18,7 @@ At expiry, an invalid TV clock, missing identity, changed IP, failed CryptoKey p
 
 ## TLS and bounds
 
-The locally bundled `tls.wasm` uses Mbed TLS 3.6.7 with TLS 1.2 only and `TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256`. Entropy comes only from worker WebCrypto `getRandomValues`; failure aborts. TLS 1.0/1.1, RSA transport, CBC, client renegotiation, session tickets and plaintext are not enabled. Clients authenticate the TV with its certificate; existing code/QR pairing and explicit TV approval authorise the uploading device.
+The locally bundled `tls.wasm` uses Mbed TLS 3.6.8 with TLS 1.2 only and `TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256`. Entropy comes only from worker WebCrypto `getRandomValues`; failure aborts. TLS 1.0/1.1, RSA transport, CBC, client renegotiation, session tickets and plaintext are not enabled. Clients authenticate the TV with its certificate; existing code/QR pairing and explicit TV approval authorise the uploading device.
 
 The C adapter has eight connection slots, bounded 64 KiB input/output memory BIO queues per slot, 16 KiB records and a 32 MiB WASM memory ceiling. The JS adapter handles socket EAGAIN, fragmented TLS records, partial writes, clean shutdown and twelve-second connection deadlines. Strict HTTP framing, Host/HTTPS Origin checking, CSRF restrictions, API bearer/client binding, five code attempts/minute and ten-minute session expiry remain in place. The TLS endpoint provides no saved-photo listing/read route and no plaintext route. The separate public setup listener has at most two clients, 8 KiB request bounds and eight-second deadlines; it never exposes the pairing token, private key or uploaded artwork.
 
@@ -28,7 +28,7 @@ Old PC library records/photos are preserved. The TV rejects HTTP library origins
 
 Official archives, verified before extraction:
 
-- [Mbed TLS 3.6.7](https://github.com/Mbed-TLS/mbedtls/releases/download/mbedtls-3.6.7/mbedtls-3.6.7.tar.bz2), SHA-256 `a7e8bcbec0e6f761b4af24f25677626b35f762f68eef79c08677a363212d11f6`.
+- [Mbed TLS 3.6.8](https://github.com/Mbed-TLS/mbedtls/releases/download/mbedtls-3.6.8/mbedtls-3.6.8.tar.bz2), SHA-256 `bc54b818e87f49c0b3281dd85d24adaede0e63b4e822e3fbd49c005a38b9595b`.
 - [WASI SDK 34 ARM Mac](https://github.com/WebAssembly/wasi-sdk/releases/download/wasi-sdk-34/wasi-sdk-34.0-arm64-macos.tar.gz), SHA-256 `9c59398106b417f8f14913380fdf0097a8cc0ff4af9eb3ce0065a859e88d49e9`.
 
 Extract under `.local/tls-build/mbedtls` and `.local/tls-build/wasi`, then run `python3 tools/build_tls.py`. Config/adapter source is in `tools/tls/`. Archive locations can be supplied as flags. Four compiler jobs are used. The WASM imports only `sart.random`. Mbed TLS is used under Apache-2.0; its full license and provenance/hash are bundled. The resulting WASM is about 97 kB before package compression. Samsung's old Intel-only Emscripten binary is not needed on this ARM Mac; Samsung's socket engine backend remains the existing dedicated-worker transport.

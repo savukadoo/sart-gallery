@@ -1,42 +1,42 @@
 # SART Gallery
 
-**Your art. A quieter screen.**
+SART Gallery lets you display art and your own photos on a Samsung TV. Browse with the remote, pick a picture to leave on screen, or start a slideshow.
 
-Bring art and your own photographs to your Samsung Tizen TV. Choose from 60 included artworks, build your own collections, and give each image the right frame, mat and light. Use the TV remote to browse, settle on a favourite, or let a slideshow fill the room.
-
-SART Gallery saves your collection on the TV, with no advertising, analytics or cloud photo account. Send photos directly from a phone or computer over your home network, or discover public-domain art from supported sources.
+It comes with 60 artworks in four collections. You can add your own photos from a phone or computer, search for more art in the app, and organise everything into collections of your own. Pictures are saved on the TV and stay available offline. There are no ads or analytics.
 
 [![CI](https://github.com/savukadoo/sart-gallery/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/savukadoo/sart-gallery/actions/workflows/ci.yml) · [AGPL-3.0-only](LICENSE) · [Help](SUPPORT.md) · [Contributing](CONTRIBUTING.md)
 
 ![Browse named collections in SART Gallery](design/screenshots/collections.jpg)
-
-*Browse your collections with the TV remote. Included artwork is available offline.*
 
 <p>
   <img src="design/screenshots/artwork.jpg" width="49%" alt="Artwork displayed with a frame and warm paper mat">
   <img src="design/screenshots/frame-and-mat.jpg" width="49%" alt="Remote-friendly frame and mat controls beside the artwork">
 </p>
 
-*A quiet artwork display, with frames, paper colours and bevels you can adjust to suit the room. These are real browser-preview screenshots using included artwork and a disposable demo library; native TV features require hardware validation.*
+*The collection browser, artwork display and frame controls, shown in the browser preview.*
 
-## Features
+## What you can do
 
-- Four collections of 15 artworks: Light & Water, Japan & China, Botanical Cabinet, and Shape & Colour.
-- Remote/D-pad navigation, favourites, named collections, moving images between collections and bulk upload management.
-- Frames, muted mat colours, thin/thick bevels, Fit/Fill, brightness and contrast adjustments.
-- Slideshow timer, order, transitions and optional gentle pan and zoom.
-- Find art from enabled museum/Artvee sources, five recent searches, batch downloads and custom Wikimedia Commons categories.
-- Phone and computer uploads through the TV-hosted HTTPS page and encrypted WebRTC transfers. A separate always-on computer is not required for ordinary direct uploads.
-- Optional Samsung Art Mode integration on supported Frame models. Native capability is checked before offering the feature; Samsung's Art Mode manages its own display and power settings.
-- No advertising or analytics. Uploaded display copies omit location metadata.
+- Browse Light & Water, Japan & China, Botanical Cabinet, and Shape & Colour. Each collection has 15 artworks.
+- Scan the TV's QR code to send photos from a phone or computer on the same home Wi-Fi. You can add them to an existing collection or create a new one.
+- Save favourites, move pictures between collections, and select several images to download or remove together.
+- Choose a frame, mat colour and thin or thick bevel. Adjust the image fit, brightness and contrast.
+- Set how long each picture stays on screen, choose a transition, and add gentle pan and zoom to a slideshow.
+- Search the National Gallery of Art collection through Wikimedia Commons, The Metropolitan Museum of Art, and Artvee. You can also add Wikimedia Commons categories as search sources.
+
+On supported Samsung Frame TVs, you can send pictures to Samsung Art Mode and manage the photos saved in Samsung's My Photos library. You can include your SART frame and mat in the picture you send. Samsung then handles the Art Mode display and power settings.
+
+Photo uploads go directly to the TV over an encrypted connection. First-time setup includes installing and trusting the TV's certificate on your phone or computer. The app walks you through this from **Add photos**. Uploaded display copies have location metadata removed.
 
 ## Compatibility
 
-One web-widget package targets Tizen 6.5 and newer, using an ES2020 syntax baseline. Optional APIs are detected at runtime. Availability of native Art Mode, sockets and other platform services varies by model and firmware; successful installation alone is not feature acceptance.
+SART is built for Samsung TVs running Tizen 6.5 or newer. One app package covers the supported versions, and the app checks for optional features as it starts. Art Mode integration and direct uploads depend on the TV model and firmware.
 
-See [platform compatibility](design/tizen-compatibility.md), [native Art design](design/native-art.md), and the [engineering guide](design/engineering-handover.html). These public documents contain generic procedures and capability limits. Device inventories, deployment history, identifiers and personal network configuration are private local records.
+Installation uses Samsung's Developer Mode and requires a signing certificate for your TV. The installation tool currently accepts the models registered in its model list. Check the installation instructions below before setting up another TV.
 
-SART is an independent project. It is not affiliated with Samsung, and is not an official Samsung Art Store client. Installing a development build requires Developer Mode and Samsung-issued signing certificates. Ordinary direct photo uploads do not require a running computer or developer connection.
+For technical details, see the platform compatibility notes, native Art guide and engineering guide. SART Gallery is an independent project.
+
+[Platform compatibility](design/tizen-compatibility.md) · [Samsung Art Mode](design/native-art.md) · [Engineering guide](design/engineering-handover.html)
 
 ## Local preview
 
@@ -102,9 +102,9 @@ The widget and source archive contain the licence texts and artwork notices. Whe
 
 ## TLS source and rebuilding
 
-The checked-in TLS WebAssembly files are built from Mbed TLS 3.6.7 and SART's adapters/configuration under `tools/tls/`.
+The checked-in TLS WebAssembly files are built from Mbed TLS 3.6.8 and SART's adapters/configuration under `tools/tls/`.
 
-1. Obtain the [official Mbed TLS 3.6.7 archive](https://github.com/Mbed-TLS/mbedtls/releases/download/mbedtls-3.6.7/mbedtls-3.6.7.tar.bz2), SHA-256 `a7e8bcbec0e6f761b4af24f25677626b35f762f68eef79c08677a363212d11f6`. Extract into `.local/tls-build/mbedtls/mbedtls-3.6.7` and retain the archive at `/private/tmp/sart-mbedtls.tar.bz2` for hash checks.
+1. Obtain the [official Mbed TLS 3.6.8 archive](https://github.com/Mbed-TLS/mbedtls/releases/download/mbedtls-3.6.8/mbedtls-3.6.8.tar.bz2), SHA-256 `bc54b818e87f49c0b3281dd85d24adaede0e63b4e822e3fbd49c005a38b9595b`. Extract into `.local/tls-build/mbedtls/mbedtls-3.6.8` and retain the archive at `/private/tmp/sart-mbedtls-3.6.8.tar.bz2` for hash checks.
 2. Obtain [WASI SDK 34.0 for ARM macOS](https://github.com/WebAssembly/wasi-sdk/releases/download/wasi-sdk-34/wasi-sdk-34.0-arm64-macos.tar.gz), SHA-256 `9c59398106b417f8f14913380fdf0097a8cc0ff4af9eb3ce0065a859e88d49e9`. Extract into `.local/tls-build/wasi/`. Runtime revisions and notices are in `LICENSES/provenance.json`.
 3. Run `.venv/bin/python tools/build_tls.py` and `.venv/bin/python tools/build_native_art_tls.py`, then rebuild the widget.
 

@@ -4,6 +4,7 @@ import datetime
 import sys
 import tempfile
 import unittest
+import urllib.parse
 from unittest.mock import patch, MagicMock
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -20,6 +21,28 @@ from cryptography.x509.oid import NameOID
 
 
 class DevelopmentIdentityTests(unittest.TestCase):
+    def test_cli_resumes_the_saved_sign_in_state(self):
+        resumed = 'a-valid-state-from-an-existing-sign-in-link'
+        query = urllib.parse.urlencode({
+            'state': resumed, 'redirect_uri': 'http://localhost:4794/signin/callback'})
+        connection = MagicMock()
+        connection.__enter__.return_value.duid.return_value = 'test-tv'
+        with tempfile.TemporaryDirectory() as temporary:
+            base = Path(temporary)
+            (base / '.local').mkdir()
+            (base / '.local/samsung-sign-in-url.txt').write_text(
+                tv.certs.SIGNIN_GATE + '?' + query)
+            with patch.object(tv, 'ROOT', base), \
+                    patch.object(tv, 'device', return_value=connection), \
+                    patch.object(tv.certs, 'samsung_login') as login, \
+                    patch.object(tv.certs.webbrowser, 'open'), \
+                    patch.object(tv.certs, 'create_profile',
+                                 side_effect=lambda *_args: tv.certs.samsung_login()), \
+                    patch.object(sys, 'argv', ['tv.py', 'certs', '--tv', '192.0.2.1',
+                                              '--resume-sign-in']):
+                tv.main()
+                login.assert_called_once_with(timeout=1200, state=resumed)
+
     def test_malformed_frame_app_status_does_not_break_sdk_cleanup(self):
         with patch.object(tv_inspector.urllib.request, 'urlopen',
                           side_effect=tv_inspector.http.client.BadStatusLine('HTTP/1.1 65535')):

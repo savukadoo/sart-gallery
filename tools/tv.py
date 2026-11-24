@@ -84,16 +84,16 @@ def main():
             raise RuntimeError('An additional TV must retain the existing app author. Use --reuse-author-from.')
         profile.mkdir(parents=True,exist_ok=True,mode=0o700)
         # Use a fresh OAuth state and leave Samsung authentication to the human.
-        certs.STATE=secrets.token_urlsafe(32)
+        login_state=secrets.token_urlsafe(32)
         previous=ROOT/'.local'/'samsung-sign-in-url.txt'
         if args.resume_sign_in and previous.exists() and time.time()-previous.stat().st_mtime<3600:
             parsed=urllib.parse.urlsplit(previous.read_text().strip())
             query=urllib.parse.parse_qs(parsed.query)
             state=query.get('state',[''])[0]
             if parsed.hostname=='account.samsung.com' and re.fullmatch(r'[A-Za-z0-9_-]{30,100}',state) and query.get('redirect_uri')==['http://localhost:4794/signin/callback']:
-                certs.STATE=state
+                login_state=state
         original_login=certs.samsung_login
-        certs.samsung_login=lambda:original_login(timeout=1200)
+        certs.samsung_login=lambda:original_login(timeout=1200,state=login_state)
         def capture_url(url):
             path=ROOT/'.local'/'samsung-sign-in-url.txt';path.write_text(url+'\n');path.chmod(0o600)
             print('Samsung sign-in URL is ready in .local/samsung-sign-in-url.txt',flush=True)

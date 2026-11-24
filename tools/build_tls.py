@@ -12,12 +12,13 @@ import shutil
 import subprocess
 
 ROOT=Path(__file__).resolve().parents[1]
-PIN='a7e8bcbec0e6f761b4af24f25677626b35f762f68eef79c08677a363212d11f6'
+TLS_VERSION='3.6.8'
+PIN='bc54b818e87f49c0b3281dd85d24adaede0e63b4e822e3fbd49c005a38b9595b'
 def main():
     parser=argparse.ArgumentParser()
     parser.add_argument('--sdk',type=Path,default=ROOT/'.local/tls-build/wasi/wasi-sdk-34.0-arm64-macos')
-    parser.add_argument('--source',type=Path,default=ROOT/'.local/tls-build/mbedtls/mbedtls-3.6.7')
-    parser.add_argument('--archive',type=Path,default=Path('/private/tmp/sart-mbedtls.tar.bz2'))
+    parser.add_argument('--source',type=Path,default=ROOT/f'.local/tls-build/mbedtls/mbedtls-{TLS_VERSION}')
+    parser.add_argument('--archive',type=Path,default=Path(f'/private/tmp/sart-mbedtls-{TLS_VERSION}.tar.bz2'))
     args=parser.parse_args()
     if hashlib.sha256(args.archive.read_bytes()).hexdigest()!=PIN: raise RuntimeError('Mbed TLS archive hash mismatch')
     out=ROOT/'.local/tls-build/objects';out.mkdir(parents=True,exist_ok=True)
@@ -34,7 +35,7 @@ def main():
                     '-Wl,--initial-memory=2097152','-Wl,--max-memory=33554432',*['-Wl,--export='+name for name in exports],'-o',str(target)],check=True)
     license_dir=ROOT/'vendor/mbedtls';license_dir.mkdir(parents=True,exist_ok=True)
     shutil.copy2(args.source/'LICENSE',license_dir/'LICENSE.txt')
-    metadata={'name':'Mbed TLS','version':'3.6.7','license':'Apache-2.0','source':'https://github.com/Mbed-TLS/mbedtls/releases/tag/mbedtls-3.6.7',
+    metadata={'name':'Mbed TLS','version':TLS_VERSION,'license':'Apache-2.0','source':f'https://github.com/Mbed-TLS/mbedtls/releases/tag/mbedtls-{TLS_VERSION}',
               'archiveSha256':PIN,'wasmSha256':hashlib.sha256(target.read_bytes()).hexdigest(),'bytes':target.stat().st_size,
               'protocol':'TLS 1.2','cipher':'ECDHE-ECDSA-AES128-GCM-SHA256','entropy':'WebCrypto getRandomValues','runtimeDownloads':False}
     (ROOT/'app/assets/tls-license.json').write_text(json.dumps(metadata,indent=2)+'\n')

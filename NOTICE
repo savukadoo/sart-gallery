@@ -19,13 +19,13 @@ QR Code Generator for JavaScript — Kazuhiko Arase, copyright 2009.
 MIT; see LICENSES/QR-Code-Generator-MIT.txt and the header in app/qr-vendor.js.
 Source: https://github.com/kazuhikoarase/qrcode-generator
 
-Mbed TLS 3.6.7 — the Mbed TLS contributors.
+Mbed TLS 3.6.8 — the Mbed TLS contributors.
 Used under the Apache-2.0 option of its Apache-2.0 OR GPL-2.0-or-later
 dual licence. The full upstream dual-licence notice is preserved in
 LICENSES/Mbed-TLS.txt, vendor/mbedtls/LICENSE.txt and app/tls-LICENSE.txt.
 SART's C adapters/configuration in tools/tls/ are AGPL-3.0-only; the
 unmodified upstream Mbed TLS source retains its own licence.
-Source: https://github.com/Mbed-TLS/mbedtls/releases/tag/mbedtls-3.6.7
+Source: https://github.com/Mbed-TLS/mbedtls/releases/tag/mbedtls-3.6.8
 Build records: app/assets/tls-license.json and native-art-tls-license.json.
 
 WASI SDK 34.0 supplies the C runtime and compiler builtins linked into the
