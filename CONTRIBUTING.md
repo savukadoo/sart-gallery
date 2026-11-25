@@ -9,12 +9,15 @@ Use Node.js 22 or newer and Python 3.11 or newer. Follow the [README](README.md#
 ```sh
 npm ci --ignore-scripts
 .venv/bin/python -m pip install --require-hashes -r requirements.lock
+.venv/bin/python tools/samsung_ca.py
 .venv/bin/python tools/package_app.py
 npm test
 npm run check
 .venv/bin/python -m unittest discover -s tests -p 'test_*.py'
 .venv/bin/python tools/check_public_privacy.py
 ```
+
+The Samsung prerequisite downloads the pinned official Certificate Extension and verifies the archive, public CA files and licence manifest. Builds and signing helpers use the ignored `.local/samsung-ca/` cache; they never fall back to retained vendor copies. After setup, builds work offline with that verified cache. See the [prerequisite instructions](README.md#samsung-certificate-prerequisite) for licence information, offline setup and cache repair. Prerequisite tests use disposable archives and require no network or Samsung account.
 
 For browser layout and remote-navigation checks:
 

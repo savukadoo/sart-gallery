@@ -9,7 +9,7 @@ The complete, unmodified licence text is in LICENSE.
 This grant does not replace any third-party copyright or licence notice.
 Third-party code keeps the permissions and notices below. Bundled artwork,
 catalogue records, downloaded images and user photos are separate from this
-grant; see ARTWORK-RIGHTS.md. Private keys, certificates, credentials,
+grant; see ARTWORK-RIGHTS.md. Private keys, personal signing certificates, credentials,
 device diagnostics and user data are not granted a redistribution licence.
 
 TV application components
@@ -50,13 +50,26 @@ See vendor/aerotizen/LICENSE, vendor/aerotizen/PROVENANCE.json and
 LICENSES/AeroTizen-MIT.txt. Upstream notices are unchanged.
 Source: https://github.com/helalaou/AeroTizen
 
+Samsung public certificate authorities — Samsung Electronics Co., Ltd.
+The retained files vendor/aerotizen/ca/vd_tizen_dev_author_ca.cer and
+vd_tizen_dev_public2.crt match the Samsung Certificate Extension copies.
+They are separate Samsung material, not licensed by SART's AGPL grant or
+AeroTizen's MIT grant. A redistribution grant for these two files has not
+been established; their retention is not a claim of permission.
+Project builds and signing commands obtain verified copies from Samsung's
+official package and use the ignored .local/samsung-ca/ cache. Downloaded
+SDK material and the cache are excluded from public source bundles.
+The retained vendor copies remain in public source for now and are not a
+fallback for a missing prerequisite. See README for setup and licence terms.
+Source: https://download.tizen.org/sdk/extensions/tizen-certificate-extension_2.0.75.zip
+
 Acorn 8.19.0 — MIT. See LICENSES/Acorn-MIT.txt.
 Pillow 13.0.0 — MIT-CMU plus its bundled codec notices, all preserved
 verbatim in LICENSES/Pillow-LICENSE.txt.
 cryptography 50.0.2 — Apache-2.0 OR BSD-3-Clause; both texts and its
 dual-licence notice are preserved in LICENSES/Cryptography-*.txt.
 cffi 2.1.1 — MIT-0. See LICENSES/CFFI-MIT-0.txt.
-pycparser 3.11 — BSD-3-Clause. See LICENSES/Pycparser-BSD-3-Clause.txt.
+pycparser 3.12 — BSD-3-Clause. See LICENSES/Pycparser-BSD-3-Clause.txt.
 The dependency versions are pinned in package-lock.json/requirements.lock.
 Their copyright holders are identified in the preserved licence texts.
 Python wheels, node_modules, SDKs and their other dependencies are not
@@ -72,8 +85,7 @@ Source/build instructions and pinned TLS source downloads are in README.md.
 When sharing an executable, provide access to the corresponding SART source
 and required third-party source/build materials under AGPLv3 section 6.
 Modified versions supporting remote network interaction must also meet
-AGPLv3 section 13. No public source repository or network source URL has
-been created or asserted by these notices.
+AGPLv3 section 13. Public source: https://github.com/savukadoo/sart-gallery
 
 Samsung's operating system, TV-provided Web APIs and socket runtime are
 platform components, not SART-owned software. No licence to Samsung

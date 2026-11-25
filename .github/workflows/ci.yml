@@ -46,6 +46,8 @@ jobs:
           npm ci --ignore-scripts
       - name: Check public repository boundary and privacy
         run: .venv/bin/python tools/check_repository.py --tracked
+      - name: Download and verify Samsung CA prerequisites
+        run: .venv/bin/python tools/samsung_ca.py
       - name: Build unsigned widget
         run: .venv/bin/python tools/package_app.py
       - name: JavaScript tests
@@ -82,6 +84,8 @@ jobs:
           .venv/bin/python -m pip install --require-hashes -r requirements.lock
           npm ci --ignore-scripts
           npx playwright install --with-deps chromium
+      - name: Download and verify Samsung CA prerequisites
+        run: .venv/bin/python tools/samsung_ca.py
       - name: Build preview
         run: .venv/bin/python tools/package_app.py
       - name: Check both capability layouts and remote navigation

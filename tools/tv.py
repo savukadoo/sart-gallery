@@ -10,6 +10,7 @@ import sys
 import time
 import urllib.parse
 import urllib.request
+from samsung_ca import prepare_samsung_ca
 
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'vendor'))
@@ -82,6 +83,7 @@ def main():
             print('A signing profile already exists for this TV. It will be preserved.');return
         if args.model!=MODEL and not args.reuse_author_from:
             raise RuntimeError('An additional TV must retain the existing app author. Use --reuse-author-from.')
+        ca_directory=prepare_samsung_ca(ROOT)
         profile.mkdir(parents=True,exist_ok=True,mode=0o700)
         # Use a fresh OAuth state and leave Samsung authentication to the human.
         login_state=secrets.token_urlsafe(32)
@@ -93,17 +95,25 @@ def main():
             if parsed.hostname=='account.samsung.com' and re.fullmatch(r'[A-Za-z0-9_-]{30,100}',state) and query.get('redirect_uri')==['http://localhost:4794/signin/callback']:
                 login_state=state
         original_login=certs.samsung_login
+        original_browser=certs.webbrowser.open
+        original_ca=certs.CA_DIR
         certs.samsung_login=lambda:original_login(timeout=1200,state=login_state)
         def capture_url(url):
             path=ROOT/'.local'/'samsung-sign-in-url.txt';path.write_text(url+'\n');path.chmod(0o600)
             print('Samsung sign-in URL is ready in .local/samsung-sign-in-url.txt',flush=True)
             return True
         certs.webbrowser.open=capture_url
-        if args.reuse_author_from:
-            from tv_signing import create_with_existing_author
-            create_with_existing_author(duid,profile,args.reuse_author_from)
-        else:
-            certs.create_profile(duid,str(profile))
+        certs.CA_DIR=str(ca_directory)
+        try:
+            if args.reuse_author_from:
+                from tv_signing import create_with_existing_author
+                create_with_existing_author(duid,profile,args.reuse_author_from)
+            else:
+                certs.create_profile(duid,str(profile))
+        finally:
+            certs.samsung_login=original_login
+            certs.webbrowser.open=original_browser
+            certs.CA_DIR=original_ca
         for path in profile.iterdir():path.chmod(0o600)
         print(f'Samsung-issued signing certificates saved for {args.model}.',flush=True)
         return

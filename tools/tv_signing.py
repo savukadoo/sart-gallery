@@ -11,6 +11,7 @@ from cryptography.hazmat.primitives.serialization import pkcs12
 from cryptography.x509.oid import NameOID
 
 from aerotizen import certs
+from samsung_ca import prepare_samsung_ca
 
 
 def create_with_existing_author(duid, destination, existing_profile, auth=None):
@@ -31,6 +32,7 @@ def create_with_existing_author(duid, destination, existing_profile, auth=None):
             x509.SubjectAlternativeName).value.get_values_for_type(x509.UniformResourceIdentifier):
         if uri.startswith('URN:tizen:deviceid=') and uri not in device_uris:
             device_uris.append(uri)
+    ca_directory = prepare_samsung_ca()
     auth = auth or certs.samsung_login()
     key = rsa.generate_private_key(public_exponent=65537, key_size=2048)
     subject = x509.Name([
@@ -48,7 +50,7 @@ def create_with_existing_author(duid, destination, existing_profile, auth=None):
         raise RuntimeError('Samsung did not authorise all requested owned TVs.')
     if distributor.public_key().public_numbers() != key.public_key().public_numbers():
         raise RuntimeError('The issued distributor certificate does not match its signing key.')
-    dist_ca = certs._load_cert((Path(certs.CA_DIR) / 'vd_tizen_dev_public2.crt').read_bytes())
+    dist_ca = certs._load_cert((ca_directory / 'vd_tizen_dev_public2.crt').read_bytes())
     new_password = secrets.token_urlsafe(18)
     encryption = serialization.BestAvailableEncryption(new_password.encode())
     files = {

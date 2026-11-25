@@ -21,6 +21,28 @@ from cryptography.x509.oid import NameOID
 
 
 class DevelopmentIdentityTests(unittest.TestCase):
+    def test_failed_certificate_creation_restores_helper_state_and_uses_downloaded_ca(self):
+        original_ca, original_login, original_browser = (
+            tv.certs.CA_DIR, tv.certs.samsung_login, tv.certs.webbrowser.open)
+        connection = MagicMock()
+        connection.__enter__.return_value.duid.return_value = 'test-tv'
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            verified_ca = root / '.local/verified-ca'
+            def issue(*_args):
+                self.assertEqual(tv.certs.CA_DIR, str(verified_ca))
+                raise RuntimeError('Fixture creation failed')
+            with patch.object(tv, 'ROOT', root), \
+                    patch.object(tv, 'device', return_value=connection), \
+                    patch.object(tv, 'prepare_samsung_ca', return_value=verified_ca), \
+                    patch.object(tv.certs, 'create_profile', side_effect=issue), \
+                    patch.object(sys, 'argv', ['tv.py', 'certs', '--tv', '192.0.2.1']):
+                with self.assertRaisesRegex(RuntimeError, 'Fixture creation failed'):
+                    tv.main()
+        self.assertEqual(tv.certs.CA_DIR, original_ca)
+        self.assertIs(tv.certs.samsung_login, original_login)
+        self.assertIs(tv.certs.webbrowser.open, original_browser)
+
     def test_cli_resumes_the_saved_sign_in_state(self):
         resumed = 'a-valid-state-from-an-existing-sign-in-link'
         query = urllib.parse.urlencode({
@@ -33,6 +55,7 @@ class DevelopmentIdentityTests(unittest.TestCase):
             (base / '.local/samsung-sign-in-url.txt').write_text(
                 tv.certs.SIGNIN_GATE + '?' + query)
             with patch.object(tv, 'ROOT', base), \
+                    patch.object(tv, 'prepare_samsung_ca', return_value=base / '.local/verified-ca') as prepare, \
                     patch.object(tv, 'device', return_value=connection), \
                     patch.object(tv.certs, 'samsung_login') as login, \
                     patch.object(tv.certs.webbrowser, 'open'), \
@@ -42,6 +65,7 @@ class DevelopmentIdentityTests(unittest.TestCase):
                                               '--resume-sign-in']):
                 tv.main()
                 login.assert_called_once_with(timeout=1200, state=resumed)
+                prepare.assert_called_once_with(base)
 
     def test_malformed_frame_app_status_does_not_break_sdk_cleanup(self):
         with patch.object(tv_inspector.urllib.request, 'urlopen',
@@ -109,7 +133,9 @@ class DevelopmentIdentityTests(unittest.TestCase):
                 uris = csr.extensions.get_extension_for_class(x509.SubjectAlternativeName).value
                 return issue(csr.public_key(), csr.subject, uris.get_values_for_type(
                     x509.UniformResourceIdentifier)).public_bytes(serialization.Encoding.PEM)
-            with patch.object(tv_signing.certs, '_post', side_effect=post):
+            with patch.object(tv_signing.certs, '_post', side_effect=post), \
+                    patch.object(tv_signing, 'prepare_samsung_ca',
+                                 return_value=ROOT / 'vendor/aerotizen/ca'):
                 destination = tv_signing.create_with_existing_author('owned-frame', base / 'frame', source,
                     {'access_token': 'test-token', 'userId': 'test-user', 'inputEmailID': 'test@example.invalid'})
             self.assertNotIn(tv_signing.certs.AUTHOR_URL, requests)

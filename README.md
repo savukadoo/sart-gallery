@@ -50,11 +50,14 @@ npm ci --ignore-scripts
 .venv/bin/python companion/server.py
 ```
 
+The first build downloads and verifies the [Samsung certificate prerequisite](#samsung-certificate-prerequisite). Later builds use the local cache and can run offline.
+
 Open **http://127.0.0.1:8767/preview/**. The optional desktop service listens on loopback for HTTP. LAN/legacy-library service requires explicit HTTPS configuration and an explicit TV allowlist; no personal TV address is embedded in the public defaults. Direct phone/computer uploads use the TV-hosted connection flow.
 
 ## Build and test
 
 ```sh
+.venv/bin/python tools/samsung_ca.py
 .venv/bin/python tools/package_app.py
 npm test
 npm run check
@@ -67,6 +70,23 @@ The builder creates `dist/widget/`, `dist/build.json` and `dist/SART-Gallery-<ve
 Automated tests cover logic, storage, parsing, source management, image processing and local TLS fixtures. Real remote/IME behaviour, display bounds, native Art handoff and physical-phone uploads require separate hardware acceptance. Temporary loopback listeners may need permission in a restricted test environment.
 
 GitHub Actions checks the public repository boundary, runs the JavaScript and Python suites, builds the widget, validates licences and checks reproducibility. A separate browser job checks Settings geometry and remote navigation at two viewport sizes, with and without native Art capability. CodeQL checks JavaScript and Python. CI does not sign or publish packages, create releases or connect to TVs. See [contribution and maintenance guidance](CONTRIBUTING.md).
+
+## Samsung certificate prerequisite
+
+Builds require the two public Samsung CA certificates from the [official Certificate Extension 2.0.75 package](https://download.tizen.org/sdk/extensions/tizen-certificate-extension_2.0.75.zip). Review Samsung's licence terms before using it; the package includes them in `pkg_list_ubuntu-64`.
+
+`tools/samsung_ca.py` downloads the package once (about 44 MB), checks its pinned SHA-256 checksum, and keeps only the two CA certificates and licence manifest. It does not run or install SDK software. The verified files and source record are saved under `.local/samsung-ca/2.0.75/`, which Git and source bundles exclude. Each build checks this cache again. `npm run build` and `tools/package_app.py` prepare it automatically when absent; CI also runs the prerequisite as an explicit step.
+
+To prepare an offline build using a package you already downloaded:
+
+```sh
+.venv/bin/python tools/samsung_ca.py --archive /path/to/tizen-certificate-extension_2.0.75.zip
+.venv/bin/python tools/samsung_ca.py --check
+```
+
+A missing or altered cached file stops the build. Use `--refresh` to download a new verified copy, or supply the official ZIP with `--archive`. An unverified archive is rejected before any cached files are replaced.
+
+The existing public CA copies in `vendor/aerotizen/ca/` remain for now. Project builds and signing commands use the verified download, with no fallback to those retained copies. Samsung's certificates are separate from SART's AGPL code and AeroTizen's MIT code; this prerequisite does not establish redistribution permission for the retained files. It also does not create your personal author/distributor signing profile—that is a separate Samsung sign-in step.
 
 ## Install on a TV
 

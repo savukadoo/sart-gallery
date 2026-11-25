@@ -8,6 +8,7 @@ import re
 import shutil
 import zipfile
 import xml.etree.ElementTree as ET
+from samsung_ca import prepare_samsung_ca
 
 ROOT = Path(__file__).resolve().parents[1]
 VERSION = json.loads((ROOT/'package.json').read_text())['version']
@@ -22,6 +23,7 @@ def script_source(path):
 
 
 def build(library_url=None):
+    prepare_samsung_ca(ROOT)
     widget = DIST/'widget'
     widget.mkdir(parents=True,exist_ok=True)
     source=[]
