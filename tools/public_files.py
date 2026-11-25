@@ -12,7 +12,7 @@ TOP_LEVEL=('README.md','CONTRIBUTING.md','SECURITY.md','SUPPORT.md',
 def public_files(root=ROOT):
     root=Path(root)
     files=[root/name for name in TOP_LEVEL]
-    for folder in ('app','mobile','companion','tools','tests','vendor','LICENSES','design','.github'):
+    for folder in ('app','mobile','companion','tools','tests','vendor','LICENSES','design','skills','.github'):
         if (root/folder).is_symlink():
             raise RuntimeError('Symlink in public source: '+folder)
         for file in (root/folder).rglob('*'):

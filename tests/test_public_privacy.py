@@ -66,6 +66,15 @@ class PublicPrivacyTests(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError,'Symlink'):
             public_files(self.root)
 
+    def test_shared_skills_are_exported_and_privacy_checked(self):
+        folder=self.root/'skills/example-skill';folder.mkdir(parents=True)
+        skill=folder/'SKILL.md';skill.write_text('Portable maintenance guidance.\n')
+        self.assertIn(skill,public_files(self.root))
+        self.assertTrue(check_privacy(self.root)['passed'])
+        skill.write_text('DUID: DEMONSTRATION-DEVICE-123456\n')
+        with self.assertRaisesRegex(RuntimeError,'serial number or DUID'):
+            check_privacy(self.root)
+
     def test_force_added_private_file_is_rejected_by_git_boundary(self):
         subprocess.run(['git','init','--quiet',str(self.root)],check=True)
         private=self.root/'.local/installation.txt';private.write_text('Private fixture.')

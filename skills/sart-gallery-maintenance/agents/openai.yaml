@@ -1,0 +1,4 @@
+interface:
+  display_name: "SART Gallery maintenance"
+  short_description: "Develop and validate SART Gallery for Samsung TVs"
+  default_prompt: "Use $sart-gallery-maintenance to improve SART Gallery and verify the affected behaviour without exposing private device or account information."

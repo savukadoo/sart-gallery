@@ -36,6 +36,12 @@ The browser runner starts its own loopback server and temporary library. It does
 - Label browser simulations accurately. They do not establish Samsung keyboard behaviour, native Art integration, physical-phone transfers or real panel appearance.
 - Record hardware acceptance privately. Never uninstall to test an update: independently verify saved images, preferences and certificate identity survive.
 
+## Reusable maintenance skill
+
+[SART Gallery maintenance](skills/sart-gallery-maintenance/SKILL.md) provides instructions for coding assistants working on this project. It maps the source files, records the important feature contracts, and explains which automated, browser and hardware checks apply to a change. It contains no account information, personal paths or device inventory.
+
+The whole `skills/sart-gallery-maintenance/` folder can be copied into an agent's skill directory. Work from the SART checkout and invoke `$sart-gallery-maintenance` where supported. Keep its references with it, and update the guide when the architecture changes. The skill does not grant access to accounts, repositories or TVs.
+
 ## Keep the public repository clean
 
 Do not commit credentials, signing profiles, certificate private keys, personal photos, deployment reports, screenshots of your network, device addresses, serial numbers or DUIDs. Use reserved example addresses in documentation. Redact private data before filing issues.
